@@ -1,0 +1,20 @@
+---
+aliases: [Directed Evolution, Human Self-Transcendence]
+tags: [Evolution, Transhumanism, Humanism, Concept]
+---
+
+# Conscious Evolution
+
+Conscious Evolution names the idea that humanity can deliberately guide its own future development. It can involve education, culture, psychology, biology, technology, or social planning.
+
+## Self-Transcendence
+
+The concept becomes attractive when humanity is seen as unfinished or transitional. Human beings may be able to become more than they are through conscious effort.
+
+This connects to [[The Overreacher]] and [[Forced Human Completion]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
+
+## Transhumanist Ambiguity
+
+Julian Huxley's *[[New Bottles for New Wine]]* is the key anchor in this vault because it gives an early humanist form of transhumanism. It is not identical with later digital immortality or cybernetic enhancement, but it opens the same question: who directs the future human, and by what standard?
+
+This concept overlaps with [[Manufactured Humanity]], [[Artificial Immortality]], and [[Evolutionary Humanism]].
