@@ -13,10 +13,14 @@ tags:
 
 ***The Man of the Crowd*** is Edgar Allan Poe's 1840 short story, in which a narrator, observing the throngs of London from a coffee house window, becomes fascinated by an old man whose face suggests a profound secret. He follows this man through the city's labyrinthine streets for an entire night, unable to comprehend his ceaseless wandering.
 
-## Technological Dystopia (Precursor)
+## The City as Unreadable Crowd
 
-While set in the 19th century, the story functions as a precursor to themes found in [[Technological Dystopia]]. The overwhelming, anonymous, and ceaseless flow of the urban crowd creates a sense of alienation and dehumanization. The city itself, with its intricate and indifferent mechanisms, becomes a force that both consumes and defines its inhabitants, foreshadowing later anxieties about modern industrial and technological societies.
+The story does not need a technological-dystopia link. Its force is urban and perceptual: the crowd is dense with signs, faces, classifications, and movements, yet the old man remains unreadable.
 
-## Artificial Woman as Double (Extended)
+This makes the note useful near [[Mediated Reality]]. The narrator believes he can read the city by watching it, but the more he follows, the more the city turns into a surface of endless interpretation.
 
-The concept of the [[Artificial Woman as Double]] can be extended here to explore the idea of the "double" or alter ego within the urban landscape. The narrator projects his own anxieties and interpretations onto the mysterious old man, who becomes a living enigma, a reflection of the city's hidden depths and the narrator's own psychological state. The old man's ceaseless, aimless wandering suggests a life devoid of genuine connection, a kind of living death within the anonymity of the crowd, mirroring the dehumanizing potential of the burgeoning modern city.
+## Pursuit Without Revelation
+
+The old man becomes a kind of externalized mystery for the narrator. He may be criminal, double, symptom, or simply a person who cannot be absorbed into the narrator's categories.
+
+This gives the story a limited relation to [[Double and Divided Self]], not because the old man is literally the narrator's double, but because Poe turns pursuit into a psychological mirror. The watcher exposes himself by trying to read another.

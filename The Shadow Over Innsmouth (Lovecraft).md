@@ -18,9 +18,9 @@ tags:
 
 The Deep Ones' influence on Innsmouth is a prime example of [[Evil as Psychic Contagion]], where a corrupting force spreads not just through action but through bloodline and environment. The gradual physical and mental degeneration of the town's inhabitants illustrates a profound hereditary corruption.
 
-## Fallen High Civilization
+## The Deep Ones and Ancient Continuity
 
-The Deep Ones represent a [[Fallen High Civilization]], an ancient, powerful, and non-human race whose advanced but alien ways have a corrupting effect on humanity. Their existence challenges human supremacy and sanity.
+The Deep Ones are ancient, powerful, and non-human, but they are not clearly a fallen high civilization. Their horror comes from continuity: they have been there all along, beneath ordinary coastal life, with promises of wealth, fertility, and transformation.
 
 ## Gnosticism and its Critics
 

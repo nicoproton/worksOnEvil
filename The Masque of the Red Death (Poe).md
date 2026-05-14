@@ -17,10 +17,10 @@ tags:
 
 Prince Prospero's elaborate abbey and his carefully curated masquerade represent a desperate attempt at [[False Salvation Through Systems]]. He believes that by walling himself off and controlling every aspect of his environment, he can defy the natural order and escape death. The Red Death's inevitable intrusion highlights the futility of such artificial defenses against fundamental realities.
 
-## Entropy and the Binding Force
+## The Clock and the Collapse of Revelry
 
-The story vividly illustrates [[Entropy and the Binding Force]]. Prospero's attempts to create an ordered, joyful, and eternal haven are ultimately overwhelmed by the entropic force of the Red Death, which represents decay and dissolution. The carefully constructed illusion of life and revelry collapses, demonstrating that no system can indefinitely resist the forces of chaos and death.
+Prospero's attempts to create an ordered, joyful, and sealed haven are interrupted by the clock and finally overwhelmed by the Red Death. The carefully constructed illusion of life and revelry collapses because the abbey cannot abolish mortality.
 
-## Self-Imprisoning Domination
+## The Abbey as Self-Made Prison
 
 Prospero's decision to seal himself and his courtiers away, while an act of self-preservation, also functions as a form of [[Self-Imprisoning Domination]]. In his desire to control his fate and escape the plague, he isolates himself from the world, and this isolation ultimately makes him a more concentrated target for the very force he sought to avoid. His dominion over his guests is absolute, but it is a dominion within a self-made prison.

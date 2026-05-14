@@ -17,10 +17,10 @@ tags:
 
 The legal system in *The Trial* functions as a perfect example of the [[Black Iron Prison]]. Its rules are unknowable, its processes are endless, and its judgments are inescapable, creating a reality of spiritual and physical captivity for Josef K.
 
-## Weaponized Rationalism and Engineered Consent
+## The Court's Internal Logic
 
-The court's logic, though absurd to an outsider, is internally consistent and relentlessly applied, showcasing [[Weaponized Rationalism]]. Josef K. is gradually worn down into accepting the court's authority, demonstrating a form of [[Engineered Consent]] where the victim internalizes the system's judgment.
+The court's logic, though absurd to an outsider, is internally consistent and relentlessly applied. This gives the novel a relation to [[Weaponized Rationalism]]: reason appears as procedure detached from truth, mercy, or intelligible accusation.
 
-## Self-Imprisoning Domination
+## Josef K.'s Captive Defense
 
 Josef K.'s struggle against the court, while seemingly an act of defiance, ultimately leads to his [[Self-Imprisoning Domination]]. His relentless pursuit of justice within the system's terms only further ensnares him, highlighting how resistance can become complicity when operating within a fundamentally flawed structure.

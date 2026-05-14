@@ -13,17 +13,21 @@ tags:
 
 ***The Shadow Out of Time*** is H.P. Lovecraft's 1936 novella, in which Professor Nathaniel Wingate Peaslee experiences a five-year period of amnesia, during which his mind is swapped with that of a member of the Great Race of Yith, an ancient, cone-shaped alien species capable of projecting their consciousness through time and space.
 
-## Stolen Life-Force Technology
+## Mind Exchange and Stolen Embodiment
 
-The core premise of the story—the Great Race's ability to swap minds across vast stretches of time and space—is a prime example of [[Stolen Life-Force Technology]]. They effectively "steal" the lives and bodies of other beings to escape impending planetary doom, using their advanced mental capabilities to appropriate the existence of others for their own survival and knowledge acquisition.
+The core premise of the story is the Great Race's ability to exchange minds across vast stretches of time and space. They do not merely observe history; they occupy other bodies, use other lives, and preserve themselves through temporal displacement.
 
-## Reincarnation and Cycles (Cosmic Scale)
+This is adjacent to life-force extraction, but the stronger issue is stolen embodiment: survival through another being's place in time.
 
-The Great Race's method of survival, involving the transfer of consciousness into new bodies across different eras, represents [[Reincarnation and Cycles]] on a cosmic and technological scale. It's not a spiritual rebirth but a systematic, scientific process of cycling through existence, highlighting a cyclical view of history and consciousness that transcends individual human lives and even species.
+## Survival Across Species and Ages
 
-## Fallen High Civilization
+The Great Race's method of survival resembles [[Reincarnation and Cycles]] in a cold, scientific register. It is not spiritual rebirth, but a systematic migration of consciousness through bodies and eras.
 
-The Great Race of Yith, despite their immense mental prowess and technological advancement, are presented as a [[Fallen High Civilization]]. Their original planet is doomed, and their existence is a continuous flight through time, inhabiting the bodies of other species. Their grandeur is tinged with a sense of loss and the inevitability of cosmic forces beyond even their control.
+## Archive Civilization
+
+The Great Race is not simply a fallen high civilization. It is an archive civilization: immense knowledge, vast historical memory, and technical mastery organized around survival against future catastrophe.
+
+That makes the story useful near fallen-civilization questions, but as a contrast. The Yith are not ruins; they are a civilization that survives by abandoning bodies, epochs, and species.
 
 ## Gnosticism and its Critics
 
