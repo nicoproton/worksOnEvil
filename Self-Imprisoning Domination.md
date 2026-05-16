@@ -13,6 +13,8 @@ The motif is a specific form of [[Privatio Boni]]. Evil seeks expansion through 
 
 Sauron in *[[The Lord of the Rings]]* pours himself into the Ring and becomes bound to the instrument of his own power. Porky in *[[Mother 3]]* seeks absolute control and ends in the Absolutely Safe Capsule, preserved but unreachable.
 
+Dorian in *[[The Picture of Dorian Gray]]* gains freedom from visible consequence, but that freedom contracts into secrecy, dependence, murder, and bondage to the hidden portrait.
+
 ## False Safety
 
 Absolute safety can become a form of damnation when it eliminates vulnerability, dependence, and relation. The tyrant wants to be untouchable, but touch is also the condition of love.

@@ -13,4 +13,6 @@ Use this link when guidance itself becomes the instrument of corruption.
 
 Sauron's role in the downfall of Numenor in *[[The Silmarillion]]* is one of the clearest mythic examples: he does not create the Numenoreans' fear of death, but redirects it into worship, conquest, and catastrophe.
 
+Lord Henry in *[[The Picture of Dorian Gray]]* gives the decadent social form. He corrupts by aphorism, charm, and aesthetic theory, turning real goods such as beauty and youth into permissions for self-destruction.
+
 Porky in *[[EarthBound]]* begins as a corrupted follower and becomes a corrupting ruler in *[[Mother 3]]*. His evil works by parodying authority, friendship, childhood, and safety.
