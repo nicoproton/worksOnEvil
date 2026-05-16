@@ -16,7 +16,7 @@ tags:
 
 ## Mikado as Sealed World
 
-The kingdom of Mikado is a literal [[Black Iron Prison]]. Its citizens live under a dome, protected by angels, and are kept ignorant of the outside world and their own history. This engineered isolation and the manipulation of information by the ruling elite and angelic forces perfectly embody a [[Layered Conspiracy]] designed to maintain a specific social order and prevent dissent.
+The kingdom of Mikado is a literal [[Black Iron Prison]]. Its citizens live under a dome, protected by angels, and are kept ignorant of the outside world and their own history. This engineered isolation and the manipulation of information by the ruling elite and angelic forces perfectly embody a [[Hidden Hand Above History]] designed to maintain a specific social order and prevent dissent.
 
 Mikado's pastoral surface is part of the trap. Its medieval appearance, class hierarchy, religious authority, and knightly ideals all conceal dependence on a hidden modern ruin. The kingdom presents itself as origin and sanctuary, but it is actually a curated remnant built over buried history.
 
@@ -24,7 +24,7 @@ This makes the prison epistemic as much as physical. Citizens do not merely lack
 
 ## False Salvation Through Systems
 
-The angelic faction, representing the "Law" alignment, offers a vision of salvation that involves strict control, the elimination of "impure" elements, and a rigid social hierarchy. This presents a clear example of [[False Salvation Through Systems]], where a promised utopia comes at the cost of individual freedom and truth, enforced by a powerful, dogmatic system.
+The angelic faction, representing the "Law" alignment, offers a vision of salvation that involves strict control, the elimination of "impure" elements, and a rigid social hierarchy. This presents a clear example of [[Purification by Exclusion]], where a promised utopia comes at the cost of individual freedom and truth, enforced by a powerful, dogmatic system.
 
 The Law vision is seductive because it answers real terror. Tokyo is violent, demon-haunted, and politically fractured; a purified order can seem merciful by comparison. The game is strongest when it lets that temptation remain legible rather than reducing Law to villainy.
 

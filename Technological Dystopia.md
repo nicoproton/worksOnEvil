@@ -11,7 +11,7 @@ Common signs include managed happiness, artificial immortality, social engineeri
 
 Use this link when technology shapes the structure of domination, not merely when machines appear in a work.
 
-Related patterns include [[Machine as God]], where technological dependence becomes reverence; [[Engineered Happiness]], where desire is conditioned into stability; [[Manufactured Humanity]], where persons are designed as products; and [[False Salvation Through Systems]], where technical order promises to solve suffering by narrowing what counts as human life.
+Use more precise bridge concepts when possible. [[Total Technical Environment]] applies when technology becomes the inhabited world rather than a tool within it. [[Machine as God]] applies when technological dependence becomes reverence. [[Engineered Happiness]] applies when desire is conditioned into stability. [[Manufactured Humanity]] and its bridge concepts apply when persons are designed as products. [[Scientific World State]] applies when expert planning becomes planetary political order. [[Technetronic Society]] applies when control becomes informational, electronic, and media-saturated.
 
 Some works emphasize extraction rather than control. In those cases, [[Stolen Life-Force Technology]] is the more precise hub: technology expands by draining spirits, worlds, ecosystems, or living bodies.
 

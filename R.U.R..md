@@ -12,7 +12,7 @@ tags:
 
 # R.U.R.
 
-***R.U.R.*** (*Rossum's Universal Robots*) is Karel Capek's 1921 play, famous for introducing the word "robot" into modern science fiction. Its robots are not metal machines but artificial biological workers, manufactured as laboring persons without the full inwardness, history, or social bonds of human life. The play connects directly to [[Manufactured Humanity]], [[Technological Dystopia]], [[Artificial Immortality]], and the older question of artificial life.
+***R.U.R.*** (*Rossum's Universal Robots*) is Karel Capek's 1921 play, famous for introducing the word "robot" into modern science fiction. Its robots are not metal machines but artificial biological workers, manufactured as laboring persons without the full inwardness, history, or social bonds of human life. The play connects directly to [[Disposable Artificial Person]], [[Sterile Imitation]], and the older question of artificial life.
 
 ## The Factory Island
 
@@ -24,7 +24,7 @@ This turns artificial life into political economy. The robots exist to free huma
 
 Capek's robots resemble humans, but they are made without the emotional and historical depth that would make them fully human in ordinary terms. They are efficient because they have been reduced.
 
-That reduction gives the play its relation to [[Privatio Boni]]. The robots are not evil because they are artificial; the evil lies in the human attempt to create laboring life by subtracting interiority, memory, and moral reciprocity.
+That reduction gives the play its relation to [[Sterile Imitation]]. The robots are not evil because they are artificial; the evil lies in the human attempt to create laboring life by subtracting interiority, memory, and moral reciprocity.
 
 ## Helena's Compassion
 

@@ -25,7 +25,7 @@ The old world is therefore a case of [[Fallen High Civilization]]. Its scientifi
 
 Isaac Leibowitz, an engineer who survives the war, becomes the founder of a monastic order dedicated to preserving scraps of knowledge. The monks copy, memorize, hide, and illuminate documents they often barely understand.
 
-This is a central case for [[Entropy and the Binding Force]]. The abbey's discipline does not defeat history, but it keeps a thread of memory alive across centuries of barbarism, Renaissance, and renewed crisis.
+This is a central case for [[Memory Against Dissolution]]. The abbey's discipline does not defeat history, but it keeps a thread of memory alive across centuries of barbarism, Renaissance, and renewed crisis.
 
 ## Memorabilia and Misunderstanding
 

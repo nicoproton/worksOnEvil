@@ -17,7 +17,7 @@ This links it to [[Global Problematique]]. The problem may be real, while the pr
 
 A scientific world state requires more than law. It needs people to imagine themselves as world citizens and to accept new loyalties, values, and institutions.
 
-This connects the concept to [[Engineered Consent]], [[Education and the Social Order]], and [[UNESCO - Its Purpose and Its Philosophy]].
+This connects the concept to [[World-Consciousness Formation]], [[Education and the Social Order]], and [[UNESCO - Its Purpose and Its Philosophy]].
 
 ## Wells as Main Anchor
 

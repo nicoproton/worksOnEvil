@@ -29,10 +29,10 @@ This is especially useful for [[Forced Human Completion]]. Systems that abolish 
 
 Koestler's title criticizes simplistic models of mind and mechanism. Human beings are not reducible to machines, yet they are also not disembodied ghosts. The problem is the unstable relation between biological inheritance, symbolic consciousness, and social order.
 
-This makes the book relevant to [[Manufactured Humanity]] and [[Machine as God]]. Mechanistic views of the person become dangerous when they invite technical redesign without understanding the layered nature of human life.
+This makes the book relevant to [[Designed Successor Humanity]] and [[Machine as God]]. Mechanistic views of the person become dangerous when they invite technical redesign without understanding the layered nature of human life.
 
 ## Aggression and Misfit
 
 Koestler is concerned with the destructive mismatch between older biological drives and newer symbolic capacities. Human violence can become catastrophic because symbolic systems amplify impulses beyond their original scale.
 
-This links the book to [[Weaponized Rationalism]]: intelligence, symbols, and organization can magnify disorder when they are not integrated into a healthy whole.
+This links the book to [[Abstraction Without Prudence]]: intelligence, symbols, and organization can magnify disorder when they are not integrated into a healthy whole.

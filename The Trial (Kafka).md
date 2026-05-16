@@ -19,7 +19,7 @@ The legal system in *The Trial* functions as a perfect example of the [[Black Ir
 
 ## The Court's Internal Logic
 
-The court's logic, though absurd to an outsider, is internally consistent and relentlessly applied. This gives the novel a relation to [[Weaponized Rationalism]]: reason appears as procedure detached from truth, mercy, or intelligible accusation.
+The court's logic, though absurd to an outsider, is internally consistent and relentlessly applied. This gives the novel a relation to [[Abstraction Without Prudence]]: reason appears as procedure detached from truth, mercy, or intelligible accusation.
 
 ## Josef K.'s Captive Defense
 

@@ -24,7 +24,7 @@ This makes the series a major case for [[Cosmic Axis Under Siege]]. Evil does no
 
 Roland's world is post-apocalyptic in a strange and layered sense. Kingdoms, cities, machines, languages, and customs survive after the order that once sustained them has decayed. The world has "moved on": space, time, memory, and technology no longer cohere as they should.
 
-That places the series near [[Fallen High Civilization]] and [[Entropy and the Binding Force]]. The ruin is not only material. Reality itself seems loosened, and the good must survive through oath, memory, path, ka-tet, and stubborn fidelity.
+That places the series near [[Fallen High Civilization]] and [[World Wound and Long Decline]]. The ruin is not only material. Reality itself seems loosened, and the good must survive through oath, memory, path, ka-tet, and stubborn fidelity.
 
 ## The Great Old Ones and Evil Technology
 

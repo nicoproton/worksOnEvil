@@ -11,7 +11,7 @@ tags: [Science, Society, Politics, Technocracy]
 
 Russell treats science as more than discovery. It becomes technique: a set of powers that can be applied to production, military force, propaganda, medicine, population, and education.
 
-This gives the graph a strong support for [[Weaponized Rationalism]]. Reason becomes dangerous when its technical success is detached from moral ends and absorbed by institutions of power.
+This gives the graph a strong support for [[Scientific World State]]. Reason becomes dangerous when its technical success is detached from moral ends and absorbed by institutions of power.
 
 ## Organization and Officialdom
 
@@ -21,7 +21,7 @@ This is close to the institutional danger in *[[That Hideous Strength]]*. The pr
 
 ## Population and Conditioning
 
-Russell's discussion of population and social control makes the book relevant to [[Engineered Happiness]] and [[Forced Human Completion]]. The scientific management of society can aim not only at external behavior, but at desire, belief, reproduction, and psychological adaptation.
+Russell's discussion of population and social control makes the book relevant to [[Programmed Contentment]] and [[Forced Human Completion]]. The scientific management of society can aim not only at external behavior, but at desire, belief, reproduction, and psychological adaptation.
 
 That gives the vault a bridge between dystopian fiction and real twentieth-century anxieties about propaganda, education, eugenics, birth control, and mass administration.
 
@@ -29,4 +29,4 @@ That gives the vault a bridge between dystopian fiction and real twentieth-centu
 
 Russell often treats world government as a possible answer to the destructive power unleashed by science, especially nuclear war. The ambiguity is important: the same scientific development that threatens catastrophe also seems to require larger systems of control to prevent it.
 
-This is one of the book's strongest connections to [[False Salvation Through Systems]]. The system may be proposed as a necessary cure for catastrophe, but the cure itself can become a new form of domination.
+This is one of the book's strongest connections to [[Managed Crisis]]. The system may be proposed as a necessary cure for catastrophe, but the cure itself can become a new form of domination.

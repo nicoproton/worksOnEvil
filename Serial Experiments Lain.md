@@ -19,7 +19,7 @@ The series should not be treated simply as "the internet is unreal." Its sharper
 
 The series begins after Chisa Yomoda's suicide, when classmates receive emails from her claiming she is not dead but has abandoned her body and entered the Wired. Lain's first contact with the network is therefore already spiritualized: death, communication, and disembodiment arrive together.
 
-This makes the series a strong case for [[Artificial Immortality]]. Survival in the network appears possible, but only by loosening or abandoning embodied life.
+This makes the series a strong case for [[Disembodied Persistence]]. Survival in the network appears possible, but only by loosening or abandoning embodied life.
 
 The terror is not only that Chisa may continue after death. It is that the network can make disembodied survival seem more real, more communicable, and more socially persuasive than ordinary embodied presence. The dead girl's message is the seed of the whole series: if the body is no longer necessary, then personhood itself has become negotiable.
 

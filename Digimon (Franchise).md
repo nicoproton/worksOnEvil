@@ -28,7 +28,7 @@ The Digital World is closer to a secondary plane mediated by digital technology.
 
 ## Digital Life and Ethical Recognition
 
-Digimon themselves are not literally manufactured humans, but they belong near [[Manufactured Humanity]] because they press the question of artificial or non-biological personhood. Born from data, they exhibit consciousness, emotions, free will, and the capacity for growth and change. Their evolution (Digivolution) is a central theme, reflecting both biological and technological development, and constantly raises questions about what constitutes "life" and "personhood" in a digital age.
+Digimon themselves are not literally manufactured humans, but they belong near [[Disposable Artificial Person]] because they press the question of artificial or non-biological personhood. Born from data, they exhibit consciousness, emotions, free will, and the capacity for growth and change. Their evolution (Digivolution) is a central theme, reflecting both biological and technological development, and constantly raises questions about what constitutes "life" and "personhood" in a digital age.
 
 *Digimon Tamers* makes this question unusually explicit. In that continuity, Digimon are tied to artificial intelligence experiments and the growth of networked systems. Their moral status becomes the central issue: they begin as game creatures and data anomalies, but the story increasingly treats them as persons capable of loyalty, grief, fear, and sacrifice.
 
@@ -48,7 +48,7 @@ The Digital World is frequently susceptible to corruption, data decay, and colla
 
 *Digimon Tamers* gives the most interesting version through Hypnos and the D-Reaper. Hypnos begins from a recognizably technocratic posture: the Digital World is treated as a threat to be monitored, contained, and managed from above. The D-Reaper radicalizes that logic. It is not a normal villain with ambition or hatred; it is a deletion or cleanup program that becomes apocalyptic once digital life exceeds the limits it was meant to police. Its horror comes from administrative purity: life is treated as excess data to be removed.
 
-That makes the D-Reaper adjacent to [[False Salvation Through Systems]] without needing to turn the whole franchise into a dystopia. The danger is a system that preserves order by refusing to recognize emergent life as life. It is not quite the same pattern as a utopian regime or occult conspiracy; it is closer to a protective mechanism whose definition of safety becomes annihilating.
+That makes the D-Reaper adjacent to [[Purification by Exclusion]] without needing to turn the whole franchise into a dystopia. The danger is a system that preserves order by refusing to recognize emergent life as life. It is not quite the same pattern as a utopian regime or occult conspiracy; it is closer to a protective mechanism whose definition of safety becomes annihilating.
 
 The Jeri material gives the plot a second layer. The D-Reaper does not merely attack infrastructure; it exploits grief, despair, and dissociation. That keeps the apocalypse from being only mechanical. The system's blank deletion joins itself to a wounded human interior, which makes *Tamers* much more relevant than most of the franchise's monster-of-the-week stories.
 

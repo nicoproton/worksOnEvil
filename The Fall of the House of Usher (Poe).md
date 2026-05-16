@@ -15,7 +15,7 @@ tags:
 
 ## House, Bloodline, and Collapse
 
-The story is a powerful illustration of [[Entropy and the Binding Force]]. The Usher family line and their ancestral home are inextricably linked, and both are in an advanced state of decay. The physical deterioration of the mansion mirrors the psychological and physical decline of its inhabitants, demonstrating how the binding force of their lineage and environment is succumbing to entropy, leading to a complete collapse.
+The story is a powerful illustration of [[World Wound and Long Decline]]. The Usher family line and their ancestral home are inextricably linked, and both are in an advanced state of decay. The physical deterioration of the mansion mirrors the psychological and physical decline of its inhabitants, demonstrating how the binding force of their lineage and environment is succumbing to entropy, leading to a complete collapse.
 
 The house is not only a setting but a body for the family. Its fissure, oppressive atmosphere, and final sinking make visible a lineage that can no longer renew itself. The family has become too closed, too self-reflective, and too bound to its own decay.
 

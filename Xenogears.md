@@ -18,19 +18,19 @@ tags:
 
 Solaris is a hidden floating empire that governs the surface world while concealing itself from ordinary perception. Surface dwellers are called "lambs" and treated as inferior material for labor, experiment, and control.
 
-This is a strong instance of [[Layered Conspiracy]]. The surface world has politics, wars, and religions, but these visible conflicts are manipulated by a higher hidden order.
+This is a strong instance of [[Hidden Hand Above History]]. The surface world has politics, wars, and religions, but these visible conflicts are manipulated by a higher hidden order.
 
 ## Humans as Material
 
 The Solarian system does not merely rule people; it classifies and processes them. Human beings become biological, social, and technological material within a larger plan.
 
-This connects *Xenogears* to [[Manufactured Humanity]] and [[Forced Human Completion]]. The system's goal is not to let humanity remain human, but to prepare, sort, or transform human life for purposes imposed from above.
+This connects *Xenogears* to [[Designed Successor Humanity]] and [[Weaponized Personhood]]. The system's goal is not to let humanity remain human, but to prepare, sort, or transform human life for purposes imposed from above.
 
 ## Deus and the False God
 
 Deus is a god-machine whose restoration drives the hidden structure of the world. Religion, state power, and technology are entangled in the preparation of its return.
 
-This gives the game a strong relation to [[Machine as God]] and [[Occult Science]]. The divine appears as machinery, while machinery is surrounded by ritual, prophecy, and metaphysical deception.
+This gives the game a strong relation to [[Machine as God]] and [[Ritual Technology]]. The divine appears as machinery, while machinery is surrounded by ritual, prophecy, and metaphysical deception.
 
 ## Gnostic Machinery
 

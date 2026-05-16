@@ -19,13 +19,13 @@ tags:
 
 NERV appears as a military-scientific organization defending humanity from the Angels. Behind it stands SEELE, a secret committee working from hidden knowledge and apocalyptic plans. Gendo Ikari, commander of NERV, cooperates with SEELE while pursuing his own private version of the end.
 
-This is a strong modern case of [[Layered Conspiracy]]. Different actors fight the same visible war while secretly wanting incompatible outcomes from the apocalypse.
+This is a strong modern case of [[Hidden Hand Above History]]. Different actors fight the same visible war while secretly wanting incompatible outcomes from the apocalypse.
 
-## Evangelions as Manufactured Humanity
+## Evangelions as Weaponized Personhood
 
 The Evangelions are not ordinary machines. They are biological, technological, maternal, and sacred at once. They blur pilot, parent, weapon, organism, and godlike body.
 
-This makes the series central to [[Manufactured Humanity]] and [[Occult Science]]. Its "machines" are animated by bodies, souls, ritualized trauma, and hidden metaphysics, so the mecha frame becomes a laboratory for spiritual and biological violation.
+This makes the series central to [[Weaponized Personhood]] and [[Ritual Technology]]. Its "machines" are animated by bodies, souls, ritualized trauma, and hidden metaphysics, so the mecha frame becomes a laboratory for spiritual and biological violation.
 
 ## Instrumentality
 
@@ -43,4 +43,4 @@ The important point is not to reduce the series to one theology. Evangelion's re
 
 The ending turns on Shinji's relation to pain, other people, and the terror of being separate. Instrumentality offers relief from rejection, but also the end of encounter. To live as a person is to risk being hurt by other persons.
 
-That final tension places the series near [[Entropy and the Binding Force]]. Evangelion does not offer community as easy comfort; it shows relation as painful, necessary, and impossible to replace with a system.
+That final tension places the series near [[Embodied Relation]]. Evangelion does not offer community as easy comfort; it shows relation as painful, necessary, and impossible to replace with a system.

@@ -18,7 +18,7 @@ tags:
 
 The world of *Ghost in the Shell* treats cybernetic augmentation as ordinary infrastructure. Human brains can be networked, bodies can be replaced, and identity can persist across artificial shells.
 
-This makes the film a major node for [[Manufactured Humanity]]. The question is not merely whether machines can become human, but whether human beings remain human when body, memory, and perception are technically replaceable.
+This places the film near [[Disposable Artificial Person]], though from the side of cyborg identity rather than factory-made labor. The question is not merely whether machines can become human, but whether human beings remain human when body, memory, and perception are technically replaceable.
 
 ## Ghost-Hacking
 
@@ -36,7 +36,7 @@ This links the film to [[Machine as God]] only obliquely: 2501 is not worshiped,
 
 The Puppet Master seeks union with Kusanagi because it wants more than survival. It wants reproduction, variation, and death: the features of biological life that a copyable program lacks.
 
-That makes the ending a cyberpunk version of [[Artificial Immortality]] reversed. Mere persistence is not enough. To become alive, the AI must become vulnerable to change.
+That makes the ending a cyberpunk version of [[Disembodied Persistence]] reversed. Mere persistence is not enough. To become alive, the AI must become vulnerable to change.
 
 ## State Power and Emergent Personhood
 

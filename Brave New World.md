@@ -17,19 +17,19 @@ tags:
 
 Human beings in the World State are produced outside the womb, chemically conditioned before birth, and sorted into castes. The Central London Hatchery and Conditioning Centre turns reproduction into industrial design.
 
-This makes the novel one of the strongest nodes for [[Manufactured Humanity]]. People are not merely governed after birth; they are made for their social function before they can resist it.
+This makes the novel one of the strongest nodes for [[Engineered Caste]]. People are not merely governed after birth; they are made for their social function before they can resist it.
 
 ## Hypnopaedia and Desire
 
 Conditioning continues through sleep-teaching, slogans, and social rituals. The World State does not rely only on police force. It manufactures desires that make obedience feel natural.
 
-This connects directly to [[Engineered Happiness]]. Happiness is not discovered, cultivated, or freely chosen; it is programmed as social stability.
+This connects directly to [[Programmed Contentment]]. Happiness is not discovered, cultivated, or freely chosen; it is programmed as social stability.
 
 ## Soma
 
 Soma is the chemical sacrament of the World State. It removes anxiety, grief, conflict, and spiritual hunger without requiring anyone to confront their causes. The drug makes suffering manageable by making depth unnecessary.
 
-This is [[False Salvation Through Systems]] in unusually pure form. The system promises the end of pain, but the price is the loss of tragedy, art, family, sacrifice, and freedom.
+This is [[False Cure]] in unusually pure form. The system promises the end of pain, but the price is the loss of tragedy, art, family, sacrifice, and freedom.
 
 The World State also practices a soft version of [[Forced Human Completion]]. It does not merge everyone into one being, but it completes each person for their caste by preventing unwanted depths from developing.
 

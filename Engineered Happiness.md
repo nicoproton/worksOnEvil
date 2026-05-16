@@ -11,7 +11,7 @@ Common forms include conditioning, drugs, simulated environments, entertainment,
 
 Use this link when a work asks what is missing from a world that has solved pain by redesigning the human subject.
 
-*Psycho-Pass* gives the concept a surveillance-state form: social peace is produced by measuring, managing, and preemptively correcting the population's inner life.
+Use more precise bridge concepts when possible. [[Programmed Contentment]] applies when social stability is produced by conditioning, education, psychology, caste formation, or measurement of inner life. [[Pleasure as Control]] applies when pleasure, comfort, entertainment, consumer desire, or mood adjustment becomes the cage.
 
 Russell's *The Scientific Outlook* and *The Impact of Science on Society* make the concept usable beyond fiction by treating education, conditioning, population, and social psychology as possible objects of scientific administration.
 

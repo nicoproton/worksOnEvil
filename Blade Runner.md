@@ -17,7 +17,7 @@ tags:
 
 Replicants are synthetic humanoids created by the Tyrell Corporation for off-world labor. They are stronger than humans, legally disposable, and given deliberately shortened lifespans. Their rebellion begins with the demand for more life.
 
-This makes the film a major node for [[Manufactured Humanity]] and [[Artificial Immortality]]. The replicants do not seek abstract domination; they seek an extension of lives intentionally engineered to expire.
+This makes the film a major node for [[Disposable Artificial Person]] and [[Designed Mortality]]. The replicants do not seek abstract domination; they seek an extension of lives intentionally engineered to expire.
 
 ## Tyrell's Pyramid
 

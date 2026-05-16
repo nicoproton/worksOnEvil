@@ -24,7 +24,7 @@ This gives the tale a strong relation to [[Simulated Reality]], though in psycho
 
 The figures of Coppelius and Coppola link violence, optics, and hidden manipulation. Lenses, eyes, seeing, and being deceived become the tale's central machinery. What matters is not only what Nathanael sees, but what has taught him to see wrongly.
 
-This places the story near [[Occult Science]]. Hoffmann's world blurs experiment, alchemy, optics, and demonic suggestion until scientific apparatus feels like a ritual instrument.
+This places the story near [[Sorcerer-Scientist]]. Hoffmann's world blurs experiment, alchemy, optics, and demonic suggestion until scientific apparatus feels like a ritual instrument.
 
 ## Olympia as Artificial Woman
 

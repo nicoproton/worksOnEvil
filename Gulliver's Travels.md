@@ -17,13 +17,13 @@ tags:
 
 Laputa is a flying island governed by mathematicians, astronomers, and theorists whose attention has drifted away from ordinary life. Its people require physical reminders to listen or speak, and their practical affairs are absurdly mismanaged because abstract calculation has displaced embodied judgment.
 
-The island's ability to hover over rebellious territories turns abstraction into political force. Laputa is an early satire of [[Technological Dystopia]] in which rule from above becomes literal: the elite are not hidden underground, but suspended above the people they can crush.
+The island's ability to hover over rebellious territories turns abstraction into political force. Laputa is an early satire of [[Abstraction Without Prudence]] in which rule from above becomes literal: the elite are not hidden underground, but suspended above the people they can crush.
 
 ## Lagado and Useless Experiment
 
 The Academy of Lagado is filled with projectors trying to reverse, improve, or rationalize nature through absurd experiments: extracting sunbeams from cucumbers, rebuilding food from excrement, or constructing houses from the roof downward. Swift's joke is not anti-intellectual laziness; it is a critique of knowledge severed from prudence.
 
-Lagado is a laboratory of [[Weaponized Rationalism]] in comic form. Its projects waste matter, labor, and attention because the experimenters treat the world as a puzzle for ingenuity rather than a shared home requiring care.
+Lagado is a laboratory of [[Abstraction Without Prudence]] in comic form. Its projects waste matter, labor, and attention because the experimenters treat the world as a puzzle for ingenuity rather than a shared home requiring care.
 
 ## The Houyhnhnms and Pure Reason
 
@@ -35,7 +35,7 @@ Their cold discussion of eliminating the Yahoos shows the danger of reason witho
 
 Gulliver returns home unable to bear ordinary human presence. His disgust with humanity is not wisdom but deformation. He has learned to judge human beings by an impossible rational standard and can no longer live among them.
 
-That ending is one of Swift's sharpest warnings. The dream of purified reason does not heal Gulliver; it destroys his capacity for fellowship. The satire therefore belongs near [[Entropy and the Binding Force]], because the loss of imperfect human relation is shown as a kind of living death.
+That ending is one of Swift's sharpest warnings. The dream of purified reason does not heal Gulliver; it destroys his capacity for fellowship. The satire therefore belongs near [[Embodied Relation]], because the loss of imperfect human relation is shown as a kind of living death.
 
 ## A Prehistory of Technocratic Satire
 

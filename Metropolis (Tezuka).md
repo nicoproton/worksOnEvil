@@ -18,13 +18,13 @@ tags:
 
 Mitchy is made from artificial cells and raised without knowing the truth of their origin. The central wound is not simply artificiality, but discovery: Mitchy learns that they were made as a tool and that powerful adults want to exploit them.
 
-This places the manga beside [[Manufactured Humanity]]. Tezuka asks what happens when a made being is human enough to suffer from being treated as an instrument.
+This places the manga beside [[Disposable Artificial Person]]. Tezuka asks what happens when a made being is human enough to suffer from being treated as an instrument.
 
 ## Duke Red and the Weaponized Body
 
 Duke Red wants to use Mitchy's powers for domination. Artificial life becomes politically valuable because it can be converted into a weapon. The problem is not creation alone, but creation captured by power.
 
-That makes the manga a bridge between [[Technological Dystopia]] and [[Layered Conspiracy]]. The Red Party's secrecy and Duke Red's manipulation turn scientific creation into a tool for rule.
+That makes the manga a bridge between [[Weaponized Personhood]] and [[Layered Conspiracy]]. The Red Party's secrecy and Duke Red's manipulation turn scientific creation into a tool for rule.
 
 ## Human, Robot, or Successor Species
 

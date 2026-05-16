@@ -29,7 +29,7 @@ This makes the text a strong anchor for [[Communal Reproduction]]. The future hu
 
 The city's walls display knowledge through images, making the built environment itself educational. Citizens are formed by the city's symbolic order.
 
-This links the work to [[Engineered Consent]] and [[Language as Control System]]. The city teaches by surrounding its people with an organized worldview.
+This links the work to [[Noble Lie]] and [[Language as Control System]]. The city teaches by surrounding its people with an organized worldview.
 
 ## Utopia as Total Pedagogy
 

@@ -17,19 +17,19 @@ tags:
 
 The Nowhere Islands begin as a community organized around memory loss, simplicity, and mutual dependence. Their peace is not innocence without cost, but it has a real binding force.
 
-The Pigmask invasion introduces money, status, infrastructure, spectacle, and technological convenience. This gives the game a social form of [[Technological Dystopia]]: corruption arrives not as one machine, but as a new way of desiring.
+The Pigmask invasion introduces money, status, infrastructure, spectacle, and technological convenience. This gives the game a social form of [[Pleasure as Control]]: corruption arrives not as one machine, but as a new way of desiring.
 
 ## Happy Boxes and Manufactured Desire
 
 Happy Boxes spread through homes as entertainment devices that reshape attention and desire. People begin to orient themselves around the new objects, and social life is reorganized by the pleasures they mediate.
 
-This links the game to [[Mediated Reality]] and [[Engineered Happiness]]. The device does not need to command openly; it changes what people want to look at, own, and become.
+This links the game to [[Mediated Reality]] and [[Pleasure as Control]]. The device does not need to command openly; it changes what people want to look at, own, and become.
 
 ## Chimeras and Technological Marring
 
 The Chimera Laboratory fuses animals, machines, and artificial design into grotesque hybrid creatures. Life is not respected as given; it is remixed for utility, novelty, and domination.
 
-This gives the game a strong link to [[Manufactured Humanity]] by extension and to [[Enchantment vs Magic]] by contrast. Porky's order does not sub-create; it mars and recombines life as a display of will.
+This gives the game a strong link to [[Weaponized Personhood]] by extension and to [[Enchantment vs Magic]] by contrast. Porky's order does not sub-create; it mars and recombines life as a display of will.
 
 ## Porky as Self-Crowned Ruler
 
@@ -41,7 +41,7 @@ This links him to [[Self-Imprisoning Domination]]. Like Sauron in *[[The Lord of
 
 The Absolutely Safe Capsule is the perfect symbol of Porky's end. It protects him from everything, but also seals him away from all relation forever. Absolute safety becomes absolute privation.
 
-This is one of the clearest game images of [[Privatio Boni]]. Porky's immortality does not make him more alive. It preserves him as a cut-off will, unable to die, rule, love, or be reached.
+This is one of the clearest game images of [[Disordered Love]]. Porky's immortality does not make him more alive. It preserves him as a cut-off will, unable to die, rule, love, or be reached.
 
 ## The Dragon and the Final Pull
 

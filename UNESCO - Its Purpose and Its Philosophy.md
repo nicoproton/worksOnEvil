@@ -24,7 +24,7 @@ This makes the work a major anchor for [[Evolutionary Humanism]]. Unlike older r
 
 UNESCO's purpose is not only technical cooperation. It is the formation of minds capable of world citizenship. Education becomes a means of shaping shared values, peace, and planetary consciousness.
 
-This links the work to [[Engineered Consent]] and [[Global Problematique]]. The global problem is not only institutional; it is psychological and cultural.
+This links the work to [[World-Consciousness Formation]] and [[Global Problematique]]. The global problem is not only institutional; it is psychological and cultural.
 
 ## Unity and Diversity
 

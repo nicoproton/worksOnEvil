@@ -23,7 +23,7 @@ This gives the work a strong relation to technological dystopia. The city is mod
 
 Akira and the other Espers are products of a government project investigating psychic power. Their bodies appear childlike and aged, fragile and immense, human and no longer normally human.
 
-This links *Akira* to [[Manufactured Humanity]], though through psychic experimentation rather than robotics or cloning. The state tries to produce or contain a new form of human power, then discovers that it has awakened something beyond its command.
+This links *Akira* to [[Weaponized Personhood]], though through psychic experimentation rather than robotics or cloning. The state tries to produce or contain a new form of human power, then discovers that it has awakened something beyond its command.
 
 ## Tetsuo's Transformation
 
@@ -41,4 +41,4 @@ This connects the work to [[Forced Human Completion]] in an unstable way. Psychi
 
 The ending leaves Neo-Tokyo shattered but not empty. Kaneda and the surviving youth claim the ruins as their own, resisting both foreign intervention and the systems that produced the catastrophe.
 
-That gives the work a rough, street-level relation to [[Entropy and the Binding Force]]. The binding force is not monastic, theological, or orderly; it is survival, friendship, defiance, and shared life among ruins.
+That gives the work a rough, street-level relation to [[Fragile Counter-Community]]. The binding force is not monastic, theological, or orderly; it is survival, friendship, defiance, and shared life among ruins.

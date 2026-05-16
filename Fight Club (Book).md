@@ -17,7 +17,7 @@ tags:
 
 The narrator begins inside a world of catalog furniture, corporate work, support groups, and branded selfhood. His life is comfortable but hollow, and the comfort fails to become meaning.
 
-This gives the novel a sharp but non-technocratic relation to [[Engineered Happiness]]. The happiness on offer is not a state program like *Brave New World*; it is consumer sedation, a life made bearable by surfaces.
+This gives the novel a sharp but non-technocratic relation to [[Pleasure as Control]]. The happiness on offer is not a state program like *Brave New World*; it is consumer sedation, a life made bearable by surfaces.
 
 The support groups complicate the satire. They are not simply false; they give the narrator the only intimacy he can access at the beginning of the novel. He learns to cry, sleep, and be held through borrowed suffering. That makes his later revolt more troubling: he rejects consumer emptiness, but he also rejects the vulnerable forms of relation that had briefly restored him.
 
@@ -37,7 +37,7 @@ That is why the double is dangerous. Tyler does not only reveal repressed desire
 
 Project Mayhem begins as rebellion against consumer passivity, but becomes a rigid, anonymous, obedient system. It replaces one form of managed life with another.
 
-This highlights [[False Salvation Through Systems]]: a movement promising awakening and freedom becomes a new apparatus of control.
+This highlights [[Good Captured by Evil]]: a movement promising awakening and freedom becomes a new apparatus of control.
 
 The shift from fight club to Project Mayhem is the novel's crucial institutional turn. Fight club still contains mutuality, danger, and recognition: two people meet, strike, bleed, and discover that the body is real. Project Mayhem abstracts that bodily awakening into doctrine. Names disappear, obedience replaces encounter, and violence becomes administration.
 

@@ -23,7 +23,7 @@ This links the book to [[Language as Control System]]. Public language does not 
 
 Lippmann's phrase "manufacture of consent" names the organized production of public agreement under modern conditions. Consent becomes something assembled through expertise, media, selection, and symbolic framing.
 
-This gives the book a strong connection to [[Engineered Consent]] and [[Elite Network Historiography]]. The issue is not a single hidden puppet-master, but the practical difficulty of democratic judgment in a society mediated by specialists and institutions.
+This gives the book a strong connection to [[Public Opinion Engineering]] and [[Elite Network Historiography]]. The issue is not a single hidden puppet-master, but the practical difficulty of democratic judgment in a society mediated by specialists and institutions.
 
 ## The Expert and the Public
 

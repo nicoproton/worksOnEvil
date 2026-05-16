@@ -43,4 +43,4 @@ The difference is that the prison is made by machines rather than by a metaphysi
 
 Zion, the underground city of free humans, is imperfect and materially harsh, but it is real. Its importance is not comfort but embodiment: food, sweat, dance, danger, touch, and shared vulnerability.
 
-This places the film near [[Entropy and the Binding Force]]. Human freedom is not only correct information about the simulation; it is the recovery of bodies and communities outside the system that managed them.
+This places the film near [[Embodied Relation]]. Human freedom is not only correct information about the simulation; it is the recovery of bodies and communities outside the system that managed them.

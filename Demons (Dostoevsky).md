@@ -21,7 +21,7 @@ tags:
 
 Pyotr Verkhovensky organizes a revolutionary cell by convincing its members that they belong to a vast hidden network. Much of that network is theatrical. Its power lies in belief, intimidation, and the fear that everyone else is already committed.
 
-This is a psychological version of [[Layered Conspiracy]]. Pyotr uses the fantasy of secret structure to produce real obedience. The members are bound less by shared doctrine than by manipulation, blackmail, and eventual complicity.
+This is a psychological version of [[Graded Initiation]]. Pyotr uses the fantasy of secret structure to produce real obedience. The members are bound less by shared doctrine than by manipulation, blackmail, and eventual complicity.
 
 ## Stavrogin as Spiritual Void
 
@@ -51,4 +51,4 @@ In *Demons*, this temptation appears not as benevolent religious tyranny but as 
 
 Dostoevsky frames ideological possession as a symptom of severed spiritual life. Westernized abstraction, wounded pride, and loss of faith create a vacuum in which destructive ideas can become substitutes for religion.
 
-The novel's counterforce is not a program but a difficult return to humility, repentance, and love. That places it near [[Entropy and the Binding Force]], because the town collapses when no shared moral gravity can hold persons together.
+The novel's counterforce is not a program but a difficult return to humility, repentance, and love. That places it near [[Fragile Counter-Community]], because the town collapses when no shared moral gravity can hold persons together.

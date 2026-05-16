@@ -16,7 +16,7 @@ tags:
 
 ## Mediated Reality & Engineered Happiness
 
-The central plot device, "the Entertainment," is the ultimate form of [[Mediated Reality]] and [[Engineered Happiness]]. It's a piece of media so compelling that it renders viewers catatonic with pleasure, effectively manufacturing a state of perpetual bliss that is also a profound form of imprisonment. The entire society is saturated with advertising, television, and corporate-sponsored reality, blurring the lines between authentic experience and manufactured desire.
+The central plot device, "the Entertainment," is the ultimate form of [[Mediated Reality]] and [[Pleasure as Control]]. It's a piece of media so compelling that it renders viewers catatonic with pleasure, effectively manufacturing a state of perpetual bliss that is also a profound form of imprisonment. The entire society is saturated with advertising, television, and corporate-sponsored reality, blurring the lines between authentic experience and manufactured desire.
 
 The Entertainment matters because it perfects what ordinary entertainment only approximates. It does not persuade the viewer to choose pleasure; it overwhelms the capacity to choose anything else. Desire becomes so efficiently satisfied that the person loses the distance needed to desire life.
 
@@ -48,7 +48,7 @@ This makes *Infinite Jest* an important counterpoint to more external dystopias.
 
 ## Entropy and the Binding Force
 
-There's a pervasive sense of societal and personal decay throughout the novel. The struggle against addiction, the breakdown of communication, and the search for meaning in a world of infinite distractions can be seen as a fight against [[Entropy and the Binding Force]], where individuals and communities strive to find something to hold onto amidst overwhelming chaos and meaninglessness.
+There's a pervasive sense of societal and personal decay throughout the novel. The struggle against addiction, the breakdown of communication, and the search for meaning in a world of infinite distractions can be seen as a fight for [[Fragile Counter-Community]], where individuals and communities strive to find something to hold onto amidst overwhelming chaos and meaninglessness.
 
 The binding force appears most clearly in boring, repeated, unglamorous practices: meetings, chores, slogans, tennis drills, confession, attention to another person's suffering, and the willingness to ask for help. Wallace makes these forms deliberately unheroic. They are not grand systems of salvation; they are small disciplines that interrupt collapse.
 

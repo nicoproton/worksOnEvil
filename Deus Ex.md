@@ -18,7 +18,7 @@ tags:
 
 The game begins inside UNATCO, an official anti-terror organization that appears to defend public order during the Gray Death crisis. JC's first role is therefore institutional: he is a state-backed agent acting through briefings, objectives, command structures, and managed information.
 
-That opening makes the later revelations sharper. UNATCO is not simply mistaken; it is an outer shell inside a [[Layered Conspiracy]]. Its agents can believe they are preserving civilization while their labor serves Majestic 12 and Bob Page's deeper project. The conspiracy works because legitimacy is distributed in layers. Most participants do not need to know the final aim in order to serve it.
+That opening makes the later revelations sharper. UNATCO is not simply mistaken; it is a [[Respectable Front]]. Its agents can believe they are preserving civilization while their labor serves Majestic 12 and Bob Page's deeper project. The conspiracy works because legitimacy is distributed in layers. Most participants do not need to know the final aim in order to serve it.
 
 This places *Deus Ex* near *[[That Hideous Strength]]*, but with a cyberpunk rather than supernatural structure. Both works begin with respectable institutions whose language of protection conceals a deeper program of domination.
 
@@ -26,9 +26,9 @@ This places *Deus Ex* near *[[That Hideous Strength]]*, but with a cyberpunk rat
 
 The Gray Death is one of the game's strongest motifs. A manufactured or controlled plague creates public terror, while Ambrosia becomes the scarce cure through which power can decide who lives, who suffers, and who obeys. The crisis is medical, political, and informational at once.
 
-This is a clear instance of [[False Salvation Through Systems]]. The system offers cure and security, but only after arranging the conditions that make the cure a tool of control. Survival becomes rationed legitimacy.
+This is a clear instance of [[False Cure]]. The system offers cure and security, but only after arranging the conditions that make the cure a tool of control. Survival becomes rationed legitimacy.
 
-The plague plot also turns health into governance. Bodies become the terrain on which political obedience is organized. A society frightened by disease can be managed by whoever controls treatment, distribution, and the story of where the crisis came from.
+The plague plot also turns health into governance. Bodies become the terrain on which political obedience is organized. A society frightened by disease can be managed by whoever controls treatment, distribution, and the story of where the crisis came from. This gives the game one of the vault's clearest examples of [[Managed Crisis]].
 
 ## Majestic 12, Illuminati, and Elite Rule
 

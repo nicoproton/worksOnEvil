@@ -11,8 +11,10 @@ The motif is useful because it explains complicity without requiring every parti
 
 Use this link when secrecy is graded and the outer ideology differs from the inner agenda.
 
+Use more precise bridge concepts when possible. [[Respectable Front]] applies when domination hides behind legitimate institutions, reform, property, science, security, or public service. [[Graded Initiation]] applies when different participants know different levels of the project and desire for admission becomes part of control. [[Hidden Hand Above History]] applies when visible historical conflict is revealed as manipulated by a concealed higher order. [[Predatory Power in Respectable Society]] applies when predatory power hides inside ordinary social channels rather than a formal secret committee. [[Demonic Conspiracy]] applies only when the hidden command has real infernal, demonic, Antichristic, or anti-creative spiritual weight.
+
 In non-fiction context notes, use this concept cautiously. *Between Two Ages* is relevant less as a conspiracy claim than as a description of technocratic elite coordination under conditions of technological complexity.
 
-*The Anglo-American Establishment* is a stronger non-fiction anchor because Carroll Quigley explicitly describes inner and outer circles around the Rhodes-Milner group and the Round Table network. Even there, the link should be used structurally, not as a master key for unrelated works.
+*The Anglo-American Establishment* is a stronger non-fiction anchor for [[Graded Initiation]] because Carroll Quigley explicitly describes inner and outer circles around the Rhodes-Milner group and the Round Table network. Even there, the link should be used structurally, not as a master key for unrelated works.
 
-Vampire fiction gives the motif a Gothic form. In *Dracula* and *Salem's Lot*, predatory power hides through property, servants, fronts, and the inability of ordinary society to read the signs of occupation.
+Vampire fiction gives [[Predatory Power in Respectable Society]] a Gothic form. In *Dracula* and *Salem's Lot*, predatory power hides through property, servants, fronts, and the inability of ordinary society to read the signs of occupation.

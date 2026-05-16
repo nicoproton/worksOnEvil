@@ -9,7 +9,7 @@ Vampiric Aristocracy names the motif of an immortal or long-lived ruling class t
 
 This concept is strongest when vampirism appears as a form of elite order. The vampire may be a nobleman, ancient house, hidden caste, cult, or ruling species whose refinement depends on consuming ordinary life.
 
-The motif overlaps with [[Artificial Immortality]], but it is more explicitly predatory. It also connects to [[Layered Conspiracy]] when the vampire order hides behind servants, institutions, cults, real estate, or respectable society.
+The motif overlaps with [[Artificial Immortality]], but it is more explicitly predatory. It also connects to [[Predatory Power in Respectable Society]] when the vampire order hides behind servants, institutions, cults, real estate, or respectable society.
 
 Use this link when vampirism is tied to class, rule, old power, or inherited domination rather than only bodily horror.
 

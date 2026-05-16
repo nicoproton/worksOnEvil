@@ -24,7 +24,7 @@ The novel's danger is not curiosity as such. Shelley makes the problem more exac
 
 Victor's experiment is conducted in secrecy and isolation. He withdraws from family, friendship, place, and ordinary rhythms of life. The Creature is assembled from dead matter, but the deeper absence is relational: no community is present to receive the new life.
 
-This gives the creation scene its connection to [[Privatio Boni]]. The Creature is not born evil. What is missing is the good that should surround a created being: welcome, naming, education, affection, and responsibility.
+This gives the creation scene its connection to [[Hollowed Order]]. The Creature is not born evil. What is missing is the good that should surround a created being: welcome, naming, education, affection, and responsibility.
 
 ## Abandonment
 

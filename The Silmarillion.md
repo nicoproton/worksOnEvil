@@ -29,7 +29,7 @@ This makes him a fundamental figure of [[The Overreacher]]. He does not merely w
 
 As Morgoth, Melkor pours his power into the matter of Arda, corrupting the world itself. His evil becomes environmental and historical: not only an army or a tyrant, but a marring that enters the conditions of life.
 
-This links the work to [[Entropy and the Binding Force]]. The world is wounded from within, and history becomes a long struggle to preserve beauty under conditions of decline.
+This links the work to [[World Wound and Long Decline]]. The world is wounded from within, and history becomes a long struggle to preserve beauty under conditions of decline.
 
 ## Feanor and Possessive Sub-Creation
 
@@ -47,7 +47,7 @@ Morgoth cannot make the light; he can only steal, imprison, and display it as do
 
 The Akallabeth, included in *The Silmarillion*, tells of Numenor's fall. The Numenoreans become obsessed with escaping mortality, and Sauron redirects that fear into rebellion against the Ban of the Valar.
 
-This makes the Numenor story a major anchor for [[Artificial Immortality]] and [[Corrupting Guide]]. Death is treated as a technical or political problem to be overcome by assaulting the divine order, and Sauron turns that fear into apocalypse.
+This makes the Numenor story a major anchor for [[Death Refused as Gift]] and [[Corrupting Guide]]. Death is treated as a political and spiritual problem to be overcome by assaulting the divine order, and Sauron turns that fear into apocalypse.
 
 Numenor also gives the graph a theological form of [[Fallen High Civilization]]. Its downfall is not caused by lack of power, beauty, law, or knowledge, but by disordered desire for a good that cannot be seized.
 

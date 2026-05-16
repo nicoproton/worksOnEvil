@@ -8,6 +8,7 @@ tags:
   - Enlightenment
   - Literature
   - Work
+  - Politics
 ---
 
 # Memoirs Illustrating the History of Jacobinism
@@ -22,7 +23,7 @@ The structure matters more than the accuracy of every claim. Barruel gives later
 
 ## Initiation and Hidden Aims
 
-The most durable feature of the *Memoirs* is its model of graded knowledge. Lower participants believe in one version of the project, while higher initiates know another. This is the classic form of [[Layered Conspiracy]].
+The most durable feature of the *Memoirs* is its model of graded knowledge. Lower participants believe in one version of the project, while higher initiates know another. This is the classic form of [[Graded Initiation]].
 
 That structure is narratively powerful because it explains how ordinary or idealistic people can serve ends they would not consciously endorse. It also makes secrecy psychological: the desire to enter the next circle becomes part of the mechanism of control.
 

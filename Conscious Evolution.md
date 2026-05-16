@@ -17,4 +17,4 @@ This connects to [[The Overreacher]] and [[Forced Human Completion]]. The questi
 
 Julian Huxley's *[[New Bottles for New Wine]]* is the key anchor in this vault because it gives an early humanist form of transhumanism. It is not identical with later digital immortality or cybernetic enhancement, but it opens the same question: who directs the future human, and by what standard?
 
-This concept overlaps with [[Manufactured Humanity]], [[Artificial Immortality]], and [[Evolutionary Humanism]].
+This concept overlaps with [[Designed Successor Humanity]], [[Artificial Immortality]], and [[Evolutionary Humanism]].

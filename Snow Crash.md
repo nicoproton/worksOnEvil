@@ -17,7 +17,7 @@ tags:
 
 The novel's United States has fragmented into corporate enclaves, private security zones, franchised territories, and brand-governed sovereignties. Political order has been replaced by market-mediated micro-sovereignty.
 
-This makes the novel a distinctive case of [[Technological Dystopia]]. The system is not a single totalitarian state, but a privatized environment where law, identity, and geography are modularized.
+This makes the novel a distinctive case of [[Technetronic Society]]. The system is not a single totalitarian state, but a privatized environment where law, identity, and geography are modularized.
 
 ## The Metaverse
 
@@ -41,4 +41,4 @@ This makes the book useful beside *That Hideous Strength*, where the collapse of
 
 L. Bob Rife's power comes through media, religion, infrastructure, and information. He does not simply rule territory; he seeks access to the pre-rational layers through which people can be programmed.
 
-This links the novel to [[Weaponized Rationalism]] in a cyberpunk key. Ancient myth and modern code become one apparatus for mass control.
+This links the novel to [[Language as Control System]] in a cyberpunk key. Ancient myth and modern code become one apparatus for mass control.

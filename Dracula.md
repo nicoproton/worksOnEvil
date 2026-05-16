@@ -22,13 +22,13 @@ This makes the novel a primary case for [[Vampiric Aristocracy]]. The vampire's 
 
 Dracula's movement into England depends on contracts, boxes of native earth, transport networks, real estate, and social disguise. His supernatural predation enters modern systems instead of standing outside them.
 
-This gives the novel a useful relation to [[Layered Conspiracy]]. The vampire does not need a vast bureaucracy, but he works through concealment, agents, legal forms, and hidden nests inside ordinary society.
+This gives the novel a useful relation to [[Predatory Power in Respectable Society]]. The vampire does not need a vast bureaucracy, but he works through concealment, agents, legal forms, and hidden nests inside ordinary society.
 
 ## Un-Death as Privation
 
 The vampire is animated but not truly alive. He imitates vitality by taking blood, reproduces by infection, and creates a parody of communion in which relation becomes domination.
 
-That makes *Dracula* one of the clearest Gothic images of [[Predatory Immortality]] and [[Privatio Boni]]. The vampire cannot give life; he can only prolong himself by converting another person's life into his own continuance.
+That makes *Dracula* one of the clearest Gothic images of [[Predatory Immortality]] and [[Sterile Imitation]]. The vampire cannot give life; he can only prolong himself by converting another person's life into his own continuance.
 
 ## Contagion and Counter-Community
 

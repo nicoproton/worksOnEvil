@@ -17,7 +17,7 @@ tags:
 
 Meyrink's Prague is not just a setting. The ghetto behaves like a dream architecture of passages, rooms, repetitions, and hidden correspondences. Characters move through a city that seems to possess memory and intention.
 
-This connects the novel to [[Occult Science]] in its broader sense: reality is imagined as a system of secret signs and invisible structures, not merely as a surface of social facts.
+This connects the novel to [[Hidden Correspondence System]]: reality is imagined as a system of secret signs and invisible structures, not merely as a surface of social facts.
 
 ## The Golem as Recurrence
 

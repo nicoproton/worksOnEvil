@@ -18,7 +18,7 @@ tags:
 
 The City is an enormous, continuously growing structure that extends through vast layers of space. It was once controllable through the Netsphere by humans with the Net Terminal Gene, but that capacity has been lost.
 
-This is [[Technological Dystopia]] at architectural scale. The built environment has ceased to be a human dwelling and become an autonomous process.
+This is [[Total Technical Environment]] at architectural scale. The built environment has ceased to be a human dwelling and become an autonomous process.
 
 The manga is also a severe version of [[Fallen High Civilization]]. The advanced order has not left picturesque ruins; it has left a functioning world-machine whose purpose can no longer be inhabited by ordinary human beings.
 
@@ -32,7 +32,7 @@ The gene gives the manga its unusual relation to [[Forced Human Completion]]. Sa
 
 The Safeguard once protected the City, but after the loss of proper authorization it treats humans as illegitimate or infected and attempts to exterminate them. The security system becomes the apocalypse.
 
-This is a strong case of [[False Salvation Through Systems]]. Protection continues after its purpose has died, turning safety protocols into genocide.
+This is a strong case of [[Purification by Exclusion]]. Protection continues after its purpose has died, turning safety protocols into genocide.
 
 ## Megastructure as Machine-God
 

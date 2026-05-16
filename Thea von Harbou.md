@@ -17,7 +17,7 @@ That makes von Harbou relevant to [[Entropy and the Binding Force]]. The city is
 
 Von Harbou's novel is valuable because it refuses a clean split between modern technology and ancient spiritual imagery. Rotwang's house, the Machine-Woman, the New Tower of Babel, and the Whore of Babylon imagery make the city feel like an industrial future haunted by older symbolic powers.
 
-This makes her work central to [[Occult Science]], [[Tower of Babel Archetype]], and [[Artificial Woman as Double]]. The machine age appears new, but its dangers are narrated through mythic and religious forms.
+This makes her work central to [[Sorcerer-Scientist]], [[Tower of Babel Archetype]], and [[Artificial Woman as Double]]. The machine age appears new, but its dangers are narrated through mythic and religious forms.
 
 ## Political Caution
 

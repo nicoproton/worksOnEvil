@@ -41,9 +41,9 @@ The city-building portions make the game more than a cosmic dualism. They show r
 
 ## Beruga's Frozen Salvation
 
-Dr. Beruga is the game's technocratic overreacher. His desire to eliminate death leads to a plan involving the Asmodeus virus, mass death, and a chosen remnant preserved in a suspended, zombie-like immortality. His project is a clear case of [[Artificial Immortality]]: life is protected by draining it of growth, risk, vulnerability, and ordinary human relation.
+Dr. Beruga is the game's technocratic overreacher. His desire to eliminate death leads to a plan involving the Asmodeus virus, mass death, and a chosen remnant preserved in a suspended, zombie-like immortality. His project is a clear case of [[Suspended Life Without Growth]]: life is protected by draining it of growth, risk, vulnerability, and ordinary human relation.
 
-Beruga does not present himself as malicious. His nightmare is produced by benevolent abstraction, by the wish to solve suffering through total control. The promise of perfected life becomes an administrative decision about which lives count. This also makes his project a compact example of [[False Salvation Through Systems]]: salvation is offered as survival, but the system preserves life by selecting, freezing, and depersonalizing it.
+Beruga does not present himself as malicious. His nightmare is produced by benevolent abstraction, by the wish to solve suffering through total control. The promise of perfected life becomes an administrative decision about which lives count. This also makes his project a compact example of [[False Cure]]: salvation is offered as survival, but the system preserves life by selecting, freezing, and depersonalizing it.
 
 His alliance with Dark Gaia also turns scientific salvation toward life-force extraction. Beruga's system does not renew life; it filters, freezes, and redirects living vitality into an artificial order.
 
@@ -54,6 +54,8 @@ Beruga's laboratories and weapons make the game a strong case of [[Lost Technolo
 This gives *Terranigma* a different shape from stories where ancient technology is only an adventure prize. The old world is not dead enough. Its dream of control survives underground, waiting for the living world to become available again. Ark's resurrection of the surface therefore also resurrects the possibility that the old fall will repeat itself.
 
 Beruga is the human face of that return, but he is also a symptom. His science gives Dark Gaia a modern instrument. Cosmic destruction no longer needs to appear only as underworld darkness; it can speak in the language of medical preservation, technical necessity, and population management.
+
+This is where *Terranigma* becomes a qualified analogue of [[Demonic Conspiracy]]. Dark Gaia should not be flattened into Lewis's demons; the game frames it through cosmic dualism and cyclical destruction. Still, the narrative pattern is strong: a technocratic cure and a heroic restoration quest both become instruments of a hidden anti-life command.
 
 ## Ark's Unwitting Service
 
@@ -77,8 +79,8 @@ The cycle is crucial. *Terranigma* is not only about saving a world once; it is 
 
 The ending gives Ark rest, but not simple victory. The restored world continues, while Ark's own place in it becomes dreamlike and uncertain. The emotional force comes from the possibility that memory, affection, and sacrifice outlast the cycle that used him.
 
-In that sense, the game's counterforce is not a technical solution to death. It is closer to [[Entropy and the Binding Force]]: life persists through relation, memory, and the fragile continuity between persons and places.
+In that sense, the game's counterforce is not a technical solution to death. It is closer to [[Memory Against Dissolution]]: life persists through relation, memory, and the fragile continuity between persons and places.
 
 Ark's victory is not possession of the world he restored. He does not become ruler, immortal engineer, or cosmic manager. The ending's sadness is part of its answer to Beruga. To save life is not necessarily to keep it, freeze it, or stand above it. Ark's sacrifice allows the surface to continue without turning that continuation into a project of control.
 
-That is why *Terranigma* remains one of the graph's strongest game nodes. It binds together restoration, false guidance, technological immortality, old-world catastrophe, and cosmic dualism without collapsing them into a single doctrine. Its depth comes from the fact that Ark really does restore the world, and yet the meaning of restoration has to be wrested away from the powers that tried to use it.
+That is why *Terranigma* remains one of the graph's strongest game nodes. It binds together restoration, false guidance, technological immortality, old-world catastrophe, and cosmic dualism without collapsing them into a single doctrine. Its depth comes from the fact that Ark really does restore the world, and yet the meaning of restoration has to be wrested away from the powers that tried to use it. This makes the game a central example of [[Good Captured by Evil]].

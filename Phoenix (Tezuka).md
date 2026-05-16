@@ -20,7 +20,7 @@ tags:
 
 Across the cycle, characters seek the Phoenix, its blood, or the secret of endless life. The desire is understandable: death, loss, illness, and historical catastrophe press human beings toward the dream of escape. But Tezuka repeatedly treats immortality as spiritually dangerous or tragically incomplete.
 
-This places the series near [[Artificial Immortality]] by contrast. The problem is not only technological preservation, but the refusal to accept creaturely limits, change, and rebirth.
+This places the series near [[Death Refused as Gift]] by contrast. The problem is not only technological preservation, but the refusal to accept creaturely limits, change, and rebirth.
 
 ## Future and the Last Human War
 
@@ -32,7 +32,7 @@ The underground civilization connects to technological dystopia and false salvat
 
 Dr. Saruta's dome is one of the series' strongest images: a small artificial enclosure preserving and recreating life while the world dies outside. It is both hopeful and inadequate. Saruta tries to bring extinct creatures back, but his work exists inside the shadow of civilizational collapse.
 
-The dome links *Phoenix* to [[Manufactured Humanity]] and artificial life more broadly, but Tezuka's tone is less triumphalist than many machine-age creation stories. Life can be studied and remade, yet the secret of life remains morally and cosmically larger than technique.
+The dome links *Phoenix* to [[Designed Successor Humanity]] and artificial life more broadly, but Tezuka's tone is less triumphalist than many machine-age creation stories. Life can be studied and remade, yet the secret of life remains morally and cosmically larger than technique.
 
 ## Resurrection and Robita
 
