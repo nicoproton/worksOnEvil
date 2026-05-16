@@ -24,3 +24,5 @@ This links the concept to [[Domination Through the Machine]], [[Weaponized Ratio
 The One Ring is the clearest example in *[[The Lord of the Rings]]*. It does not enchant by making a world more visible or beautiful. It hides, dominates, and binds.
 
 The Ring therefore helps connect Tolkien to the wider graph without forcing Middle-earth into science fiction. It is a non-modern machine of will.
+
+Huysmans's *[[La Cathedrale]]* gives a non-Tolkien but compatible example of beauty received rather than used. Chartres is read as symbolic order, not as an apparatus for private power.

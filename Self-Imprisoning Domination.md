@@ -15,6 +15,8 @@ Sauron in *[[The Lord of the Rings]]* pours himself into the Ring and becomes bo
 
 Dorian in *[[The Picture of Dorian Gray]]* gains freedom from visible consequence, but that freedom contracts into secrecy, dependence, murder, and bondage to the hidden portrait.
 
+*[[The Revolt of the Angels]]* gives the motif a political-theological warning by inversion: Satan recognizes that seizing the heavenly throne could make the rebel into another tyrant.
+
 ## False Safety
 
 Absolute safety can become a form of damnation when it eliminates vulnerability, dependence, and relation. The tyrant wants to be untouchable, but touch is also the condition of love.

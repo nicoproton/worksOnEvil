@@ -34,6 +34,8 @@ Dorian's fall is a concentrated case of [[Aesthetic Self-Enclosure]]. He tries t
 
 This is also a strong case of [[Disordered Love]]. The evil is not that Dorian loves beauty, but that beauty is cut loose from the good that should order it. Youth becomes an idol, art becomes an alibi, and pleasure becomes a substitute for moral life.
 
+Dorian also belongs to [[Beauty from Corruption]], though in a more narrative and moralized form than Baudelaire. The novel is fascinated by beautiful surfaces underwritten by hidden rot, and its horror depends on the gap between visible charm and invisible decay.
+
 ## The Yellow Book
 
 After Sibyl Vane's death, Lord Henry sends Dorian a French novel bound in yellow. Wilde does not name the book, but it is widely understood as modeled on *[[Against Nature (A Rebours)]]* by Joris-Karl Huysmans.
@@ -41,6 +43,8 @@ After Sibyl Vane's death, Lord Henry sends Dorian a French novel bound in yellow
 The direct link matters because the relationship is not only thematic. Dorian's yellow book becomes a corrupting text inside the plot, shaping his imagination of decadent life. It gives him a pattern for treating experience as something to collect, arrange, and intensify without asking what kind of person he is becoming.
 
 The book is therefore an extension of Lord Henry's influence. Aphorism becomes atmosphere; temptation becomes lifestyle.
+
+Behind that yellow book stands the wider decadent inheritance of *[[Les Fleurs du mal]]*: beauty, sin, artificial sensation, and spiritual exhaustion become joined so closely that Dorian can mistake intensity for depth.
 
 ## Youth Without Innocence
 

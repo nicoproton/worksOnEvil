@@ -24,3 +24,7 @@ This connects the concept to [[World-Consciousness Formation]], [[Education and 
 H. G. Wells is the major anchor for this concept in the vault. *[[A Modern Utopia]]* gives it fictional shape, *[[The Open Conspiracy]]* gives it activist strategy, and *[[The New World Order (Wells)]]* gives it wartime political urgency.
 
 The older ancestry runs through *[[The Republic]]*, *[[The City of the Sun]]*, and *[[New Atlantis]]*: philosopher-rule, theocratic-scientific civic order, and the research institute as the eye of society.
+
+The French Enlightenment branch enters more through [[Progress as Secular Providence]] than direct world-state planning. *[[Sketch for a Historical Picture of the Progress of the Human Mind]]* and *[[The Year 2440]]* imagine rational historical improvement before that hope hardens into later administrative schemes.
+
+Comte's *[[Catechism of Positive Religion]]* adds a religious-sociological form: scientific order becomes moral and spiritual authority through the [[Religion of Humanity]].

@@ -17,7 +17,7 @@ tags:
 
 Benson's future has not abolished religion so much as redirected it. Humanity becomes the object of worship, and politics takes on liturgical force. The new order presents itself as peace, equality, and compassion, but it treats supernatural faith as an intolerable obstacle.
 
-This makes the novel useful beside [[Scientific World State]] even though its deepest frame is theological. Technology serves the new world order, but the central danger is a spiritual replacement: Man as God.
+This makes the novel useful beside [[Scientific World State]] and [[Religion of Humanity]] even though its deepest frame is theological. Technology serves the new world order, but the central danger is a spiritual replacement: Man as God.
 
 ## Felsenburgh's Charisma
 

@@ -49,3 +49,5 @@ This is the poem's deep relation to [[World Wound and Long Decline]]. Severance 
 Later Romantic readers, especially William Blake and Percy Bysshe Shelley, often treated Milton's Satan as a compelling rebel. That reception history matters because it shows how the poem's own rhetorical brilliance can be turned back against its theology.
 
 The Romantic Satan becomes a bridge toward modern figures of heroic rebellion, artistic overreach, and Promethean ambition. That does not mean Milton secretly endorses Satan, but it explains why Satan became available as a later image of dangerous charisma.
+
+Anatole France's *[[The Revolt of the Angels]]* is a sharper inversion of the same pattern. It retells angelic rebellion through a Gnostic and anti-clerical frame, making the heavenly ruler look like a false demiurge and the fallen angels like rebels of intelligence.

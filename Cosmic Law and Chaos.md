@@ -11,3 +11,6 @@ This concept is not the same as [[Manichaeism and Zoroastrianism]]. Law and Chao
 
 Use this link when the story asks which cosmic or civilizational principle should order a world.
 
+*[[The Revolt of the Angels]]* is a literary case outside gaming: Heaven is reimagined as a tyrannical cosmic order, while fallen angels organize around revolutionary freedom and knowledge.
+
+*[[Les Chants de Maldoror]]* gives a more unstable poetic case. It is not a neat Law-versus-Chaos cosmology, but Maldoror's revolt against God, creation, and humanity turns metaphysical order itself into the object of attack.

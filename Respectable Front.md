@@ -14,3 +14,5 @@ Use this link when the public-facing layer differs from the inner agenda, especi
 In *[[That Hideous Strength]]*, the N.I.C.E. appears as a progressive research institute while serving [[Demonic Conspiracy|demonic]] and technocratic domination. In *[[Deus Ex]]*, UNATCO appears as anti-terror legitimacy while serving Majestic 12. In *[[Psycho-Pass]]*, Sibyl appears as neutral computation while concealing exceptional human rule. In *[[New Atlantis]]*, Salomon's House is not sinister in the text, but it establishes the structural possibility of expert knowledge withheld behind beneficent science.
 
 This concept differs from [[Elite Network Historiography]]. A respectable front may be fictional or symbolic; elite historiography asks how influence actually operates through historical institutions and networks.
+
+It also differs from [[Closed World of Absolute License]]. A respectable front works by public legitimacy; a closed world of license works by withdrawal from public witness.

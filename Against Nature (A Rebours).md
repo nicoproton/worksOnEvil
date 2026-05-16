@@ -34,11 +34,13 @@ Des Esseintes is not a tyrant in the ordinary sense. His domination is inward. H
 
 This places the novel near [[Disordered Love]]. Art, refinement, and religious imagery are real goods or signs of goods, but in des Esseintes's world they are rearranged around fatigue, disgust, control, and sterile sensation.
 
+It also belongs to [[Beauty from Corruption]], a decadent inheritance that runs through Baudelaire's *[[Les Fleurs du mal]]*. Des Esseintes does not only seek beautiful things; he seeks beauty intensified by exhaustion, perversity, rarity, illness, and artificiality.
+
 The result can be read in argument with [[Privatio Boni]]. The novel's decadence is full of surfaces, but its fullness is unstable. The more experience is refined, the less it seems able to give life.
 
-## The Yellow Book and Dorian Gray
+## Baudelaire, the Yellow Book, and Dorian Gray
 
-The book is important to this vault because it is the usual real-world model for the unnamed yellow book in *[[The Picture of Dorian Gray]]*. Wilde transforms Huysmans's static decadent interior into a narrative of corruption: the book becomes one of the means by which Dorian learns to imagine life as an aesthetic experiment.
+The book is important to this vault because it carries Baudelaire's decadent inheritance into fiction and is the usual real-world model for the unnamed yellow book in *[[The Picture of Dorian Gray]]*. Wilde transforms Huysmans's static decadent interior into a narrative of corruption: the book becomes one of the means by which Dorian learns to imagine life as an aesthetic experiment.
 
 This direct link is worth keeping because it is a concrete literary relationship, not just a shared theme.
 

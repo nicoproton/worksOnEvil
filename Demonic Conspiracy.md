@@ -36,3 +36,5 @@ Do not use it for every secret society, every occult laboratory, or every dualis
 *[[Metropolis (Novel)]]* contains occult science, Satanic vocabulary, and a machine city haunted by older spiritual images, but its hidden power is not clearly a demonic command behind a technocratic front. It is usually better linked through [[Sorcerer-Scientist]], [[Tower of Babel Archetype]], and [[Artificial Woman as Double]].
 
 *[[Neon Genesis Evangelion]]* has secret committees, apocalyptic plans, and occult-symbolic science, but its religious language is syncretic and psychological rather than demonic in this sense. It belongs more naturally with [[Hidden Hand Above History]], [[Ritual Technology]], and [[Weaponized Personhood]].
+
+*[[La-bas (Down There)]]* is another boundary case. It gives a modern Satanic network and inverted ritual, but not a technocratic or reformist front. Its stronger links are decadent occult investigation, [[Beauty from Corruption]], and ritual inversion.

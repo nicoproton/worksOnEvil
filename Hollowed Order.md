@@ -11,6 +11,6 @@ This bridge belongs under [[Privatio Boni]]. It is useful when evil appears as a
 
 Use this link when a work emphasizes hollowed institutions, civic forms without charity, communities without care, law without justice, or order without inward good.
 
-In *[[We (Zamyatin)]]*, the One State defines perfection as the surgical absence of imagination and inward freedom. In *[[The Mysteries of Paris]]*, respectable law and charity can become masks for predation. In *[[Salem's Lot]]*, the town's communal forms remain while the goods that should bind them have thinned. In *[[It (Stephen King)]]*, Derry functions as a civic world while truth, memory, and care are hollowed out.
+In *[[We (Zamyatin)]]*, the One State defines perfection as the surgical absence of imagination and inward freedom. In *[[The Mysteries of Paris]]*, respectable law and charity can become masks for predation. In *[[Salem's Lot]]*, the town's communal forms remain while the goods that should bind them have thinned. In *[[It (Stephen King)]]*, Derry functions as a civic world while truth, memory, and care are hollowed out. In *[[Catechism of Positive Religion]]*, Catholic-like religious form is preserved while its supernatural center is replaced by Humanity.
 
 This concept is close to [[Good Captured by Evil]], but the emphasis is different. Good Captured by Evil tracks a real good redirected toward a false end; Hollowed Order tracks a form that persists after its animating good has drained away.

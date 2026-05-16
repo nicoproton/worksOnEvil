@@ -44,3 +44,5 @@ Its importance is therefore genealogical. Barruel supplies one ancestor for mode
 This note should keep two uses of Barruel separate. One use is historical: what Barruel argued, when he published, and how his work circulated. The other is formal: how his argument became a reusable mythology of hidden causation.
 
 That distinction prevents the vault from confusing thematic resemblance with evidence. The *Memoirs* can be valuable as a map of conspiratorial imagination even when its claims require skepticism.
+
+The note should also be distinguished from *[[Considerations on France]]*. Barruel explains revolution through hidden human organization; de Maistre explains it through [[Providential Counter-Revolution|providence and judgment]].
