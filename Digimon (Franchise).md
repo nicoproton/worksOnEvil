@@ -54,7 +54,7 @@ The Jeri material gives the plot a second layer. The D-Reaper does not merely at
 
 ## Machine as God
 
-In some storylines, foundational programming, server systems, or god-like Digimon such as Yggdrasil govern the Digital World's laws and evolution. This gives the franchise an occasional relation to [[Machine as God]], though it should not be treated as the whole franchise's central pattern.
+In some storylines, foundational programming, server systems, or god-like Digimon such as Yggdrasil govern the Digital World's laws and evolution. This gives the franchise an occasional relation to [[Networked Divinity]], though it should not be treated as the whole franchise's central pattern.
 
 Yggdrasil and similar host-computer figures are most useful when they function as world-governing intelligences rather than merely powerful bosses. The Digital World can appear as an ecology, but also as an administered reality whose laws, population, and survival are subject to a central system's judgment.
 

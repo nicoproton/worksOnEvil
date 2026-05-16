@@ -17,7 +17,7 @@ This links the work to [[Scientific World State]] by ancestry and contrast. The 
 
 The city abolishes private property and organizes family life communally. Private attachment is treated as a threat to civic unity.
 
-This connects the work to [[Forced Human Completion]]. Human beings are to be completed as citizens of the whole, but the cost is the narrowing or abolition of private bonds.
+This connects the work to [[Administered Human Formation]]. Human beings are to be completed as citizens of the whole, but the cost is the narrowing or abolition of private bonds.
 
 ## Reproductive Ordering
 

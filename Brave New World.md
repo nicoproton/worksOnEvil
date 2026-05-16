@@ -31,7 +31,7 @@ Soma is the chemical sacrament of the World State. It removes anxiety, grief, co
 
 This is [[False Cure]] in unusually pure form. The system promises the end of pain, but the price is the loss of tragedy, art, family, sacrifice, and freedom.
 
-The World State also practices a soft version of [[Forced Human Completion]]. It does not merge everyone into one being, but it completes each person for their caste by preventing unwanted depths from developing.
+The World State also practices [[Corrected Inwardness]] in a soft form. It does not merge everyone into one being, but it completes each person for their caste by preventing unwanted depths from developing.
 
 ## John and Shakespeare
 
@@ -41,4 +41,4 @@ His failure is also important. Huxley does not make him a simple hero who can de
 
 ## Ford as Sacred Order
 
-The World State dates history from Ford and treats assembly-line logic as civilizational principle. This gives the novel a soft form of [[Machine as God]]. The machine is not worshiped as a single computer or idol; industrial production becomes the sacred model for making persons, desires, and society.
+The World State dates history from Ford and treats assembly-line logic as civilizational principle. This gives the novel a soft form of [[Sacred Infrastructure]]. The machine is not worshiped as a single computer or idol; industrial production becomes the sacred model for making persons, desires, and society.

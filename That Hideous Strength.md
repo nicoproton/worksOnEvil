@@ -21,7 +21,7 @@ The National Institute of Co-ordinated Experiments presents itself as a progress
 
 That respectable surface makes the novel one of the clearest fictional studies of a [[Respectable Front]]. Lower participants can imagine they are serving public benefit, career advancement, or modern knowledge, while the deeper structure bends their work toward domination.
 
-The institute's public vocabulary is important because it frames domination as repair. The N.I.C.E. claims to clean, coordinate, modernize, and rationalize social life. Lewis's target is not science as knowledge, but institutional power that uses the language of improvement to make persons, places, bodies, and traditions available for manipulation.
+The institute's public vocabulary is important because it frames domination as repair. The N.I.C.E. claims to clean, coordinate, modernize, and rationalize social life. Lewis's target is not science as knowledge, but institutional power that uses the language of improvement to make persons, places, bodies, and traditions available for manipulation. This is [[Domination Through the Machine]] in institutional form: the will to control hides inside committees, laboratories, public health, policing, and administrative reason.
 
 ## The Inner Circle and the Head
 
@@ -51,7 +51,7 @@ The N.I.C.E. does not need Mark to begin as a villain. It needs him to accept sm
 
 The institute's promise is therefore a form of [[Good Captured by Evil]]. It offers order, health, progress, and membership, but the price is the surrender of conscience to an institution whose inner purpose Mark is not allowed to see.
 
-Its program also tends toward [[Forced Human Completion]]. The N.I.C.E. wants to remake humanity by eliminating organic limitation, moral resistance, and the forms of personhood it cannot coordinate.
+Its program also tends toward [[Corrected Inwardness]]. The N.I.C.E. wants to remake humanity by eliminating organic limitation, moral resistance, and the forms of personhood it cannot coordinate.
 
 Mark's ordeal shows how that large program begins in very small places. Before humanity can be remade, one man must learn to call cowardice maturity, cruelty realism, and moral disgust childishness.
 

@@ -17,7 +17,7 @@ This matters for [[Weaponized Rationalism]]. Lewis is not attacking reason itsel
 
 Lewis's phrase "men without chests" names people whose intellect and appetite remain, but whose moral affections have been hollowed out. The result is not neutrality but vulnerability: such people can be conditioned by stronger wills.
 
-This gives the graph a psychological bridge between [[Engineered Happiness]] and [[Forced Human Completion]]. The system does not need to destroy the person all at once; it can first remove the interior faculty that would resist.
+This gives the graph a psychological bridge between [[Engineered Happiness]] and [[Corrected Inwardness]]. The system does not need to destroy the person all at once; it can first remove the interior faculty that would resist.
 
 ## The Conditioners
 

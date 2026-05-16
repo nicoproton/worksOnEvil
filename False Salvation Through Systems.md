@@ -7,9 +7,9 @@ tags: [Dystopia, Theology, Technology, Concept]
 
 False Salvation Through Systems names the broad pattern in which a social, technological, political, occult, or religious system promises to solve suffering while quietly abolishing the goods that make life human. The system offers peace, immortality, unity, efficiency, or happiness, but the price is freedom, love, embodiment, conscience, or spiritual truth.
 
-This is not a claim that every system is evil. It is a motif for works where salvation is simulated by control. It often links [[Technological Dystopia]], [[Artificial Immortality]], [[Weaponized Rationalism]], [[Engineered Happiness]], [[Simulated Reality]], and [[Machine as God]].
+This is not a claim that every system is evil. It is a motif for works where salvation is simulated by control. It often links [[Technological Dystopia]], [[Artificial Immortality]], [[Weaponized Rationalism]], [[Engineered Happiness]], [[Simulated Reality]], [[Sacred Infrastructure]], and [[Networked Divinity]].
 
-When the promised salvation specifically perfects humanity by abolishing separateness or inner freedom, use [[Forced Human Completion]].
+When the promised salvation specifically perfects humanity by abolishing separateness or inner freedom, use [[Forced Human Completion]] and its sharper bridges: [[Abolition of Separateness]], [[Corrected Inwardness]], or [[Administered Human Formation]].
 
 Use more precise bridge concepts when possible. [[False Cure]] applies when healing, treatment, preservation, or therapeutic stability becomes control. [[Managed Crisis]] applies when emergency itself becomes the mechanism of expanded authority. [[Purification by Exclusion]] applies when peace or safety is purchased by removing beings treated as impure, illegitimate, or unfit. [[Good Captured by Evil]] applies when a real good such as restoration, knowledge, or order is redirected into destructive service.
 

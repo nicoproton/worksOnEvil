@@ -22,7 +22,7 @@ This makes Tolkien a major anchor for [[The Overreacher]] and [[Privatio Boni]].
 
 In Tolkien's letters and fiction, "the Machine" names the desire to make the will effective without the slow mediation of craft, persuasion, patience, or love. It is not only industrial machinery. It is any technique that amplifies possessive will.
 
-This gives Tolkien a bridge to [[Enchantment vs Magic]] without forcing Middle-earth into modern science fiction. The Ring is machine-like because it offers power through domination rather than communion.
+This gives Tolkien a bridge to [[Enchantment vs Magic]] and [[Domination Through the Machine]] without forcing Middle-earth into modern science fiction. The Ring is machine-like because it offers power through domination rather than communion.
 
 ## The Long Defeat
 

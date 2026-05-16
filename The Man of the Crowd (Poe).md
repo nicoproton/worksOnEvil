@@ -17,7 +17,7 @@ tags:
 
 The story does not need a technological-dystopia link. Its force is urban and perceptual: the crowd is dense with signs, faces, classifications, and movements, yet the old man remains unreadable.
 
-This makes the note useful near [[Mediated Reality]]. The narrator believes he can read the city by watching it, but the more he follows, the more the city turns into a surface of endless interpretation.
+This makes the note useful near [[Alienating City]] and [[Mediated Reality]]. The narrator believes he can read the city by watching it, but the more he follows, the more the city turns into a surface of endless interpretation.
 
 ## Pursuit Without Revelation
 

@@ -21,7 +21,7 @@ The room is therefore not merely a dwelling. It is a completed environment, a wo
 
 ## The Machine as God
 
-The Machine begins as a human construction but gradually becomes an object of reverence. Its manual, the Book, becomes a sacred text, and its users forget that people made it. This is the key connection to [[Machine as God]]: dependency becomes worship when the system that mediates life is mistaken for the source of life.
+The Machine begins as a human construction but gradually becomes an object of reverence. Its manual, the Book, becomes a sacred text, and its users forget that people made it. This is the key connection to [[Sacred Infrastructure]]: dependency becomes worship when the system that mediates life is mistaken for the source of life.
 
 Forster's dystopia differs from a standard tyrant story because no single ruler needs to command devotion. The system itself has become the sacred order.
 

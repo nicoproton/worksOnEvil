@@ -17,7 +17,7 @@ tags:
 
 Huxley's transhumanism is not yet contemporary digital transhumanism, but the core idea is present: humanity can transcend itself by realizing new possibilities of human nature through knowledge, social organization, and conscious evolution.
 
-This makes the book a major anchor for [[Conscious Evolution]] and [[Forced Human Completion]]. The central ambiguity is whether self-transcendence means fuller flourishing or managed redesign.
+This makes the book a major anchor for [[Conscious Evolution]] and [[Designed Successor Humanity]]. The central ambiguity is whether self-transcendence means fuller flourishing or managed redesign.
 
 ## Evolutionary Humanism
 

@@ -17,7 +17,7 @@ tags:
 
 The sprawling, grimy, and morally corrupt urban landscape of New York City becomes Travis Bickle's inner world. He is trapped within its streets, but more importantly within the interpretation he imposes on them.
 
-This makes the film a strong case for [[Mediated Reality]]. Travis does not simply see the city; he filters it through loneliness, disgust, pornography, news, insomnia, and violent fantasy.
+This makes the film a strong case for [[Alienating City]] and [[Mediated Reality]]. Travis does not simply see the city; he filters it through loneliness, disgust, pornography, news, insomnia, and violent fantasy.
 
 ## Contamination and Purity
 

@@ -11,7 +11,7 @@ Conscious Evolution names the idea that humanity can deliberately guide its own 
 
 The concept becomes attractive when humanity is seen as unfinished or transitional. Human beings may be able to become more than they are through conscious effort.
 
-This connects to [[The Overreacher]] and [[Forced Human Completion]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
+This connects to [[The Overreacher]] and [[Designed Successor Humanity]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
 
 ## Transhumanist Ambiguity
 

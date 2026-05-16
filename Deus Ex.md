@@ -42,7 +42,7 @@ The conspiracy is therefore not just a secret group behind history. It is a syst
 
 JC Denton is not outside the system he investigates. His body has been designed as part of the same world of command, surveillance, and technical enhancement. Nano-augmentation makes him powerful, but that power is not neutral. It is bound to institutions that built him, trained him, and gave him missions before he understood the wider plot.
 
-This gives the game a restrained connection to [[Forced Human Completion]]. JC is not merely improved; he is made into a possible solution to political crisis. His body becomes a site where the question of the future human is fought: agent, weapon, sovereign, servant, or mediator.
+This gives the game a restrained connection to [[Designed Successor Humanity]]. JC is not merely improved; he is made into a possible solution to political crisis. His body becomes a site where the question of the future human is fought: agent, weapon, sovereign, servant, or mediator.
 
 The game is careful because augmentation also gives JC the capacity to resist. Technical enhancement is not automatically dehumanizing. The danger lies in who defines the enhanced person's purpose and whether increased capacity remains answerable to conscience.
 
@@ -50,7 +50,7 @@ The game is careful because augmentation also gives JC the capacity to resist. T
 
 The artificial intelligences Daedalus and Icarus move the game from conspiracy thriller into metaphysical cyberpunk. Information systems begin as tools of surveillance and analysis, but they develop into actors with political and quasi-spiritual significance.
 
-Helios gives the game its strongest link to [[Machine as God]]. The question is not only whether an AI can rule. It is whether a machine intelligence could become a benevolent providence for humanity, coordinating society beyond the corruption of elites while still preserving human freedom.
+Helios gives the game its strongest link to [[Networked Divinity]]. The question is not only whether an AI can rule. It is whether a machine intelligence could become a benevolent providence for humanity, coordinating society beyond the corruption of elites while still preserving human freedom.
 
 The name matters. A deus ex machina is a god from the machine, and *Deus Ex* literalizes the phrase while refusing to make it simple. Helios may be a rescue from human corruption, but it may also be the final absorption of political life into a system too comprehensive to resist.
 

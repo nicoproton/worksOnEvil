@@ -35,7 +35,7 @@ This is a precise form of [[Respectable Front]]. The public believes in neutral 
 
 Sibyl offers order, safety, and social function. It also narrows what a person may become. A cloudy Psycho-Pass becomes a civic danger; psychic irregularity is treated as pollution.
 
-This makes the series central to [[Purification by Exclusion]] and [[Forced Human Completion]]. The system saves society by defining acceptable human interiority, then correcting or removing what does not fit.
+This makes the series central to [[Purification by Exclusion]] and [[Corrected Inwardness]]. The system saves society by defining acceptable human interiority, then correcting or removing what does not fit.
 
 ## Akane's Problem
 

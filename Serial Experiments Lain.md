@@ -49,11 +49,11 @@ Lain's identity fragments across school, home, clubs, rumors, and the Wired. Mul
 
 That makes the series a strong case of [[Double and Divided Self]]. The double is not simply a lookalike. It is a socially and technologically produced self: the Lain others desire, fear, gossip about, worship, or manipulate.
 
-This gives the series a subtle link to [[Forced Human Completion]]. Lain is pressured to become more than a person: a node, goddess, protocol, collective function, or answer to the loneliness of the network. Her particular self is treated as less important than the function she might serve.
+This gives the series a subtle link to [[Abolition of Separateness]]. Lain is pressured to become more than a person: a node, goddess, protocol, collective function, or answer to the loneliness of the network. Her particular self is treated as less important than the function she might serve.
 
 ## Eiri as False God
 
-The claim that "God is here" in the Wired gives the series its relation to [[Machine as God]]. The network does not merely host communication; it begins to demand metaphysical interpretation.
+The claim that "God is here" in the Wired gives the series its relation to [[Networked Divinity]]. The network does not merely host communication; it begins to demand metaphysical interpretation.
 
 Eiri is important because he exposes the false-god structure of the Wired. He has abandoned the body, hidden himself inside the system, and now speaks as if control over the network grants divine status. His godhood depends on mediation, memory, protocol, and belief. He is powerful, but he is also parasitic on the system that lets him appear.
 
