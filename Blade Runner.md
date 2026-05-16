@@ -19,11 +19,13 @@ Replicants are synthetic humanoids created by the Tyrell Corporation for off-wor
 
 This makes the film a major node for [[Disposable Artificial Person]] and [[Designed Mortality]]. The replicants do not seek abstract domination; they seek an extension of lives intentionally engineered to expire.
 
-## Tyrell's Pyramid
+## Tyrell's Pyramid and the Alienating City
 
 Tyrell's headquarters towers over the city like a temple, and Tyrell himself occupies the position of creator, father, and corporate god. The film's religious architecture matters: artificial life is produced by capital, but staged as a quasi-divine act.
 
-This links the film to [[Machine as God]]. The sacred center of the city is not a church but a corporation that manufactures persons.
+But the film is not primarily a case of machine-godhood or networked divinity. Tyrell does not become a worshiped machine, and the city is not ruled by a single providential intelligence. The visible pattern is [[Alienating City]]: an urban world where corporate manufacture, police procedure, advertising, environmental decay, and technological mediation press on everyone without needing to announce a doctrine.
+
+The deeper pattern is [[Domination Through the Machine]]. The sacred-looking pyramid matters as an image of commodified creation: the center of the city is a corporation that manufactures persons, memories, labor, and death-limits, then leaves both humans and replicants isolated inside the world that production has made.
 
 ## Memory and Humanity
 

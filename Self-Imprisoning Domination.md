@@ -17,4 +17,4 @@ Sauron in *[[The Lord of the Rings]]* pours himself into the Ring and becomes bo
 
 Absolute safety can become a form of damnation when it eliminates vulnerability, dependence, and relation. The tyrant wants to be untouchable, but touch is also the condition of love.
 
-This concept connects to [[Artificial Immortality]] when preservation becomes isolation, and to [[Machine as God]] when a device promises invulnerability at the cost of life.
+This concept connects to [[Artificial Immortality]] when preservation becomes isolation, and to [[Death Refused as Gift]] when invulnerability is sought at the cost of life.

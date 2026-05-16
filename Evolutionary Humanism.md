@@ -11,7 +11,7 @@ Evolutionary Humanism names Julian Huxley's attempt to understand humanity as ev
 
 The concept treats humanity as unfinished. Culture, biology, education, and social organization become instruments through which the human species can develop further.
 
-This connects directly to [[Conscious Evolution]] and [[Forced Human Completion]]. The key ambiguity is whether guided development serves human flourishing or turns humanity into a project managed by experts.
+This connects directly to [[Conscious Evolution]] and [[Designed Successor Humanity]]. The key ambiguity is whether guided development serves human flourishing or turns humanity into a project managed by experts.
 
 ## Global Education
 

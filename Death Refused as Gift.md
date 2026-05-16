@@ -1,0 +1,21 @@
+---
+aliases: [Refusal of Mortality, Rebellion Against Death, Death as Gift Refused]
+tags: [Death, Theology, Immortality, Concept]
+---
+
+# Death Refused as Gift
+
+Death Refused as Gift names the pattern in which mortality is not merely feared, but rejected as an intolerable limit on the self. It belongs near [[Artificial Immortality]] when the search for endless life becomes rebellion against creaturely dependence, natural change, divine order, or participation in a larger cycle.
+
+This bridge is not a claim that death is good in itself. It marks stories where the refusal of death becomes spiritually deforming because the character or civilization cannot receive life as given.
+
+Use this link for:
+
+- Civilizations or rulers who turn fear of death into rebellion.
+- Immortality quests that reject creaturely limits rather than seeking healing.
+- Stories where accepted death, sleep, rebirth, or sacrifice is contrasted with self-preservation.
+- Theological or mythic accounts where immortality seized by force becomes catastrophe.
+
+*[[The Silmarillion]]* is the strongest anchor through Numenor: fear of death becomes rebellion against the Ban of the Valar under Sauron's guidance. *[[Phoenix (Tezuka)]]* repeatedly contrasts the desire to possess life forever with recurrence, death, and rebirth. *[[Lilith (MacDonald)]]* offers the opposite image: healing sleep and death accepted under divine care as passage into real waking.
+
+This bridge often stands in contrast to [[Reincarnation and Cycles]], [[Eucatastrophe]], and [[Embodied Relation]].

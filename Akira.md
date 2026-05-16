@@ -35,7 +35,7 @@ This makes him a figure of [[The Overreacher]], but also a victim of the system 
 
 Akira is less a conventional villain than an empty or transcendent center of power. His psychic force has already destroyed Tokyo once, and the danger of repetition hangs over the story.
 
-This connects the work to [[Forced Human Completion]] in an unstable way. Psychic evolution appears as a possible next stage of humanity, but its arrival through state experimentation produces rupture, not salvation.
+This connects the work to [[Designed Successor Humanity]] in an unstable way. Psychic evolution appears as a possible next stage of humanity, but its arrival through state experimentation produces rupture, not salvation.
 
 ## The City and the Binding Remnant
 

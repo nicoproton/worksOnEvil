@@ -18,7 +18,7 @@ tags:
 
 The One Ring is not only a magical object. It is Sauron's will externalized into a tool that can dominate other wills. It promises effectiveness, invisibility, command, and the ability to act beyond ordinary limits.
 
-This makes the Ring the anti-image of [[Enchantment vs Magic]]: power without free participation. It is not technological in the industrial sense, but it functions like Tolkien's "Machine," an instrument that amplifies possessive will and tempts its bearer to replace relation with control.
+This makes the Ring the anti-image of [[Enchantment vs Magic]] and a central case of [[Domination Through the Machine]]: power without free participation. It is not technological in the industrial sense, but it functions like Tolkien's "Machine," an instrument that amplifies possessive will and tempts its bearer to replace relation with control.
 
 ## Sauron and Privative Power
 

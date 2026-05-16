@@ -17,7 +17,7 @@ This makes enchantment a companion concept to [[Sub-Creation]] and [[Secondary W
 
 The corrupted form of magic is not simply spells. It is the use of external devices, systems, or powers to coerce reality and other wills. Tolkien often associates this with the Machine: the will made effective without patience, persuasion, or love.
 
-This links the concept to [[Machine as God]], [[Weaponized Rationalism]], and [[Technological Dystopia]]. The issue is not technology by itself, but the conversion of making into domination.
+This links the concept to [[Domination Through the Machine]], [[Weaponized Rationalism]], and [[Technological Dystopia]]. The issue is not technology by itself, but the conversion of making into domination.
 
 ## The Ring as Anti-Enchantment
 

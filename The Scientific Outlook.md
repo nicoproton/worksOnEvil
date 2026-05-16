@@ -29,7 +29,7 @@ This gives the vault a theory-bearing anchor for [[Scientific World State]], [[P
 
 The book is especially relevant where Russell discusses education, habit, and the shaping of social behavior. Scientific control over formation can produce citizens adapted to the needs of the planned society.
 
-This links directly to [[Forced Human Completion]]. Human beings are not perfected by becoming more fully themselves, but completed for a system through managed development.
+This links directly to [[Administered Human Formation]]. Human beings are not perfected by becoming more fully themselves, but completed for a system through managed development.
 
 ## Reproduction and the Future Human
 

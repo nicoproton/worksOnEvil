@@ -47,7 +47,7 @@ This is a medicalized version of [[Hollowed Order]]. The state defines perfectio
 
 It is also one of the vault's strongest examples of [[False Cure]]. The One State promises happiness, but only by removing the part of the person that could experience freedom as more than error.
 
-The Great Operation also belongs to [[Forced Human Completion]]. The state treats imagination as a wound in the social body and tries to perfect its citizens by cutting away the faculty that makes them inwardly free.
+The Great Operation also belongs to [[Corrected Inwardness]]. The state treats imagination as a wound in the social body and tries to perfect its citizens by cutting away the faculty that makes them inwardly free.
 
 ## No Final Revolution
 

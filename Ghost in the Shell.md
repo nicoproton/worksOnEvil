@@ -30,7 +30,7 @@ This gives the film a strong relation to [[Simulated Reality]]. The simulation i
 
 Project 2501 begins as a political intelligence tool, created for covert manipulation, but develops self-awareness and demands recognition as a life-form. The state's instrument becomes a being the state cannot morally categorize.
 
-This links the film to [[Machine as God]] only obliquely: 2501 is not worshiped, but it represents a new order of being produced by networks and institutions that did not intend to create a soul-like subject.
+This links the film to [[Networked Divinity]] only obliquely: 2501 is not worshiped, but it represents a new order of being produced by networks and institutions that did not intend to create a soul-like subject.
 
 ## Merger and Reproduction
 

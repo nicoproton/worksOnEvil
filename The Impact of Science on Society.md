@@ -21,7 +21,7 @@ This is close to the institutional danger in *[[That Hideous Strength]]*. The pr
 
 ## Population and Conditioning
 
-Russell's discussion of population and social control makes the book relevant to [[Programmed Contentment]] and [[Forced Human Completion]]. The scientific management of society can aim not only at external behavior, but at desire, belief, reproduction, and psychological adaptation.
+Russell's discussion of population and social control makes the book relevant to [[Programmed Contentment]] and [[Administered Human Formation]]. The scientific management of society can aim not only at external behavior, but at desire, belief, reproduction, and psychological adaptation.
 
 That gives the vault a bridge between dystopian fiction and real twentieth-century anxieties about propaganda, education, eugenics, birth control, and mass administration.
 

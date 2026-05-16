@@ -13,6 +13,11 @@ Use this link for projects that promise to make humanity whole by making actual 
 
 [[Thomas Aquinas]] gives a useful contrast between genuine perfection and imposed completion. A human being is perfected by flourishing according to human goods, not by having difficult human capacities removed for the sake of order.
 
-*[[Serial Experiments Lain]]* gives the motif a networked form: Lain is pressured to become more than a person, a kind of connective principle or god-function for the Wired.
+Use sharper bridge concepts when possible:
+
+- Use [[Abolition of Separateness]] when completion means dissolving the boundaries between persons.
+- Use [[Corrected Inwardness]] when imagination, grief, moral resistance, psychic opacity, or spiritual hunger is treated as a defect to be corrected or removed.
+- Use [[Administered Human Formation]] when education, reproduction, caste, psychology, or social design forms people for a planned order.
+- Use [[Designed Successor Humanity]] when humanity is treated as transitional material for a planned next form.
 
 Julian Huxley's [[Conscious Evolution]] gives the motif a non-fiction humanist form. It is not necessarily coercive, but it raises the same question: when humanity becomes a project, who defines completion?

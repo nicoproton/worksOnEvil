@@ -31,7 +31,7 @@ This makes the series central to [[Weaponized Personhood]] and [[Ritual Technolo
 
 The Human Instrumentality Project seeks to overcome human loneliness, pain, and separation by dissolving individual boundaries. In one version, all people are gathered into a single sea of undifferentiated being. The wound of individuality is healed by abolishing individuality.
 
-This is the clearest node for [[Forced Human Completion]]. The project offers total unity as salvation, but its cure destroys the separateness that makes love, choice, and relation possible.
+This is the clearest node for [[Abolition of Separateness]]. The project offers total unity as salvation, but its cure destroys the separateness that makes love, choice, and relation possible.
 
 ## Gnostic and Apocalyptic Machinery
 

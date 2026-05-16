@@ -1,0 +1,18 @@
+---
+aliases: [Opinion Engineering, Public Relations Engineering]
+tags: [Media, PublicOpinion, Politics, Concept]
+---
+
+# Public Opinion Engineering
+
+Public Opinion Engineering names the organized shaping of public attitudes through media, public relations, experts, events, stereotypes, symbols, and trusted institutions. It is the practical media-psychological branch of [[Engineered Consent]].
+
+Use this link when the emphasis falls on technique: how opinion is studied, staged, crystallized, framed, or made to feel spontaneous.
+
+*[[Public Opinion]]* gives the diagnostic form through the pseudo-environment and the manufacture of consent. The public does not act on society directly, but on mediated pictures of society.
+
+*[[Propaganda (Bernays)]]* gives the practical form. Public relations becomes a profession for coordinating symbols, prestige, institutions, and attention.
+
+*[[Crystallizing Public Opinion]]* shows the method in more technical detail: publics are reached through overlapping group identities, created news, interpretation, and social mediation.
+
+This bridge differs from [[Language as Control System]]. Language control concerns symbolic structures that directly govern thought or behavior; public opinion engineering concerns the organized environment in which opinion forms.

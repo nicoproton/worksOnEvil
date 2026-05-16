@@ -23,13 +23,13 @@ This gives the graph the concept of [[Holarchy]]. It helps articulate why forced
 
 Koestler describes a polarity between self-assertive tendencies and integrative tendencies. A healthy system requires both: enough selfhood to remain a whole, and enough integration to belong to larger orders.
 
-This is especially useful for [[Forced Human Completion]]. Systems that abolish separateness in the name of unity destroy the self-assertive pole; systems of pure domination destroy integration by replacing relation with command.
+This is especially useful against [[Abolition of Separateness]]. Systems that abolish separateness in the name of unity destroy the self-assertive pole; systems of pure domination destroy integration by replacing relation with command.
 
 ## The Human Split
 
 Koestler's title criticizes simplistic models of mind and mechanism. Human beings are not reducible to machines, yet they are also not disembodied ghosts. The problem is the unstable relation between biological inheritance, symbolic consciousness, and social order.
 
-This makes the book relevant to [[Designed Successor Humanity]] and [[Machine as God]]. Mechanistic views of the person become dangerous when they invite technical redesign without understanding the layered nature of human life.
+This makes the book relevant to [[Designed Successor Humanity]] and [[Abstraction Without Prudence]]. Mechanistic views of the person become dangerous when they invite technical redesign without understanding the layered nature of human life.
 
 ## Aggression and Misfit
 

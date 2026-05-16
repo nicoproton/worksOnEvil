@@ -43,7 +43,7 @@ The city-building portions make the game more than a cosmic dualism. They show r
 
 Dr. Beruga is the game's technocratic overreacher. His desire to eliminate death leads to a plan involving the Asmodeus virus, mass death, and a chosen remnant preserved in a suspended, zombie-like immortality. His project is a clear case of [[Suspended Life Without Growth]]: life is protected by draining it of growth, risk, vulnerability, and ordinary human relation.
 
-Beruga does not present himself as malicious. His nightmare is produced by benevolent abstraction, by the wish to solve suffering through total control. The promise of perfected life becomes an administrative decision about which lives count. This also makes his project a compact example of [[False Cure]]: salvation is offered as survival, but the system preserves life by selecting, freezing, and depersonalizing it.
+Beruga does not present himself as malicious. His nightmare is produced by benevolent abstraction, by the wish to solve suffering through total control. The promise of perfected life becomes an administrative decision about which lives count. This also makes his project a compact example of [[False Cure]] and [[Domination Through the Machine]]: salvation is offered as survival, but the system preserves life by selecting, freezing, and depersonalizing it.
 
 His alliance with Dark Gaia also turns scientific salvation toward life-force extraction. Beruga's system does not renew life; it filters, freezes, and redirects living vitality into an artificial order.
 
