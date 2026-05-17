@@ -50,6 +50,8 @@ The spirituality of the City is closer to [[Privatio Boni]] than to genuine sacr
 
 That gives *BLAME!* a stronger relation to [[Designed Successor Humanity]] than the older wording suggested. The danger is not only that machines run without command; it is that a will toward posthuman replacement has helped set the machine-world loose.
 
+It also makes *BLAME!* a severe cyberpunk form of [[False Apotheosis]]. The promised evolutionary leap does not lead to fuller life; it produces extermination, illegibility, and a dead mechanical environment that no longer knows how to receive ordinary humanity.
+
 ## Killy's Search
 
 Killy's quest for a human with the Net Terminal Gene is a search for the possibility of restored relation between humanity and its technical world. The goal is not rebellion in the romantic sense, but reauthorization: finding a human being the system can recognize.

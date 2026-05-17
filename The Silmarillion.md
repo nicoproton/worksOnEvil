@@ -49,6 +49,8 @@ The Akallabeth, included in *The Silmarillion*, tells of Numenor's fall. The Num
 
 This makes the Numenor story a major anchor for [[Death Refused as Gift]] and [[Corrupting Guide]]. Death is treated as a political and spiritual problem to be overcome by assaulting the divine order, and Sauron turns that fear into apocalypse.
 
+Numenor is also a mythic form of [[False Apotheosis]]. Sauron offers the hope that deathlessness can be seized by worship, conquest, and rebellion, but the promised elevation ends in catastrophe. The deceived elite do not become gods; their civilization is swallowed by the very rebellion that promised to free it from death.
+
 Numenor also gives the graph a theological form of [[Fallen High Civilization]]. Its downfall is not caused by lack of power, beauty, law, or knowledge, but by disordered desire for a good that cannot be seized.
 
 The Akallabeth is therefore also a negative mirror of true consolation. The Numenoreans seek escape from death, but their escape becomes rebellion because it refuses the creaturely limits within which consolation would have to be received.

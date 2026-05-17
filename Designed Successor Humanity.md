@@ -11,9 +11,13 @@ This bridge belongs under [[Manufactured Humanity]], but its scale is larger tha
 
 Use this link when a work centers planned replacement, guided evolution, posthuman succession, or a preserved system claiming authority over what humanity must become.
 
+Use [[False Apotheosis]] when the planned successor is also a deceptive promise to the elite: the chosen are told they will become higher life while the hidden logic of the project consumes, discards, or replaces them too.
+
 *[[Nausicaa of the Valley of the Wind (Manga)]]* is one of the strongest cases. The Crypt's preserved plan treats the living post-apocalyptic world as transitional material for a future humanity designed by the dead old world.
 
 *[[Xenogears]]* gives the pattern a Gnostic-machine form: humanity is processed toward purposes imposed by Solaris and Deus rather than allowed to remain its own end.
+
+*[[BLAME!]]* gives the pattern a harsher cyberpunk form: a satanic-transhumanist attempt to force a new evolutionary stage helps unleash a machine-world in which ordinary humanity becomes illegitimate life.
 
 *[[New Bottles for New Wine]]* and [[Conscious Evolution]] provide non-fiction theoretical neighbors. They are not dystopias, but they raise the question of who directs the future human and by what measure.
 

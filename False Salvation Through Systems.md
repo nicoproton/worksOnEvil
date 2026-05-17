@@ -11,7 +11,7 @@ This is not a claim that every system is evil. It is a motif for works where sal
 
 When the promised salvation specifically perfects humanity by abolishing separateness or inner freedom, use [[Forced Human Completion]] and its sharper bridges: [[Abolition of Separateness]], [[Corrected Inwardness]], or [[Administered Human Formation]].
 
-Use more precise bridge concepts when possible. [[False Cure]] applies when healing, treatment, preservation, or therapeutic stability becomes control. [[Managed Crisis]] applies when emergency itself becomes the mechanism of expanded authority. [[Purification by Exclusion]] applies when peace or safety is purchased by removing beings treated as impure, illegitimate, or unfit. [[Good Captured by Evil]] applies when a real good such as restoration, knowledge, or order is redirected into destructive service.
+Use more precise bridge concepts when possible. [[False Cure]] applies when healing, treatment, preservation, or therapeutic stability becomes control. [[Managed Crisis]] applies when emergency itself becomes the mechanism of expanded authority. [[Purification by Exclusion]] applies when peace or safety is purchased by removing beings treated as impure, illegitimate, or unfit. [[Good Captured by Evil]] applies when a real good such as restoration, knowledge, or order is redirected into destructive service. [[False Apotheosis]] applies when a system promises selected humans elevation, immortality, or posthuman rule while actually making them material for possession, replacement, or disposal.
 
 Augustine of Hippo helps frame why these systems are seductive: they often promise real goods, but disorder love by making peace, unity, power, knowledge, or survival ultimate in the wrong way.
 

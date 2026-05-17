@@ -13,4 +13,4 @@ Use this link when the work contrasts real relation with artificial safety, dise
 
 In *[[The Matrix]]*, Zion's importance is not comfort but embodied communal life outside the simulation. In *[[Neon Genesis Evangelion]]*, Shinji's final choice preserves painful separateness rather than dissolving persons into Instrumentality. In *[[Zanoni]]*, love draws the immortal adept back into vulnerability. In *[[The Machine Stops]]*, the final human touch matters because mediated life has almost abolished bodily dependence.
 
-This concept is a natural counterweight to anti-incarnation if that bridge is developed later.
+Use [[Encounter vs Manipulation]] when the emphasis is not only bodily presence but the moral stance toward persons: meeting them as persons rather than processing them as material.

@@ -16,5 +16,6 @@ Prefer sharper bridge concepts when the local pattern is clear:
 - Use [[Death Refused as Gift]] when the refusal of mortality becomes rebellion against creaturely limits, divine order, or participation in a larger cycle.
 - Use [[Designed Mortality]] when artificial persons are made with controlled or shortened lifespans.
 - Use [[Predatory Immortality]] when immortality is sustained by consuming the life of others.
+- Use [[False Apotheosis]] when selected humans are promised post-organic, godlike, or elite survival but the hidden end is possession, sterility, replacement, or disposal.
 
 Keep direct links to this note for broad concept notes, contrasts, or works where the false promise of defeating death is the central issue and no narrower bridge carries the relation cleanly.

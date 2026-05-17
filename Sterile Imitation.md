@@ -13,4 +13,4 @@ Use this link when imitation, parody, counterfeit life, or sterile manufacture i
 
 In *[[That Hideous Strength]]*, the severed Head preserves voice and intelligence while destroying the living unity of the person. In *[[R.U.R.]]*, robots are made by subtracting interiority, memory, and reciprocity from human-like life. In *[[Dracula]]*, vampirism imitates vitality by taking blood and spreading un-death. In *[[The Lord of the Rings]]*, Mordor organizes, breeds, and manufactures without becoming a living creation equal to the good it opposes.
 
-This concept overlaps with [[Manufactured Humanity]] when the manufactured being exposes what has been subtracted, and with [[Predatory Immortality]] when imitation of life depends on taking life from others.
+This concept overlaps with [[Manufactured Humanity]] when the manufactured being exposes what has been subtracted, with [[Predatory Immortality]] when imitation of life depends on taking life from others, and with [[False Apotheosis]] when the sterile imitation is sold as human elevation.

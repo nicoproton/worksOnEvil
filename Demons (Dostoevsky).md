@@ -39,7 +39,7 @@ Their failures show Dostoevsky's refusal of easy solutions. The novel does not p
 
 The murder of Shatov is the cell's decisive act because it creates shared guilt. Pyotr understands that a crime can bind more effectively than belief. Once everyone is implicated, withdrawal becomes dangerous.
 
-This is where [[The Inner Ring (Psychology)]] darkens into terror. The wish to belong to the secret group ends in a sacrament of anti-community: the members are united by what destroys them.
+This is where [[The Inner Ring (Psychology)]] darkens into terror. The wish to belong to the secret group ends in [[Desecration as Initiation]]: the members are united by what destroys them.
 
 ## The Grand Inquisitor Shadow
 

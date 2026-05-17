@@ -16,6 +16,7 @@ Use this link when a work shows at least two of these features:
 - A respectable or technical front that conceals a darker spiritual command.
 - A hidden power that uses human agents while letting them misunderstand what they serve.
 - A false salvation project that ends in sterility, domination, possession, or anti-life order.
+- A promise of elite elevation, immortality, or higher life that secretly leads to possession, consumption, or anti-human sterility.
 - Explicit demonic, Satanic, Antichristic, or strongly infernal language.
 - A guide, institution, or elite circle that redirects real goods toward a destructive final purpose.
 
@@ -25,11 +26,13 @@ Do not use it for every secret society, every occult laboratory, or every dualis
 
 *[[That Hideous Strength]]* is the strongest modern example in the graph. The N.I.C.E. appears as a scientific-administrative institute, but its inner circle is being used by the Macrobes, Lewis's modernized name for fallen spiritual intelligences. The point is not that bureaucracy is automatically demonic; the point is that a reduced view of nature, language, body, and conscience makes the institute available to demonic command.
 
+It is also the clearest case of [[False Apotheosis]]. The inner circle expects a selected post-organic future, but the first sign of that future is the preserved Head as possessed medium. The demonic promise of higher life is a route toward anti-incarnational possession and a deadened world.
+
 *[[Paradise Lost]]* supplies the archetypal theological grammar: Satan builds a political conspiracy through the rhetoric of liberty while his deeper motive is refusal of the Good. It is not technocratic, but it clarifies why demonic conspiracy works through misnamed goods rather than simple chaos.
 
 *[[Lord of the World]]* gives the pattern an openly Antichristic form. The new world order promises peace and humanitarian unity, yet spiritually displaces God with humanity and prepares civilization for final apostasy.
 
-*[[Terranigma]]* is a qualified analogue rather than a Christian demonological case. Dark Gaia is closer to a dualist destructive power than to Lewis's fallen angels, but the plot structure fits: Ark's restorative obedience and Beruga's scientific salvation are both routed into a hidden anti-life design. The link should therefore be used with the note's ambiguity intact.
+*[[Terranigma]]* is a qualified analogue rather than a Christian demonological case. Dark Gaia is closer to the Earth's reverse face, distortion, and dualist destructive power than to Lewis's fallen angels, but the plot structure fits: Ark's restorative obedience and Beruga's scientific salvation are both routed into a hidden anti-life design. The link should therefore be used with the note's ambiguity intact.
 
 ## Boundary Cases
 

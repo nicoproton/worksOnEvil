@@ -18,9 +18,9 @@ Use this link for:
 
 *[[The Lord of the Rings]]* gives the non-modern archetype: the Ring makes the will effective by severing relation, hiding the bearer, and binding the user to Sauron's system of rule. Saruman gives the industrial form through policy, breeding, machinery, and the scarring of Isengard.
 
-*[[That Hideous Strength]]* gives the institutional and demonic form. The N.I.C.E. uses science, administration, and reform language to make nature, bodies, language, and conscience available for manipulation. The Macrobes exploit the institute because it has already accepted the machine-logic of control.
+*[[That Hideous Strength]]* gives the institutional and demonic form. The N.I.C.E. uses science, administration, and reform language to make nature, bodies, language, and conscience available for manipulation. The Macrobes exploit the institute because it has already accepted the machine-logic of control. Its promised post-organic elite future is [[False Apotheosis]]: the would-be rulers are also material for the powers they serve.
 
-*[[Terranigma]]* gives the technocratic-apocalyptic form. Beruga's cure for death and Dark Gaia's hidden design turn restoration and medical preservation into instruments of an anti-life order.
+*[[Terranigma]]* gives the technocratic-apocalyptic form. Beruga's healing science becomes domination when it turns toward selection, suspended survival, and an unchanging world. Dark Gaia's hidden design then captures both restoration and medical preservation as instruments of an anti-life order.
 
 *[[Blade Runner]]* gives an urban-corporate form. The city is alienating, but the deeper issue is not urban loneliness alone; it is a world where life, memory, labor, and death-limits have been broken into components for manufacture and control.
 

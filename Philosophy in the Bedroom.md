@@ -20,6 +20,8 @@ The work is structured as education. Eugénie is not simply tempted into isolate
 
 This makes the text a strong case of [[Corrupting Guide]]. The guide does not only seduce. The guide teaches a language in which corruption can call itself nature, liberty, and philosophy.
 
+The instruction also belongs to [[Desecration as Initiation]]. Eugénie's formation requires more than argument; she must be taught to cross boundaries so that inherited reverence becomes contempt and corruption becomes belonging.
+
 ## Libertinism as Political Program
 
 The text belongs centrally to [[Libertine Rationalism]]. Its scandal is not only erotic content. It turns libertinism into a political and metaphysical argument: if the Revolution has overthrown throne and altar, moral restraint must also be abolished.

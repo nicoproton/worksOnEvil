@@ -20,3 +20,5 @@ Biondetta in *[[The Devil in Love]]* gives the occult-erotic form. The guide app
 *[[Philosophy in the Bedroom]]* gives the ideological libertine form. The corrupting guide teaches a novice to reinterpret moral restraint as superstition and domination as nature.
 
 Porky in *[[EarthBound]]* begins as a corrupted follower and becomes a corrupting ruler in *[[Mother 3]]*. His evil works by parodying authority, friendship, childhood, and safety.
+
+When the guide requires the novice to violate a sacred or moral boundary as proof of membership, use [[Desecration as Initiation]] as the sharper bridge.

@@ -16,6 +16,8 @@ Use this link for:
 - Stories where accepted death, sleep, rebirth, or sacrifice is contrasted with self-preservation.
 - Theological or mythic accounts where immortality seized by force becomes catastrophe.
 
-*[[The Silmarillion]]* is the strongest anchor through Numenor: fear of death becomes rebellion against the Ban of the Valar under Sauron's guidance. *[[Phoenix (Tezuka)]]* repeatedly contrasts the desire to possess life forever with recurrence, death, and rebirth. *[[Lilith (MacDonald)]]* offers the opposite image: healing sleep and death accepted under divine care as passage into real waking.
+*[[The Silmarillion]]* is the strongest anchor through Numenor: fear of death becomes rebellion against the Ban of the Valar under Sauron's guidance. *[[Phoenix (Tezuka)]]* repeatedly contrasts the desire to possess life forever with recurrence, death, and rebirth. *[[Lilith (MacDonald)]]* offers the opposite image: healing sleep and death accepted under divine care as passage into real waking. *[[Terranigma]]* gives a non-Christian cyclical form: Lhasa's wheel of life stands against Beruga's attempt to abolish death through an unchanging technological order.
 
 This bridge often stands in contrast to [[Reincarnation and Cycles]], [[Eucatastrophe]], and [[Embodied Relation]].
+
+When the refusal of death is sold as elite or godlike transformation, use [[False Apotheosis]]. Numenor under Sauron and the N.I.C.E. in *[[That Hideous Strength]]* are the strongest theological forms: the promised escape from mortality becomes a route into worship of the wrong power and civilizational ruin.

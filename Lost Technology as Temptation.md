@@ -14,3 +14,5 @@ It often connects [[Fallen High Civilization]] to [[False Salvation Through Syst
 Use this link when a work makes inherited technical power morally charged rather than merely useful.
 
 In *The Dark Tower*, the Great Old Ones' technology survives as portals, machines, guardians, weapons, and corporate systems. These remnants are tempting and dangerous because they can serve cosmic dissolution after the civilization that made them has already fallen.
+
+In *[[Terranigma]]*, Beruga's preserved laboratories and survival systems make the old world's technical will available again after restoration. The temptation is not technology as such, but medicine and survival knowledge returning without the humility, mortality, or reciprocity needed to keep it humane.
