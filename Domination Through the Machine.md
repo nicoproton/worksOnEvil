@@ -18,6 +18,8 @@ Use this link for:
 
 *[[The Lord of the Rings]]* gives the non-modern archetype: the Ring makes the will effective by severing relation, hiding the bearer, and binding the user to Sauron's system of rule. Saruman gives the industrial form through policy, breeding, machinery, and the scarring of Isengard.
 
+Wagner's *[[The Ring of the Nibelung]]* gives a neighboring mythic form. Its ring is not Tolkien's Ring, but it also makes domination available through a forged object whose power begins in a renunciation of love.
+
 *[[That Hideous Strength]]* gives the institutional and demonic form. The N.I.C.E. uses science, administration, and reform language to make nature, bodies, language, and conscience available for manipulation. The Macrobes exploit the institute because it has already accepted the machine-logic of control. Its promised post-organic elite future is [[False Apotheosis]]: the would-be rulers are also material for the powers they serve.
 
 *[[Terranigma]]* gives the technocratic-apocalyptic form. Beruga's healing science becomes domination when it turns toward selection, suspended survival, and an unchanging world. Dark Gaia's hidden design then captures both restoration and medical preservation as instruments of an anti-life order.

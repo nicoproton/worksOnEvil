@@ -9,6 +9,8 @@ Occult science names the literary fusion of technical knowledge with magic, ritu
 
 The motif often appears in laboratories that resemble temples, inventors described as sorcerers, machines animated like idols, or systems that search for hidden laws connecting everything.
 
+The non-fiction occult branch helps clarify the pattern. *[[Magick in Theory and Practice]]* gives the operative side: ritual and will as disciplined technique. *[[The Secret Doctrine]]* gives the cosmological side: hidden laws and correspondences as a total account of reality.
+
 Use this link when a work deliberately blurs experiment, magic, and metaphysical command, but prefer the sharper bridge when the local pattern is clear:
 
 - Use [[Sorcerer-Scientist]] when the key figure is an inventor or experimenter whose technical mastery resembles conjuration.

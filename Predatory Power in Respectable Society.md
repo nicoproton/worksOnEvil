@@ -11,6 +11,6 @@ This bridge belongs near [[Layered Conspiracy]] and [[Vampiric Aristocracy]]. It
 
 Use this link when the horror depends on respectable society's inability or unwillingness to recognize what is nesting inside it.
 
-In *[[Dracula]]*, the Count enters England through contracts, real estate, shipping, and hidden nests. In *[[Salem's Lot]]*, Barlow occupies small-town America through property, servants, and concealment. In *[[The Mysteries of Paris]]*, respectable law, money, and status can mask predation as effectively as the criminal underworld.
+In *[[Dracula]]*, the Count enters England through contracts, real estate, shipping, and hidden nests. In *[[Salem's Lot]]*, Barlow occupies small-town America through property, servants, and concealment. In *[[The Mysteries of Paris]]*, respectable law, money, and status can mask predation as effectively as the criminal underworld. *[[Caleb Williams]]* gives an earlier political-Gothic version: reputation, class, and law protect a guilty gentleman while the exposed subordinate becomes the hunted figure.
 
 This concept can overlap with [[Hollowed Order]] when social forms remain after trust, justice, or charity has drained away.

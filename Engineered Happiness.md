@@ -15,6 +15,8 @@ Use more precise bridge concepts when possible. [[Programmed Contentment]] appli
 
 Russell's *The Scientific Outlook* and *The Impact of Science on Society* make the concept usable beyond fiction by treating education, conditioning, population, and social psychology as possible objects of scientific administration.
 
+Robert Owen's *[[A New View of Society]]* and *[[The Book of the New Moral World]]* give an earlier humane version: happiness and virtue are to be produced by better circumstances, education, and cooperative arrangements. The later dystopian question is what happens when such arrangement becomes total.
+
 For the political-media version, use [[Engineered Consent]]. Happiness concerns desire and psychic stability; consent concerns public agreement and legitimacy.
 
 *Do Androids Dream of Electric Sheep?* gives the concept a domestic, individualized form through mood organs: emotion becomes something dialed, scheduled, and technically adjusted.

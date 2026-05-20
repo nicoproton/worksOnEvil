@@ -9,6 +9,8 @@ Artificial immortality is the promise of defeating death through technical prese
 
 The motif often overlaps with elite selection, medical control, and the elimination of "unproductive" or unwanted life. It is distinct from resurrection or spiritual immortality because it tries to preserve life through technique rather than transformation, grace, or natural continuity.
 
+The older Romantic and alchemical branch appears in *[[St. Leon]]*. Its immortality is not technological, but it shows the same basic danger: life prolonged by secret art can become less human when it cuts the person off from trust, family, and ordinary vulnerability.
+
 Prefer sharper bridge concepts when the local pattern is clear:
 
 - Use [[Suspended Life Without Growth]] when technical preservation keeps bodies, fragments, or chosen remnants alive without ordinary flourishing.

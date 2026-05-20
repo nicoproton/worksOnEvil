@@ -11,6 +11,6 @@ This bridge belongs under [[Layered Conspiracy]]. It is useful when secrecy is p
 
 Use this link when the conspiracy depends on inner and outer circles, staged revelation, initiatory advancement, or graded access to the real aim.
 
-In *[[Memoirs Illustrating the History of Jacobinism]]*, lower participants serve causes whose final aims are supposedly known only to higher initiates. In *[[The Anglo-American Establishment]]*, Quigley's inner and outer circle model gives the vault a historical vocabulary for graded influence. In *[[Demons (Dostoevsky)]]*, Pyotr weaponizes the fantasy of a vast hidden network to produce obedience and complicity.
+In *[[Memoirs Illustrating the History of Jacobinism]]*, lower participants serve causes whose final aims are supposedly known only to higher initiates. In *[[The Anglo-American Establishment]]*, Quigley's inner and outer circle model gives the vault a historical vocabulary for graded influence. *[[Morals and Dogma]]* is a modest reference point for degree-based symbolic instruction rather than a conspiracy proof. In *[[Demons (Dostoevsky)]]*, Pyotr weaponizes the fantasy of a vast hidden network to produce obedience and complicity.
 
 This concept overlaps with [[The Inner Ring (Psychology)]] when the desire for admission into the next circle is the main lure.

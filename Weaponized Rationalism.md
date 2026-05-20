@@ -19,6 +19,8 @@ In cyberpunk, this often appears as formalized control over mind or language. *[
 
 In Tolkien, Saruman gives the motif a non-cybernetic form. His reason becomes policy, industry, breeding, and persuasive speech severed from wisdom.
 
+Blake's *[[The Book of Urizen]]* gives the motif a mythic form. Urizen is not a technocrat, but he imagines law, measurement, and bounded reason as a deadening power that makes a world of control.
+
 Bertrand Russell's *[[The Scientific Outlook]]* and *[[The Impact of Science on Society]]* are useful non-fiction anchors because they distinguish scientific inquiry from scientific technique as an organized social power.
 
 Sade's *[[Philosophy in the Bedroom]]* is a non-technocratic but important limit case: rational argument becomes anti-moral instruction, teaching the body as material for liberated appetite.

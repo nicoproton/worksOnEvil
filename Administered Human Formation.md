@@ -14,6 +14,6 @@ Use this link for:
 - Social orders where flourishing is defined from above by rulers, experts, guardians, or planners.
 - Non-fiction proposals that make psychology, education, heredity, or social adaptation fields of expert management.
 
-*[[The Republic]]* and *[[The City of the Sun]]* give ancient and early-modern forms: the city educates, mythologizes, and organizes persons for the whole. *[[A Modern Utopia]]* and *[[The Scientific Outlook]]* give modern planning forms. *[[Brave New World]]* gives the dystopian industrial form, where reproduction and conditioning make each person fit a social function.
+*[[The Republic]]* and *[[The City of the Sun]]* give ancient and early-modern forms: the city educates, mythologizes, and organizes persons for the whole. *[[A New View of Society]]* and *[[The Book of the New Moral World]]* give benevolent reformist forms, where character is made by circumstances and therefore social environment becomes a design problem. *[[A Modern Utopia]]* and *[[The Scientific Outlook]]* give modern planning forms. *[[Brave New World]]* gives the dystopian industrial form, where reproduction and conditioning make each person fit a social function.
 
 This concept overlaps with [[Engineered Caste]] when formation is explicitly hierarchical, with [[Programmed Contentment]] when it targets desire and mood, and with [[Scientific World State]] when expert planning becomes planetary order.

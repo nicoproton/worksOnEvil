@@ -17,6 +17,8 @@ Lord Henry in *[[The Picture of Dorian Gray]]* gives the decadent social form. H
 
 Biondetta in *[[The Devil in Love]]* gives the occult-erotic form. The guide appears through beauty, service, and vulnerability, making temptation difficult to separate from love.
 
+Lucifer in *[[Cain (Byron)]]* gives the Romantic-metaphysical form. He does not invent Cain's grief over death, but teaches him to interpret mortality and dependence as accusations against divine order.
+
 *[[Philosophy in the Bedroom]]* gives the ideological libertine form. The corrupting guide teaches a novice to reinterpret moral restraint as superstition and domination as nature.
 
 Porky in *[[EarthBound]]* begins as a corrupted follower and becomes a corrupting ruler in *[[Mother 3]]*. His evil works by parodying authority, friendship, childhood, and safety.

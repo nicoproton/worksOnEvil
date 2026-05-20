@@ -20,6 +20,10 @@ Use this link for:
 
 *[[Sketch for a Historical Picture of the Progress of the Human Mind]]* is the clearest theoretical anchor: Condorcet imagines the indefinite improvement of knowledge, liberty, equality, and human welfare. *[[The Year 2440]]* gives the fictional-utopian form: future Paris becomes a tribunal over the corrupt present.
 
+Thomas Paine's *[[Common Sense]]* and *[[Rights of Man]]* give the public revolutionary pamphlet form: inherited political order is judged by reason, rights, and future liberty. *[[The Age of Reason]]* gives the deist religious form, where revelation and priestcraft are judged by natural reason.
+
 Comte's *[[Catechism of Positive Religion]]* gives a later religious form. Progress is no longer only historical hope; it becomes part of a positivist moral order centered on Humanity.
+
+Robert Owen's *[[A New View of Society]]* gives the environmental-reform form: humanity improves as circumstances are rationally remade. *[[The Book of the New Moral World]]* expands that principle toward a complete social vision.
 
 This concept is a useful ancestor for later world-planning and evolutionary-humanist nodes, but it should remain distinct from them. Condorcet and Mercier are not simply Wells, Huxley, or technocratic dystopia in seed form. They belong at the moment where progress is still hope, prophecy, critique, and temptation at once.

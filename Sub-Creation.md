@@ -28,3 +28,5 @@ In *[[The Lord of the Rings]]*, the Ring is anti-sub-creative. It does not make 
 ## Relation to the Graph
 
 Sub-Creation is a positive counter-concept to [[Manufactured Humanity]], [[False Salvation Through Systems]], and [[Domination Through the Machine]]. It names making that does not abolish the freedom or integrity of what it encounters.
+
+Wagner's *[[The Artwork of the Future]]* is a useful contrast. Wagner's total artwork seeks communal aesthetic wholeness, while Tolkien's sub-creation is wary of making that becomes absorption, command, or a complete environment for the will of the maker.
