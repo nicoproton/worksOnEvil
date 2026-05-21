@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brave new world",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +177,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd4344196b33080c",
+  "active": "4c073c6693dd0ffc",
   "lastOpenFiles": [
+    "The Painter of Modern Life.md",
+    "Metropolis (Novel).md",
     "The Age of Reason.md",
     "Rights of Man.md",
     "Common Sense.md",
@@ -203,8 +205,6 @@
     "Queen Mab.md",
     "Brave New World.md",
     "Administered Human Formation.md",
-    "UNESCO - Its Purpose and Its Philosophy.md",
-    "Salem's Lot.md",
     "Shin Megami Tensei III_ Nocturne (Video Game).md~",
     "Shin Megami Tensei IV (Video Game).md~",
     "Digimon (Franchise).md~",

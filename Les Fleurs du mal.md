@@ -47,6 +47,8 @@ The collection is not a calm Augustinian treatise. Still, many poems can be read
 
 The relationship is worth keeping direct because it is historical as well as thematic. Baudelaire gives later decadence a vocabulary of artificial sensation, cursed beauty, urban melancholy, and spiritual doubleness. Huysmans and Wilde turn that vocabulary into more enclosed narrative forms: the curated chamber and the divided soul.
 
+Baudelaire's art criticism makes the same problem theoretical. *[[The Painter of Modern Life]]* argues that modern surfaces, fashion, crowds, and artificiality can become artistic material when imagination seizes their symbolic charge.
+
 ## Why It Belongs Here
 
 *Les Fleurs du mal* belongs in the graph because it deepens the decadent branch. It shows the pre-technological version of a pattern that later appears through machines, systems, and artificial worlds: the attempt to escape creaturely misery by intensifying sensation, aesthetic control, or forbidden knowledge. Its darkness is not institutional first. It is spiritual, erotic, urban, and poetic.

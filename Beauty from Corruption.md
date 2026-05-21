@@ -25,6 +25,8 @@ Use this link when:
 
 *[[Les Fleurs du mal]]* is the central poetic case: Baudelaire makes flowers from evil without making evil innocent. *[[Paris Spleen]]* carries the same problem into urban fragments, where modern misery becomes poetic material. *[[Against Nature (A Rebours)]]* gives the enclosed decadent form, where damaged experience is refined into private sensation. *[[The Picture of Dorian Gray]]* gives the narrative moral form, where beauty remains visible while corruption is displaced into the hidden portrait. *[[La-bas (Down There)]]* and *[[Les Chants de Maldoror]]* mark two darker exits from the pattern: occult inversion and metaphysical revolt.
 
+*[[The Painter of Modern Life]]* gives Baudelaire's art-theoretical version. Modern fashion, artificiality, crowds, and urban surfaces become material for beauty without ceasing to belong to a damaged modern world.
+
 This bridge can touch [[Privatio Boni]], but it should do so carefully. The connection is strongest when the work presents evil as parasitic on beauty, desire, language, or life. If a work treats evil as a positive rival substance, use [[Manichaeism and Zoroastrianism]] or [[Gnosticism and its Critics]] instead.
 
 The Huysmans conversion arc provides an important counter-movement through [[Beauty Returned to Worship]]. *[[En route]]*, *[[La Cathedrale]]*, and *[[L'Oblat]]* do not abandon aesthetic hunger; they test whether it can be purified by worship, discipline, symbol, and sacramental order.

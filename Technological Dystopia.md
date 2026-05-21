@@ -17,6 +17,8 @@ Some works emphasize extraction rather than control. In those cases, [[Stolen Li
 
 Tolkien's idea of the Machine, developed through [[Enchantment vs Magic]], clarifies a non-modern version of the same danger.
 
+Marinetti's *[[The Futurist Manifesto]]* is not a dystopia, but it is an important artistic ancestor to the danger: it openly loves speed, machinery, violence, and rupture as cultural renewal.
+
 *Between Two Ages* gives the cybernetic and informational version of this anxiety: technological power increasingly acts through communication systems, perception management, and expert coordination rather than through machines alone.
 
 The Wells-Huxley branch gives the planned global version: [[Scientific World State]], [[Evolutionary Humanism]], and [[Conscious Evolution]] name systems that promise rational planetary progress while risking the administration of human development itself.

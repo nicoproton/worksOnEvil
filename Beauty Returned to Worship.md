@@ -25,4 +25,6 @@ Use this link when:
 
 Huysmans's Durtal cycle is the clearest cluster. *[[Against Nature (A Rebours)]]* gives the enclosed decadent form, *[[La-bas (Down There)]]* passes through occult inversion, *[[En route]]* turns toward confession and monastic discipline, *[[La Cathedrale]]* reads Chartres as symbolic Catholic cosmos, and *[[L'Oblat]]* tests whether conversion can become stable rule of life.
 
+Ruskin's *[[The Nature of Gothic]]* is a neighboring art-theoretical case rather than a conversion narrative. It treats architecture, craft, imperfection, and labor as morally and spiritually meaningful, resisting both private aestheticism and industrial deadness.
+
 This concept is not the same as [[Sacred Infrastructure]]. A cathedral, monastery, or liturgy is not sacred because it functions as a life-support system. It is sacred because it orders matter, time, art, and community toward worship.
