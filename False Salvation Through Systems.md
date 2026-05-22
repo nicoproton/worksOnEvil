@@ -13,6 +13,10 @@ When the promised salvation specifically perfects humanity by abolishing separat
 
 Use more precise bridge concepts when possible. [[False Cure]] applies when healing, treatment, preservation, or therapeutic stability becomes control. [[Managed Crisis]] applies when emergency itself becomes the mechanism of expanded authority. [[Purification by Exclusion]] applies when peace or safety is purchased by removing beings treated as impure, illegitimate, or unfit. [[Good Captured by Evil]] applies when a real good such as restoration, knowledge, or order is redirected into destructive service. [[False Apotheosis]] applies when a system promises selected humans elevation, immortality, or posthuman rule while actually making them material for possession, replacement, or disposal.
 
+Use [[Sterile Scientific Salvation]] when science, AI, medicine, weapons research, or expert reconstruction claims to save humanity after catastrophe while treating persons as experimental, genetic, military, or administrative material.
+
+*[[The Penultimate Truth]]* gives the bunker form of this motif: shelter and wartime duty preserve an enclosed population only by keeping it inside a managed lie.
+
 Augustine of Hippo helps frame why these systems are seductive: they often promise real goods, but disorder love by making peace, unity, power, knowledge, or survival ultimate in the wrong way.
 
 *Nausicaa of the Valley of the Wind* is a major ecological version of [[Good Captured by Evil]]: the Crypt's preserved plan promises future restoration, but only by overruling the living world that has actually emerged.

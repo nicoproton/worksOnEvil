@@ -23,4 +23,6 @@ In [[Technetronic Society]], mediated reality becomes electronic and information
 
 Philip K. Dick intensifies the concept inwardly. In *[[VALIS]]*, the problem is not only media but revelation, paranoia, and the possibility that history itself is a false overlay.
 
+In *[[The Penultimate Truth]]*, mediation becomes spatial and political: underground workers live according to an official picture of the surface war, while the real surface is withheld from them.
+
 The Mother series gives the concept a dreamlike game form. Magicant in *[[EarthBound Beginnings]]* is a memory-world, while Moonside in *[[EarthBound]]* is a local collapse of shared meaning.

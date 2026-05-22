@@ -11,6 +11,6 @@ This bridge belongs under [[False Salvation Through Systems]] when the proposed 
 
 Use this link when crisis is not merely background danger, but the mechanism by which a system claims authority over life.
 
-In *[[Deus Ex]]*, the Gray Death crisis lets cure, fear, counter-terrorism, and information control converge. In *[[The First Global Revolution]]*, global crisis becomes the language through which integrated governance and world consciousness are proposed. In *[[The Impact of Science on Society]]*, scientific catastrophe makes larger systems of control appear necessary.
+In *[[Deus Ex]]*, the Gray Death crisis lets cure, fear, counter-terrorism, and information control converge. In *[[The Penultimate Truth]]*, the image of ongoing war keeps underground workers enclosed and obedient after the surface crisis has become a managed lie. In *[[The First Global Revolution]]*, global crisis becomes the language through which integrated governance and world consciousness are proposed. In *[[The Impact of Science on Society]]*, scientific catastrophe makes larger systems of control appear necessary.
 
 This concept should be used carefully for non-fiction. A text can diagnose real crises without being a villain plan. The graph question is whether the response to crisis tends to make human beings more governable than free.

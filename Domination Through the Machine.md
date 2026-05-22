@@ -30,4 +30,6 @@ Marinetti's *[[The Futurist Manifesto]]* gives an artistic manifesto form. It pr
 
 *[[BLAME!]]* gives the extreme megastructural form. Mechanical expansion has continued until human beings are estranged not only from each other, but from geography, history, identity, biology, and cosmic scale. The machine-world no longer serves life; life must recover a sign by which the machine can be restrained.
 
+*[[Wasteland]]* gives a post-nuclear game form through military AI and robotics: the old command machine keeps acting after the order that made it has disappeared.
+
 This concept differs from [[Machine as God]]. The machine need not be worshiped. It differs from [[Alienating City]] because urban alienation is only one outward embodiment. It differs from [[Weaponized Rationalism]] because the machine may be magical, industrial, bureaucratic, occult, commercial, or emotional rather than merely rationalized.

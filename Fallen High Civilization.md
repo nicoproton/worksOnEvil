@@ -17,4 +17,10 @@ Use this link when the older civilization's collapse is part of the work's centr
 
 *The Dark Tower* is a major example because Mid-World is full of machines, cities, languages, and systems left behind by the Great Old Ones. The ruins are not background decoration; they are part of the metaphysical damage threatening the Tower itself.
 
+*[[Second Variety]]* gives the post-nuclear robotics form: the civilization that fell leaves behind adaptive weapons that continue evolving after the moral and political order that made them has collapsed.
+
+*[[Mad Max 2]]* gives a narrower wasteland form. The old civilization survives mostly as fuel, vehicles, weapons, roads, and industrial debris, so its value for the graph is more atmospheric and social than metaphysical.
+
+*[[Wasteland]]* and *[[Fallout]]* give game forms of the motif. Their wastelands are not only empty ruins; they are landscapes where old bases, robotics, military research, vaults, and biological programs still act after the civilization that made them has morally and materially failed.
+
 *Dark Earth* gives the pattern a smaller game-world form: sunlit city-states survive after a technological catastrophe, while bunkers and technical remains reveal the half-forgotten old world beneath the new sacred order.

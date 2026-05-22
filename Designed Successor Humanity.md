@@ -19,6 +19,8 @@ Use [[False Apotheosis]] when the planned successor is also a deceptive promise 
 
 *[[BLAME!]]* gives the pattern a harsher cyberpunk form: a satanic-transhumanist attempt to force a new evolutionary stage helps unleash a machine-world in which ordinary humanity becomes illegitimate life.
 
+*[[Fallout]]* gives the post-nuclear mutation form through the Master and Unity. Humanity is treated as failed material that must be forcibly converted into a more durable successor species.
+
 *[[New Bottles for New Wine]]* and [[Conscious Evolution]] provide non-fiction theoretical neighbors. They are not dystopias, but they raise the question of who directs the future human and by what measure.
 
 *[[Phoenix (Tezuka)]]* is a softer, more cosmic counterpoint. Its artificial-life episodes matter because Tezuka repeatedly places manufactured life beneath a larger order of death, rebirth, and responsibility that technique cannot master.

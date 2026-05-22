@@ -13,4 +13,6 @@ Use this link when decline is built into the setting's metaphysical, historical,
 
 In *[[The Silmarillion]]*, Morgoth's marring enters Arda's conditions of life. In *[[The Dark Tower]]*, reality itself has loosened as the Tower and Beams come under attack. In *[[The Fall of the House of Usher (Poe)]]*, house, bloodline, atmosphere, and psyche collapse together. In *[[Paradise Lost]]*, severance from divine order begins a history of inward and cosmic loss.
 
+*[[Dr. Bloodmoney]]* gives a post-nuclear science-fiction version. The wound of the world appears through altered bodies, damaged communities, guilt, and strange survival rather than through a clean rebuilding program.
+
 This concept is not the same as [[Fallen High Civilization]]. A fallen civilization may leave ruins; a world wound names damage to the order that makes life, memory, family, language, or reality cohere.

@@ -15,6 +15,8 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 
 *[[BLAME!]]* gives the motif its architectural extreme. The City has become an autonomous megastructure whose systems continue after human command has collapsed.
 
+*[[I Have No Mouth, and I Must Scream]]* gives the infernal interior form: the machine's environment is the world the victims inhabit, and there is no ordinary outside from which human dwelling can be recovered.
+
 *[[We (Zamyatin)]]* gives the motif a rationalist and political form: glass architecture, synchronized time, and mathematical order make the state visible in the shape of everyday life.
 
 *[[Metropolis (Novel)]]* is a symbolic-industrial case. The city is not just a backdrop for class conflict; it is a machine-age spiritual architecture built as a modern Babel.
