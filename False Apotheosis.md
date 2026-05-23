@@ -31,4 +31,6 @@ The fall of Numenor in *[[The Silmarillion]]* gives a mythic theological analogu
 
 *[[Terranigma]]* gives a qualified technocratic-game analogue through Beruga. His preserved remnant and immortality project promise survival beyond ordinary death, but the project is captured by Dark Gaia's anti-life design. The game should not be flattened into Lewis's Christian demonology: Beruga's evil lies in turning healing science into selection, stasis, and an unchanging world. *[[BLAME!]]* gives a cyberpunk limit case when a satanic-transhumanist desire for the next evolutionary stage helps unleash a machine-world in which ordinary humanity becomes illegitimate life.
 
+*[[Camp Concentration]]* gives a secular enhancement form: intelligence is elevated through an imposed experiment that consumes the subject. *[[The Three Stigmata of Palmer Eldritch]]* gives a more metaphysical and commercial form, where expanded reality may become possession or absorption into Eldritch's presence.
+
 This concept should not be used for every transhuman or technological-divinity story. *[[Deus Ex]]*, for example, asks whether merging with Helios could be benevolent machine rule; the game leaves the question politically and metaphysically ambiguous. Use [[Networked Divinity]] there unless the promised elevation is clearly exposed as a trap.

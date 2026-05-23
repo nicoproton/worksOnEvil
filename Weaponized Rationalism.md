@@ -24,3 +24,5 @@ Blake's *[[The Book of Urizen]]* gives the motif a mythic form. Urizen is not a 
 Bertrand Russell's *[[The Scientific Outlook]]* and *[[The Impact of Science on Society]]* are useful non-fiction anchors because they distinguish scientific inquiry from scientific technique as an organized social power.
 
 Sade's *[[Philosophy in the Bedroom]]* is a non-technocratic but important limit case: rational argument becomes anti-moral instruction, teaching the body as material for liberated appetite.
+
+The postwar science-fiction branch gives several secular forms. *[[Camp Concentration]]* turns enhancement into prison experiment, *[[Cat's Cradle]]* turns elegant discovery into apocalypse, and *[[The Atrocity Exhibition]]* turns clinical and media language into a way of breaking the human image into usable fragments.

@@ -12,3 +12,5 @@ This concept overlaps with [[Tower of Babel Archetype]] when control or collapse
 Use this link when words, code, or symbols function as an operating system for persons or societies.
 
 In non-fiction media theory, the concept overlaps with [[Mediated Reality]] and [[Engineered Consent]], where public language helps construct the environment in which people form opinions.
+
+William S. Burroughs gives the motif its viral media form. *[[The Ticket That Exploded]]* and *[[Nova Express]]* imagine words, recordings, images, and scripts as control systems that infect desire and behavior.

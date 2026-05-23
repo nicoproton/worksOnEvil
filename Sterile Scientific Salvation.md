@@ -27,6 +27,8 @@ Use this link when:
 
 *[[Dr. Bloodmoney]]* is a looser case: science has helped wound the world, but the novel refuses to turn postwar mutation into a confident program of salvation. It belongs here as a damaged post-nuclear counterpoint rather than a direct successor-humanity scheme.
 
+*[[Camp Concentration]]* gives the prison-laboratory form: enhancement, punishment, and scientific sacrifice converge in an experiment that makes prisoners brilliant while consuming them.
+
 *[[Wasteland]]* gives the early game form through military AI, robots, and postwar machine inheritance. *[[Fallout]]* gives the biological and eugenic game form through FEV, the Master, Unity, and the Enclave.
 
 This concept overlaps with [[Designed Successor Humanity]] when science seeks to replace old humanity, with [[Purification by Exclusion]] when the saved future requires removing the impure or obsolete, and with [[Fallen High Civilization]] when the laboratories are ruins of a technically advanced order that failed morally before it fell.

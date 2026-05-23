@@ -20,3 +20,5 @@ Use this link when the harm comes through a rational form that is internally coh
 *[[Psycho-Pass]]* gives the quantified cybernetic form. Moral judgment becomes technical output, and the system's apparent objectivity displaces responsibility.
 
 *[[The Machine Stops]]* gives the disembodied comfort form. Rationalized mediation makes embodied life appear inefficient, embarrassing, and almost irrational.
+
+*[[Cat's Cradle]]* gives the scientific-discovery form: ice-nine is elegant, technically astonishing, and catastrophic because invention outruns prudence. *[[Player Piano]]* gives the social-administrative form, where tests, machines, and managerial classification replace the concrete dignity of work. *[[Ratner's Star]]* gives the comic research-institute form, where mathematical brilliance does not automatically become wisdom.

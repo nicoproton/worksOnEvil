@@ -22,4 +22,6 @@ Keep direct links to this note for literal or unusually concentrated cases where
 
 *[[Wasteland]]* gives a post-nuclear game form through Cochise, an old military AI whose command survives the civilization that built it.
 
+*[[Player Piano]]* is a weaker but useful automation form: the machines are not worshiped as gods, but the social order begins to treat machine efficiency and technical management as the measure of human worth.
+
 The Mother series gives the motif grotesque, intimate forms: the Devil's Machine preserves Giygas without healing him in *EarthBound*, while Porky's Absolutely Safe Capsule in *Mother 3* offers perfect protection as perfect isolation.
