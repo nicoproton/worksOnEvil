@@ -44,6 +44,8 @@ The direct link matters because the relationship is not only thematic. Dorian's 
 
 The book is therefore an extension of Lord Henry's influence. Aphorism becomes atmosphere; temptation becomes lifestyle.
 
+This also places Dorian in the line of [[Bovarysme]], though in a darker and more self-conscious form than *[[Madame Bovary]]*. A book does not merely entertain him; it teaches him how to imagine himself, and then how to make life imitate that imagined self.
+
 Behind that yellow book stands the wider decadent inheritance of *[[Les Fleurs du mal]]*: beauty, sin, artificial sensation, and spiritual exhaustion become joined so closely that Dorian can mistake intensity for depth.
 
 ## Youth Without Innocence

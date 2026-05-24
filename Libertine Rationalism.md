@@ -23,6 +23,6 @@ Use this link when:
 - anti-Christian or anti-moral argument becomes permission for domination;
 - instruction, education, or initiation teaches a novice to call corruption freedom.
 
-*[[Philosophy in the Bedroom]]* is the clearest case because libertine instruction becomes a political and metaphysical program. *[[Justine and Juliette]]* gives the narrative form, where virtue is treated as ignorance and vice as alignment with the world's true law. *[[The 120 Days of Sodom]]* gives the enclosed elite form, where rational classification and sovereign appetite create a closed world of use.
+*[[Les Liaisons dangereuses]]* gives the social-strategic form: libertine intelligence turns seduction, reputation, and letters into instruments of domination. *[[Philosophy in the Bedroom]]* is the clearest doctrinal case because libertine instruction becomes a political and metaphysical program. *[[Justine and Juliette]]* gives the narrative form, where virtue is treated as ignorance and vice as alignment with the world's true law. *[[The 120 Days of Sodom]]* gives the enclosed elite form, where rational classification and sovereign appetite create a closed world of use.
 
 This bridge is near [[Disordered Love]], but it is more ideological. Disordered Love names the inward misordering of desire; Libertine Rationalism names the doctrine that calls that misordering truth.

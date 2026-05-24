@@ -13,6 +13,8 @@ Walter Lippmann's *[[Public Opinion]]* gives the concept its strongest anchor th
 
 This differs from [[Simulated Reality]]. A mediated reality need not be a total artificial world; it may be ordinary public life under conditions of scale, distance, and media dependence.
 
+In literary form, mediation can happen before electronic media. [[Bovarysme]] names the case where novels, social images, fashions, and romantic scripts become the practical environment through which a person judges ordinary life.
+
 ## Political Use
 
 Mediated reality becomes dangerous when the available pictures of the world are engineered, narrowed, or staged. The public may still feel informed while responding to an environment shaped by others.

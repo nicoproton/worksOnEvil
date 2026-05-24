@@ -15,6 +15,8 @@ Sauron in *[[The Lord of the Rings]]* pours himself into the Ring and becomes bo
 
 Dorian in *[[The Picture of Dorian Gray]]* gains freedom from visible consequence, but that freedom contracts into secrecy, dependence, murder, and bondage to the hidden portrait.
 
+*[[Venus in Furs]]* gives an inverted erotic form. Severin seeks mastery over experience by scripting his own submission, but the role he designs becomes a captivity that diminishes relation.
+
 *[[The Revolt of the Angels]]* gives the motif a political-theological warning by inversion: Satan recognizes that seizing the heavenly throne could make the rebel into another tyrant.
 
 ## False Safety

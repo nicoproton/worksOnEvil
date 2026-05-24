@@ -23,4 +23,4 @@ Use this link when:
 - victims are excluded from the community of persons who count;
 - the ruler's freedom depends on cutting the world off from witness, relation, and consequence.
 
-*[[The 120 Days of Sodom]]* is the central Sadean case. It turns libertine desire into an enclosed system of absolute power. The concept can also clarify why some later technocratic or conspiratorial works feel Sadean even without erotic content: they imagine a managerial elite acting on human beings after removing every higher limit.
+*[[The 120 Days of Sodom]]* is the central Sadean case. It turns libertine desire into an enclosed system of absolute power. *[[The Torture Garden]]* gives a decadent variation: a cultivated space where beauty, cruelty, spectacle, and suspended pity become one experience. The concept can also clarify why some later technocratic or conspiratorial works feel Sadean even without erotic content: they imagine a managerial elite acting on human beings after removing every higher limit.

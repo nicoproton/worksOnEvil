@@ -15,4 +15,6 @@ Use this link when the emphasis falls on technique: how opinion is studied, stag
 
 *[[Crystallizing Public Opinion]]* shows the method in more technical detail: publics are reached through overlapping group identities, created news, interpretation, and social mediation.
 
+*[[Lost Illusions]]* gives an early literary form: journalism, reviews, gossip, salons, and publishing manufacture reputations and make public value feel spontaneous even when it is traded and staged.
+
 This bridge differs from [[Language as Control System]]. Language control concerns symbolic structures that directly govern thought or behavior; public opinion engineering concerns the organized environment in which opinion forms.

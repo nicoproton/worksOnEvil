@@ -15,6 +15,10 @@ Sauron's role in the downfall of Numenor in *[[The Silmarillion]]* is one of the
 
 Lord Henry in *[[The Picture of Dorian Gray]]* gives the decadent social form. He corrupts by aphorism, charm, and aesthetic theory, turning real goods such as beauty and youth into permissions for self-destruction.
 
+*[[Les Liaisons dangereuses]]* gives the aristocratic libertine form. Merteuil and Valmont do not only seduce; they teach others to inhabit a social game whose rules are already corrupt.
+
+Fermin de Pas in *[[La Regenta]]* gives the spiritual-director form. The danger is sharper because guidance appears under religious authority while becoming entangled with ambition, possessiveness, and desire.
+
 Biondetta in *[[The Devil in Love]]* gives the occult-erotic form. The guide appears through beauty, service, and vulnerability, making temptation difficult to separate from love.
 
 Lucifer in *[[Cain (Byron)]]* gives the Romantic-metaphysical form. He does not invent Cain's grief over death, but teaches him to interpret mortality and dependence as accusations against divine order.
