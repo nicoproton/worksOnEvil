@@ -20,3 +20,5 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 *[[We (Zamyatin)]]* gives the motif a rationalist and political form: glass architecture, synchronized time, and mathematical order make the state visible in the shape of everyday life.
 
 *[[Metropolis (Novel)]]* is a symbolic-industrial case. The city is not just a backdrop for class conflict; it is a machine-age spiritual architecture built as a modern Babel.
+
+*[[High-Rise]]* gives the architectural-social form: a luxury tower becomes a complete habitat whose technical and class structures produce a closed environment of status, conflict, and regression.

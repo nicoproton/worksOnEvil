@@ -27,6 +27,6 @@ Philip K. Dick intensifies the concept inwardly. In *[[VALIS]]*, the problem is 
 
 In *[[The Penultimate Truth]]*, mediation becomes spatial and political: underground workers live according to an official picture of the surface war, while the real surface is withheld from them.
 
-*[[The Atrocity Exhibition]]* gives the media-trauma form: images of war, celebrity, medicine, sex, and violence reorganize psychic life. *[[The Shockwave Rider]]* gives the information-age form, where records and networks mediate identity itself.
+*[[The Atrocity Exhibition]]* gives the media-trauma form: images of war, celebrity, medicine, sex, and violence reorganize psychic life. *[[Videodrome]]* gives the screen-body form, where broadcast media enters perception and flesh. *[[American Psycho]]* gives the commodity-surface form, where brands, status images, and media language become the practical environment of personhood. *[[The Shockwave Rider]]* gives the information-age form, where records and networks mediate identity itself.
 
 The Mother series gives the concept a dreamlike game form. Magicant in *[[EarthBound Beginnings]]* is a memory-world, while Moonside in *[[EarthBound]]* is a local collapse of shared meaning.
