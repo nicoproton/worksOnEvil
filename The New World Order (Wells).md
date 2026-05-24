@@ -23,13 +23,13 @@ This makes the book a strong case for [[Scientific World State]]. The proposed c
 
 Wells is not simply calling for tyranny. He connects world order to human rights, law, and rational administration. That makes the book more interesting for the graph: the danger is not an openly evil system, but a system proposed as the only rational protector of humanity.
 
-This links to [[False Salvation Through Systems]]. The book's promise is real peace and stability; the graph question is what happens when peace becomes dependent on total administrative redesign.
+This links to [[Managed Crisis]]. The book's promise is real peace and stability after political catastrophe; the graph question is what happens when peace becomes dependent on total administrative redesign.
 
 ## Education for World Citizenship
 
 Wells's world order requires new loyalties. People must be educated away from narrow nationalism and toward a planetary civic identity.
 
-This connects the book to [[Engineered Consent]] and [[Language as Control System]]. A world state is not built only through law; it requires a new vocabulary of belonging.
+This connects the book to [[World-Consciousness Formation]] and [[Language as Control System]]. A world state is not built only through law; it requires a new vocabulary of belonging.
 
 ## Wells's Utopian Continuity
 

@@ -16,7 +16,7 @@ tags:
 
 Bernays presents the public relations counsel as a specialist who interprets the public to the client and the client to the public. The role is not merely publicity; it is strategic social mediation.
 
-This makes the book important for [[Engineered Consent]]. Consent is not only demanded after the fact; it is cultivated through continuous interpretation, framing, and adjustment.
+This makes the book important for [[Public Opinion Engineering]]. Consent is not only demanded after the fact; it is cultivated through continuous interpretation, framing, and adjustment.
 
 ## Interlapping Groups
 
@@ -34,4 +34,4 @@ This links the book to [[Mediated Reality]]. What the public experiences as "the
 
 The book is especially useful because its methods can serve many causes. Bernays is describing technique more than doctrine.
 
-That makes it a practical branch of [[Weaponized Rationalism]]. Rational analysis of publics, symbols, and channels becomes a tool that can serve persuasion without necessarily asking whether the persuasion is true or good.
+That makes it a practical branch of [[Public Opinion Engineering]]. Rational analysis of publics, symbols, and channels becomes a tool that can serve persuasion without necessarily asking whether the persuasion is true or good.

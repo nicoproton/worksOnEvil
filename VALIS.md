@@ -36,7 +36,7 @@ This links the novel to [[Language as Control System]] and [[Simulated Reality]]
 
 VALIS is both divine and system-like: vast, active, living, intelligent. The name itself fuses theology with cybernetic language.
 
-This makes the novel a strange companion to [[Machine as God]]. Unlike dystopian machine-gods, VALIS may be salvific, but its form still blurs divine agency and technological system.
+This makes the novel a strange companion to [[Networked Divinity]]. Unlike dystopian machine-gods, VALIS may be salvific, but its form still blurs divine agency and technological system.
 
 ## Gnostic Hope and Paranoia
 

@@ -16,3 +16,5 @@ In technological works, the same structure often appears as [[Simulated Reality]
 *Xenogears* is one of the graph's strongest game examples because its hidden order is both technological and theological: false divinity, managed history, and liberation through the exposure of a concealed system.
 
 *VALIS* gives the graph its most explicit Philip K. Dick version of the pattern: Black Iron Prison, divine information, false history, and revelation as data-like awakening.
+
+*[[The Revolt of the Angels]]* gives the satirical anti-clerical version. Anatole France identifies the ruling God with Ialdabaoth and makes angelic rebellion look like intellectual liberation from a false heavenly regime.

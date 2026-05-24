@@ -17,7 +17,7 @@ tags:
 
 Russell treats education as more than instruction. It forms habits, loyalties, fears, desires, and capacities for judgment.
 
-This connects the book to [[Engineered Consent]] and [[Engineered Happiness]]. The education system can support freedom, but it can also produce citizens adapted to a planned order.
+This connects the book to [[World-Consciousness Formation]] and [[Programmed Contentment]]. The education system can support freedom, but it can also produce citizens adapted to a planned order.
 
 ## Freedom and Discipline
 

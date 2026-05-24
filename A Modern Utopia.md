@@ -29,7 +29,7 @@ This links the book to [[Elite Network Historiography]] and [[The Inner Ring (Ps
 
 Wells is interested in types of persons, social fitness, movement, reproduction, and institutional design. The utopia thinks in categories.
 
-This creates a connection to [[Forced Human Completion]] and [[Engineered Happiness]]. The utopian question is whether persons are being helped to flourish, or sorted into a planned order that defines flourishing for them.
+This creates a connection to [[Administered Human Formation]] and [[Programmed Contentment]]. The utopian question is whether persons are being helped to flourish, or sorted into a planned order that defines flourishing for them.
 
 ## Utopia as Ambiguous Blueprint
 

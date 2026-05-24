@@ -13,6 +13,6 @@ The concept appears in ancient and early-modern utopias such as *[[The Republic]
 
 ## From Reproduction to Manufacture
 
-The concept is an ancestor of [[Manufactured Humanity]]. Later works replace civic pairing or controlled family life with hatcheries, cloning, artificial bodies, and genetic design.
+The concept is an ancestor of [[Engineered Caste]] and [[Manufactured Humanity]]. Later works replace civic pairing or controlled family life with hatcheries, cloning, artificial bodies, and genetic design.
 
 Use this link when a work treats generation itself as part of political or social planning.

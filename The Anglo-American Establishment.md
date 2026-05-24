@@ -11,7 +11,7 @@ tags: [History, Politics, EliteNetworks, ConceptualContext]
 
 Quigley's strongest graph contribution is structural. He describes a network organized through a conscious inner circle and looser outer circles: Rhodes, Milner, the "Society of the Elect," the "Association of Helpers," the Round Table groups, and adjacent institutions or publications.
 
-This is a strong non-fiction anchor for [[Layered Conspiracy]]. The value is not that it proves every fictional conspiracy is historically real, but that it gives a historical vocabulary for how influence can operate through different grades of knowledge and commitment.
+This is a strong non-fiction anchor for [[Graded Initiation]]. The value is not that it proves every fictional conspiracy is historically real, but that it gives a historical vocabulary for how influence can operate through different grades of knowledge and commitment.
 
 ## The Inner Ring as Social Mechanism
 

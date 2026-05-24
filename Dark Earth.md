@@ -41,7 +41,7 @@ This makes the game useful as a contrast case inside the vault. It shows a duali
 
 The attack on the Sunseers reveals hidden factions, compromised authorities, and deeper manipulation beneath the public religious order of Sparta. Arkhan's investigation moves through priests, guardians, sewers, political treachery, and concealed knowledge.
 
-That gives the game a solid relation to [[Layered Conspiracy]]. The threat is not only outside the city walls; the city's own offices and protectors are penetrated by secret allegiance and ambition.
+That gives the game a solid relation to [[Respectable Front]]. The threat is not only outside the city walls; the city's own offices and protectors are penetrated by secret allegiance and ambition.
 
 ## Old Bunkers and the Source of Light
 

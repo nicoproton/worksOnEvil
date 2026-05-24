@@ -15,4 +15,6 @@ The primary anchor is Francis Bacon's *[[New Atlantis]]*, where Salomon's House 
 
 The motif is ambivalent. In positive form, the institution protects knowledge and serves the common good. In dark form, it becomes a hidden organ of control.
 
-This connects the concept to [[Elite Network Historiography]], [[Weaponized Rationalism]], and [[Technological Dystopia]]. *[[That Hideous Strength]]* is a major fictional inversion: the research institute becomes corrupt while still claiming public service.
+This connects the concept to [[Elite Network Historiography]], [[Scientific World State]], and [[Respectable Front]]. *[[That Hideous Strength]]* is a major fictional inversion: the research institute becomes corrupt while still claiming public service.
+
+*[[Ratner's Star]]* gives the motif a comic and abstract form: the scientific institute gathers experts, codes, signals, and cosmological interpretation into an enclosed world of knowledge.

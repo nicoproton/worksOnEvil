@@ -18,19 +18,21 @@ tags:
 
 The One Ring is not only a magical object. It is Sauron's will externalized into a tool that can dominate other wills. It promises effectiveness, invisibility, command, and the ability to act beyond ordinary limits.
 
-This makes the Ring the anti-image of [[Enchantment vs Magic]]: power without free participation. It is not technological in the industrial sense, but it functions like Tolkien's "Machine," an instrument that amplifies possessive will and tempts its bearer to replace relation with control.
+This makes the Ring the anti-image of [[Enchantment vs Magic]] and a central case of [[Domination Through the Machine]]: power without free participation. It is not technological in the industrial sense, but it functions like Tolkien's "Machine," an instrument that amplifies possessive will and tempts its bearer to replace relation with control.
+
+The unavoidable comparison is Wagner's *[[The Ring of the Nibelung]]*, but the connection should be made through shared Northern sources and contrast, not simple derivation. Tolkien rejected a direct equation between the rings. Wagner's ring is forged through the renunciation of love inside a tragic myth of gods and power; Tolkien's Ring is Sauron's externalized will, and its defeat comes through pity, renunciation, and providential failure rather than heroic possession.
 
 ## Sauron and Privative Power
 
 Sauron does not create a living world of his own. He enslaves, organizes, breeds, deceives, and corrupts. His power depends on bending existing creatures, lands, crafts, and desires toward himself.
 
-This places the novel close to [[Privatio Boni]]. Mordor is not an alternate creation equal to the Shire or Lothlorien; it is order without fertility, command without love, and production without true making.
+This places the novel close to [[Sterile Imitation]]. Mordor is not an alternate creation equal to the Shire or Lothlorien; it is order without fertility, command without love, and production without true making.
 
 ## The Fellowship as Binding Force
 
 Against the Ring stands not a greater weapon but a fellowship. The Company is fragile, mixed, and eventually broken, yet its bonds continue to act across distance: Frodo and Sam, Merry and Pippin, Aragorn and his people, Gimli and Legolas, Faramir and his renunciation.
 
-This makes the novel a major case for [[Entropy and the Binding Force]]. The binding force is not abstract sentiment. It appears as oath, mercy, friendship, memory, hospitality, and the refusal to possess.
+This makes the novel a major case for [[Fragile Counter-Community]]. The binding force is not abstract sentiment. It appears as oath, mercy, friendship, memory, hospitality, and the refusal to possess.
 
 Sauron's fate also belongs to [[Self-Imprisoning Domination]]. By pouring himself into the Ring as an instrument of rule, he becomes dependent on the object through which he tried to dominate others.
 

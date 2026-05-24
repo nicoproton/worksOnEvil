@@ -24,17 +24,17 @@ That gives the novel a useful tension with [[Gnosticism and its Critics]]. The w
 
 Lilith is a figure of ancient pride, sterility, and self-possession. She refuses to open her hand, refuses repentance, and clings to sovereignty over herself and others. Her evil is less a project of conquest than a refusal to receive life rightly.
 
-This gives the novel a strong relation to [[Privatio Boni]]. Lilith's power is a locked absence: beauty without humility, freedom without love, life turned inward until it becomes deathly.
+This gives the novel a strong relation to [[Disordered Love]]. Lilith's power is a locked absence: beauty without humility, freedom without love, life turned inward until it becomes deathly.
 
 ## The Little Ones
 
 The Little Ones embody incompletion, innocence, and arrested growth. Their presence makes salvation developmental rather than merely juridical. The question is not only who is guilty, but who can grow into full life.
 
-This connects the novel to [[Entropy and the Binding Force]]. Life is preserved and restored through care, maturation, and relation, not through self-enclosed power.
+This connects the novel to [[Embodied Relation]]. Life is preserved and restored through care, maturation, and relation, not through self-enclosed power.
 
 ## Healing Sleep
 
-MacDonald's central image of salvation is sleep in the house of the dead: a healing death that prepares souls for true waking. This is almost the opposite of [[Artificial Immortality]]. The novel does not try to avoid death by technique; it imagines death accepted under divine care as the passage into real life.
+MacDonald's central image of salvation is sleep in the house of the dead: a healing death that prepares souls for true waking. This is almost the opposite of [[Death Refused as Gift]]. The novel does not try to avoid death by technique; it imagines death accepted under divine care as the passage into real life.
 
 That contrast is the reason *Lilith* belongs in the graph. It gives the vault a counter-image to false immortality: salvation as surrender, purification, and awakening.
 

@@ -17,7 +17,7 @@ This links the work to [[Scientific World State]] by ancestry and contrast. The 
 
 The city abolishes private property and organizes family life communally. Private attachment is treated as a threat to civic unity.
 
-This connects the work to [[Forced Human Completion]]. Human beings are to be completed as citizens of the whole, but the cost is the narrowing or abolition of private bonds.
+This connects the work to [[Administered Human Formation]]. Human beings are to be completed as citizens of the whole, but the cost is the narrowing or abolition of private bonds.
 
 ## Reproductive Ordering
 
@@ -29,7 +29,7 @@ This makes the text a strong anchor for [[Communal Reproduction]]. The future hu
 
 The city's walls display knowledge through images, making the built environment itself educational. Citizens are formed by the city's symbolic order.
 
-This links the work to [[Engineered Consent]] and [[Language as Control System]]. The city teaches by surrounding its people with an organized worldview.
+This links the work to [[Noble Lie]] and [[Language as Control System]]. The city teaches by surrounding its people with an organized worldview.
 
 ## Utopia as Total Pedagogy
 

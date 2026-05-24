@@ -1,5 +1,5 @@
 ---
-aliases: [Black Science, Sorcerer Scientist]
+aliases: [Black Science]
 tags: [Occult, Science, Technology, Concept]
 ---
 
@@ -9,6 +9,14 @@ Occult science names the literary fusion of technical knowledge with magic, ritu
 
 The motif often appears in laboratories that resemble temples, inventors described as sorcerers, machines animated like idols, or systems that search for hidden laws connecting everything.
 
-Use this link when a work deliberately blurs experiment, magic, and metaphysical command.
+The non-fiction occult branch helps clarify the pattern. *[[Magick in Theory and Practice]]* gives the operative side: ritual and will as disciplined technique. *[[The Secret Doctrine]]* gives the cosmological side: hidden laws and correspondences as a total account of reality.
 
-The motif can be intimate, as in Hoffmann's optics and automata in *The Sandman*, urban and mystical, as in *The Golem*, or apocalyptic and institutional, as in *Neon Genesis Evangelion*.
+Use this link when a work deliberately blurs experiment, magic, and metaphysical command, but prefer the sharper bridge when the local pattern is clear:
+
+- Use [[Sorcerer-Scientist]] when the key figure is an inventor or experimenter whose technical mastery resembles conjuration.
+- Use [[Ritual Technology]] when the machine or experiment functions as an apparatus for souls, hidden powers, resurrection, revelation, or metaphysical contact.
+- Use [[Hidden Correspondence System]] when the work imagines reality as a network of secret signs, invisible laws, or esoteric patterns.
+
+When occult science becomes the outer technique through which a deeper infernal power commands human agents, use [[Demonic Conspiracy]] as the more precise bridge. *[[That Hideous Strength]]* is the clearest case because the scientific institute is not merely haunted by occult desire; it is being directed by fallen intelligences.
+
+Keep direct links to this note for broad concept notes or for works where the fusion itself is the point and no sharper bridge carries the relation cleanly.

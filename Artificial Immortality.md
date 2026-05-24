@@ -9,12 +9,15 @@ Artificial immortality is the promise of defeating death through technical prese
 
 The motif often overlaps with elite selection, medical control, and the elimination of "unproductive" or unwanted life. It is distinct from resurrection or spiritual immortality because it tries to preserve life through technique rather than transformation, grace, or natural continuity.
 
-It can also appear in occult form, as in *Zanoni*, where extended life raises the same question without machinery: whether preservation without ordinary vulnerability still preserves a fully human life.
+The older Romantic and alchemical branch appears in *[[St. Leon]]*. Its immortality is not technological, but it shows the same basic danger: life prolonged by secret art can become less human when it cuts the person off from trust, family, and ordinary vulnerability.
 
-It should be contrasted with [[Reincarnation and Cycles]], where life continues through transformation, return, or rebirth rather than by indefinitely preserving the same condition.
+Prefer sharper bridge concepts when the local pattern is clear:
 
-The Numenor story in *The Silmarillion* gives the motif a theological form. Mortality becomes intolerable to the Numenoreans, and Sauron turns the fear of death into rebellion against the order of creation.
+- Use [[Suspended Life Without Growth]] when technical preservation keeps bodies, fragments, or chosen remnants alive without ordinary flourishing.
+- Use [[Disembodied Persistence]] when survival is sought through network, shell, data, memory, or informational presence rather than embodied life.
+- Use [[Death Refused as Gift]] when the refusal of mortality becomes rebellion against creaturely limits, divine order, or participation in a larger cycle.
+- Use [[Designed Mortality]] when artificial persons are made with controlled or shortened lifespans.
+- Use [[Predatory Immortality]] when immortality is sustained by consuming the life of others.
+- Use [[False Apotheosis]] when selected humans are promised post-organic, godlike, or elite survival but the hidden end is possession, sterility, replacement, or disposal.
 
-Porky's Absolutely Safe Capsule in *Mother 3* is a grotesque limit case: the self is preserved, but preservation becomes permanent isolation rather than life.
-
-When immortality is sustained by consuming others, use [[Predatory Immortality]]. Vampire works such as *Dracula*, *Vampire Hunter D*, and *Doctor Sleep* make the preservation of the self explicitly parasitic.
+Keep direct links to this note for broad concept notes, contrasts, or works where the false promise of defeating death is the central issue and no narrower bridge carries the relation cleanly.

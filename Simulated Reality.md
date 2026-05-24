@@ -20,3 +20,5 @@ Cyberpunk works split this motif in useful ways: *The Matrix* makes simulation a
 For ordinary political life shaped by news, stereotypes, images, and expert reports rather than total artificial worlds, use [[Mediated Reality]].
 
 Philip K. Dick gives the motif its paranoid-Gnostic form. *VALIS* imagines reality itself as prison-like overlay, while *Do Androids Dream of Electric Sheep?* asks whether technologically mediated religion can still carry real ethical force.
+
+*[[The Three Stigmata of Palmer Eldritch]]* gives the corporate-drug form: simulated consolation for colonists opens into a deeper threat of invasive transcendence.

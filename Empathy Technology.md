@@ -15,4 +15,4 @@ The primary anchor is *[[Do Androids Dream of Electric Sheep]]*, where the empat
 
 Empathy technology raises a question central to the graph: can mediated relation still be real? If the device is artificial, does that make the compassion false?
 
-This links the concept to [[Simulated Reality]] and [[Engineered Happiness]]. A technological mediation can either hollow out relation or keep relation alive in a damaged world.
+This links the concept to [[Simulated Reality]] and [[Pleasure as Control]]. A technological mediation can either hollow out relation or keep relation alive in a damaged world.

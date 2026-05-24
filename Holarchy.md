@@ -11,7 +11,7 @@ Holarchy names Arthur Koestler's model of nested wholes and parts. A holon is bo
 
 The concept resists reducing persons either to isolated atoms or to mere parts of a collective. A person is a whole, but also belongs to families, communities, institutions, ecologies, and histories.
 
-This makes holarchy useful for [[Forced Human Completion]]. Systems that promise perfect unity often destroy the whole-person dimension by reducing persons to parts.
+This makes holarchy useful against [[Abolition of Separateness]]. Systems that promise perfect unity often destroy the whole-person dimension by reducing persons to parts.
 
 ## Against Fragmentation
 

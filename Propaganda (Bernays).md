@@ -11,13 +11,13 @@ tags: [PublicRelations, Media, Politics, Psychology]
 
 Bernays famously describes an "invisible government" of those who understand and manage the organized habits and opinions of the masses. This is not presented only as corruption; Bernays treats it as an ordinary feature of modern democratic society.
 
-That makes the book a major anchor for [[Engineered Consent]]. Influence is exercised not only through censorship or force, but through agenda-setting, prestige, association, repetition, and staged public meaning.
+That makes the book a major anchor for [[Public Opinion Engineering]]. Influence is exercised not only through censorship or force, but through agenda-setting, prestige, association, repetition, and staged public meaning.
 
 ## The Engineering of Consent
 
 Bernays treats public opinion as something that can be studied, guided, and crystallized. The public relations expert does not merely advertise products; he coordinates institutions, leaders, media, and symbols so that desired attitudes become socially natural.
 
-This connects directly to [[Language as Control System]] and [[Weaponized Rationalism]]. Social science becomes technique, and technique becomes a way of administering desire.
+This connects directly to [[Language as Control System]] and [[Public Opinion Engineering]]. Social science becomes technique, and technique becomes a way of administering desire.
 
 ## Democracy and Management
 

@@ -17,7 +17,7 @@ tags:
 
 ## Edison as Creator-Inventor
 
-The novel turns Edison into a magician of modern invention. His laboratory is not just a workshop of devices but a space where science, illusion, desire, and metaphysical ambition converge. This makes the book an important ancestor for [[Occult Science]], especially where invention begins to resemble conjuration.
+The novel turns Edison into a magician of modern invention. His laboratory is not just a workshop of devices but a space where science, illusion, desire, and metaphysical ambition converge. This makes the book an important ancestor for [[Sorcerer-Scientist]], especially where invention begins to resemble conjuration.
 
 Edison does not merely build a machine. He offers technological mediation as a solution to erotic disappointment and spiritual disillusionment.
 
@@ -31,7 +31,7 @@ This is the central connection to [[Artificial Woman as Double]]. Hadaly is not 
 
 The novel's strangeness comes from its refusal to keep the android purely mechanical. Hadaly's animation involves questions of spirit, illusion, and possibly occult agency. The artificial double threatens to become more spiritually charged than the living woman she replaces.
 
-That ambiguity links the novel to [[Golem Tradition]]. It can also be read in argument with [[Privatio Boni]], because the central question is whether artificial perfection is a higher form or a hollow imitation; the novel refuses to make the answer entirely simple.
+That ambiguity links the novel to [[Golem Tradition]]. It can also be read in argument with [[Sterile Imitation]], because the central question is whether artificial perfection is a higher form or a hollow imitation; the novel refuses to make the answer entirely simple.
 
 ## Before Metropolis
 

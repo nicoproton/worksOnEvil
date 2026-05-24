@@ -17,6 +17,6 @@ The concept connects to [[Engineered Happiness]] but is not identical. Engineere
 
 Use this link when persuasion is organized through symbols, media, group identity, or expert mediation rather than direct force.
 
-The world-state and global-governance branch depends heavily on this concept. *The Open Conspiracy*, *The New World Order*, *UNESCO - Its Purpose and Its Philosophy*, and *The First Global Revolution* all require some formation of public consciousness beyond ordinary national politics.
+Use more precise bridge concepts when possible. [[Public Opinion Engineering]] applies when consent is produced through media, public relations, stereotypes, experts, staged events, and symbolic framing. [[World-Consciousness Formation]] applies when consent is aimed at planetary identity, world citizenship, global governance, or crisis-based unity.
 
 The classical form is [[Noble Lie]], where political myth stabilizes the city by shaping how citizens understand their own roles.

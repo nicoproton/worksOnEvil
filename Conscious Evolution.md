@@ -11,10 +11,12 @@ Conscious Evolution names the idea that humanity can deliberately guide its own 
 
 The concept becomes attractive when humanity is seen as unfinished or transitional. Human beings may be able to become more than they are through conscious effort.
 
-This connects to [[The Overreacher]] and [[Forced Human Completion]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
+This connects to [[The Overreacher]] and [[Designed Successor Humanity]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
 
 ## Transhumanist Ambiguity
 
-Julian Huxley's *[[New Bottles for New Wine]]* is the key anchor in this vault because it gives an early humanist form of transhumanism. It is not identical with later digital immortality or cybernetic enhancement, but it opens the same question: who directs the future human, and by what standard?
+Julian Huxley's *[[New Bottles for New Wine]]* is the key modern humanist anchor in this vault because it gives an early humanist form of transhumanism. It is not identical with later digital immortality or cybernetic enhancement, but it opens the same question: who directs the future human, and by what standard?
 
-This concept overlaps with [[Manufactured Humanity]], [[Artificial Immortality]], and [[Evolutionary Humanism]].
+The older occult branch appears in *[[The Secret Doctrine]]* and *[[The Externalisation of the Hierarchy]]*. These works do not imagine human development mainly through engineering, but they do imagine humanity as unfinished, staged, and guided toward a higher collective condition.
+
+This concept overlaps with [[Designed Successor Humanity]], [[Artificial Immortality]], and [[Evolutionary Humanism]].

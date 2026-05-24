@@ -29,7 +29,7 @@ This gives the graph a new concept: [[Scientific Institute as World-Eye]]. Bacon
 
 Salomon's House does not reveal everything it knows. Its members decide which discoveries should be published and which should be kept back.
 
-This connects the work to [[Elite Network Historiography]] and [[Layered Conspiracy]] in a careful way. Bacon's institution is not sinister in the text, but it establishes the structural possibility of expert knowledge withheld for governance.
+This connects the work to [[Elite Network Historiography]] and [[Respectable Front]] in a careful way. Bacon's institution is not sinister in the text, but it establishes the structural possibility of expert knowledge withheld for governance.
 
 ## Beneficent Science and Later Inversion
 

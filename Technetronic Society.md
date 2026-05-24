@@ -18,3 +18,5 @@ This links the concept to [[Mediated Reality]], [[Language as Control System]], 
 The concept is useful for distinguishing older machine dystopias from cyberpunk and media-saturated societies. Control becomes less visibly mechanical and more environmental.
 
 This makes it a bridge between [[Technological Dystopia]], *[[The Third Wave]]*, and cyberpunk works such as *[[Ghost in the Shell]]*, *[[Psycho-Pass]]*, and *[[Snow Crash]]*.
+
+*[[The Shockwave Rider]]* is a strong fictional form of this bridge because data systems, social forecasting, records, and networked identity become the environment of power.

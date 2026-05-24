@@ -13,4 +13,4 @@ This concept often contrasts with [[Artificial Immortality]]. Instead of preserv
 
 The concept can apply to individual souls, as in *[[Phoenix (Tezuka)]]*, or to civilizations, as in *[[A Canticle for Leibowitz]]*, where history rebuilds toward the same destructive threshold.
 
-In *[[Xenogears]]*, recurrence binds identity, trauma, and resistance across history. In *[[Nausicaa of the Valley of the Wind (Manga)]]*, the cycle is ecological and civilizational, shaped by the long aftermath of old-world catastrophe.
+In *[[Xenogears]]*, recurrence binds identity, trauma, and resistance across history. In *[[Nausicaa of the Valley of the Wind (Manga)]]*, the cycle is ecological and civilizational, shaped by the long aftermath of old-world catastrophe. In *[[Terranigma]]*, cyclical life is the answer to Beruga's static immortality: Lhasa's wheel of life opposes the fantasy of an unchanging world.

@@ -8,6 +8,7 @@ tags:
   - Enlightenment
   - Literature
   - Work
+  - Politics
 ---
 
 # Memoirs Illustrating the History of Jacobinism
@@ -22,7 +23,7 @@ The structure matters more than the accuracy of every claim. Barruel gives later
 
 ## Initiation and Hidden Aims
 
-The most durable feature of the *Memoirs* is its model of graded knowledge. Lower participants believe in one version of the project, while higher initiates know another. This is the classic form of [[Layered Conspiracy]].
+The most durable feature of the *Memoirs* is its model of graded knowledge. Lower participants believe in one version of the project, while higher initiates know another. This is the classic form of [[Graded Initiation]].
 
 That structure is narratively powerful because it explains how ordinary or idealistic people can serve ends they would not consciously endorse. It also makes secrecy psychological: the desire to enter the next circle becomes part of the mechanism of control.
 
@@ -43,3 +44,5 @@ Its importance is therefore genealogical. Barruel supplies one ancestor for mode
 This note should keep two uses of Barruel separate. One use is historical: what Barruel argued, when he published, and how his work circulated. The other is formal: how his argument became a reusable mythology of hidden causation.
 
 That distinction prevents the vault from confusing thematic resemblance with evidence. The *Memoirs* can be valuable as a map of conspiratorial imagination even when its claims require skepticism.
+
+The note should also be distinguished from *[[Considerations on France]]*. Barruel explains revolution through hidden human organization; de Maistre explains it through [[Providential Counter-Revolution|providence and judgment]].

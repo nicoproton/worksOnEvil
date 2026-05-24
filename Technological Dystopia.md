@@ -11,11 +11,13 @@ Common signs include managed happiness, artificial immortality, social engineeri
 
 Use this link when technology shapes the structure of domination, not merely when machines appear in a work.
 
-Related patterns include [[Machine as God]], where technological dependence becomes reverence; [[Engineered Happiness]], where desire is conditioned into stability; [[Manufactured Humanity]], where persons are designed as products; and [[False Salvation Through Systems]], where technical order promises to solve suffering by narrowing what counts as human life.
+Use more precise bridge concepts when possible. [[Domination Through the Machine]] applies when technique, institution, device, or system makes the will effective by bypassing relation, patience, consent, creaturely limits, or divine order. [[Total Technical Environment]] applies when technology becomes the inhabited world rather than a tool within it. [[Sacred Infrastructure]] applies when technological dependence becomes reverence. [[Networked Divinity]] applies when AI, networks, or information systems take on providential or divine significance. [[Engineered Happiness]] applies when desire is conditioned into stability. [[Manufactured Humanity]] and its bridge concepts apply when persons are designed as products. [[Scientific World State]] applies when expert planning becomes planetary political order. [[Technetronic Society]] applies when control becomes informational, electronic, and media-saturated.
 
 Some works emphasize extraction rather than control. In those cases, [[Stolen Life-Force Technology]] is the more precise hub: technology expands by draining spirits, worlds, ecosystems, or living bodies.
 
-Tolkien's idea of the Machine, developed through [[Enchantment vs Magic]], clarifies a non-modern version of the same danger: tools or systems become corrupt when they make the will effective by bypassing relation, patience, and consent.
+Tolkien's idea of the Machine, developed through [[Enchantment vs Magic]], clarifies a non-modern version of the same danger.
+
+Marinetti's *[[The Futurist Manifesto]]* is not a dystopia, but it is an important artistic ancestor to the danger: it openly loves speed, machinery, violence, and rupture as cultural renewal.
 
 *Between Two Ages* gives the cybernetic and informational version of this anxiety: technological power increasingly acts through communication systems, perception management, and expert coordination rather than through machines alone.
 

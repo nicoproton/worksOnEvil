@@ -25,7 +25,7 @@ This links strongly to [[Scientific World State]] and [[False Salvation Through 
 
 Wells places enormous weight on education, propaganda, and the recruitment of capable minds. The movement must shape opinion, form cadres, and create a new public allegiance to world civilization.
 
-This connects the book to [[Engineered Consent]] and [[Elite Network Historiography]]. The transformation of society happens through networks, institutions, schooling, and public persuasion rather than through one spectacular coup.
+This connects the book to [[World-Consciousness Formation]] and [[Elite Network Historiography]]. The transformation of society happens through networks, institutions, schooling, and public persuasion rather than through one spectacular coup.
 
 ## Against the Old Order
 

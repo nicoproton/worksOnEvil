@@ -24,7 +24,7 @@ The city tries to solve human conflict through architecture, command, and techni
 
 Rotwang's house is one of the novel's most important spatial images. It is ancient, anomalous, and marked by occult signs inside a city otherwise devoted to futurist machinery. The house suggests that modern technique has not replaced magic so much as concealed and mechanized it.
 
-Rotwang is therefore not merely a mad inventor. He is a sorcerer-scientist, a figure of [[Occult Science]] whose technical genius is entangled with revenge, possession, and ritual. His laboratory makes visible the novel's suspicion that the machine age may be animated by older demonic desires.
+Rotwang is therefore not merely a mad inventor. He is a figure of [[Sorcerer-Scientist]], because his technical genius is entangled with revenge, possession, and ritual. His laboratory makes visible the novel's suspicion that the machine age may be animated by older demonic desires.
 
 ## The Machine-Woman as Golem and Double
 
@@ -46,7 +46,7 @@ This makes the novel's dystopia theatrical and religious rather than purely econ
 
 The novel frames class conflict through an explicit God-versus-Satan vocabulary. That can make its politics feel unstable: the "Heart" that mediates between Brain and Hands offers reconciliation, but it can also soften the material violence of the city's hierarchy.
 
-For the vault's purposes, *Metropolis* is strongest when read as an early fusion of [[Technological Dystopia]], apocalypse, and occult modernity. It does not merely warn that machines dehumanize workers; it imagines a city whose machines have become the architecture of a spiritual crisis.
+For the vault's purposes, *Metropolis* is strongest when read as an early fusion of [[Total Technical Environment]], apocalypse, and occult modernity. It does not merely warn that machines dehumanize workers; it imagines a city whose machines have become the architecture of a spiritual crisis.
 
 The city also approaches machine-as-god imagery through architecture rather than literal worship. Its machinery mediates labor, class order, sacrifice, and awe until the technical system becomes the city's hidden sacred structure.
 

@@ -19,7 +19,7 @@ tags:
 
 Giegue is not introduced as abstract evil alone. He has a history with Ninten's family: George and Maria raised him, and Maria loved him like a child. The final conflict is therefore bound to memory, betrayal, and the pain of a severed maternal bond.
 
-This gives the game a strong relation to [[Privatio Boni]]. Giegue's evil is not creative fullness; it is a wounded and hardened absence of love that cannot bear the memory of having once been loved.
+This gives the game a strong relation to [[Disordered Love]]. Giegue's evil is not creative fullness; it is a wounded and hardened absence of love that cannot bear the memory of having once been loved.
 
 ## Magicant as Memory-World
 

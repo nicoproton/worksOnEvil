@@ -18,7 +18,7 @@ tags:
 
 Milton's Satan persuades through the language of liberty, injury, and heroic self-assertion. He presents hierarchy as tyranny and obedience as servility, turning pride into a political argument. His speeches are powerful because they contain enough grandeur to make rebellion feel noble.
 
-That rhetorical power makes him a founding figure for [[Layered Conspiracy]]. He recruits followers into a cause whose public language is freedom, while its deeper motive is his refusal to accept any good above himself.
+That rhetorical power makes him a founding figure for [[Demonic Conspiracy]]. He recruits followers into a cause whose public language is freedom, while its deeper motive is his refusal to accept any good above himself. The poem is not about a modern institutional front, but it gives the theological grammar for later stories where demonic power works through misnamed goods.
 
 ## Rebellion as a Broken Community
 
@@ -42,10 +42,12 @@ The serpent does not create Eve's desire for wisdom; he bends it. That distincti
 
 Milton's divine order is sustained by voluntary obedience, gratitude, and love. Satan mistakes dependence on the Good for slavery, and so pursues a freedom that isolates him from the source of life. His famous preference to reign in Hell is therefore not liberation but self-imprisonment.
 
-This is the poem's deep relation to [[Entropy and the Binding Force]]. Severance from the binding source of order does not produce autonomy; it produces inward collapse.
+This is the poem's deep relation to [[World Wound and Long Decline]]. Severance from the binding source of order does not produce autonomy; it produces inward collapse.
 
 ## The Romantic Reinterpretation
 
 Later Romantic readers, especially William Blake and Percy Bysshe Shelley, often treated Milton's Satan as a compelling rebel. That reception history matters because it shows how the poem's own rhetorical brilliance can be turned back against its theology.
 
-The Romantic Satan becomes a bridge toward modern figures of heroic rebellion, artistic overreach, and Promethean ambition. That does not mean Milton secretly endorses Satan, but it explains why Satan became available as a later image of dangerous charisma.
+The Romantic Satan becomes a bridge toward modern figures of heroic rebellion, artistic overreach, and Promethean ambition. *[[Prometheus Unbound]]* gives Shelley’s positive version of this reinterpretation: rebellion against false heaven becomes the path to liberation rather than the beginning of inward collapse. *[[Cain (Byron)]]* gives the darker human version: rebellion begins as protest against inherited mortality and divine justice. That does not mean Milton secretly endorses Satan, but it explains why Satan became available as a later image of dangerous charisma.
+
+Anatole France's *[[The Revolt of the Angels]]* is a sharper inversion of the same pattern. It retells angelic rebellion through a Gnostic and anti-clerical frame, making the heavenly ruler look like a false demiurge and the fallen angels like rebels of intelligence.

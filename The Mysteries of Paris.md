@@ -17,7 +17,7 @@ tags:
 
 Sue's Paris is not a neutral setting. It is a vertical and moral labyrinth where salons, prisons, workshops, taverns, and slums coexist without being equally visible. The novel's "mystery" is the discovery that the city's surface depends on what it refuses to see.
 
-This makes the book useful for thinking about [[Layered Conspiracy]] in a loose social sense. The hidden structure is not always a single organization; sometimes it is the arrangement of institutions, poverty, vice, and reputation that lets corruption persist.
+This makes the book useful for thinking about [[Predatory Power in Respectable Society]] in a loose social sense. The hidden structure is not always a single organization; sometimes it is the arrangement of institutions, poverty, vice, and reputation that lets corruption persist.
 
 ## Rodolphe Between Worlds
 
@@ -29,7 +29,7 @@ His role is morally ambiguous. He often acts as rescuer and reformer, but his ab
 
 The novel repeatedly shows that danger does not belong only to the visibly criminal poor. Figures of professional and social respectability can be predatory, using law, money, and status as masks. The notary Ferrand is central to this pattern of respectable corruption.
 
-This is where the novel approaches [[Privatio Boni]] as a social image: institutions meant to protect trust become hollowed out, leaving the form of law or charity without its good.
+This is where the novel approaches [[Hollowed Order]] as a social image: institutions meant to protect trust become hollowed out, leaving the form of law or charity without its good.
 
 ## The City Mysteries Form
 
@@ -41,4 +41,4 @@ Paul Féval's *[[Les Habits Noirs]]* develops this inheritance in a more explici
 
 Sue's reforming imagination depends on the belief that individual acts of aid can restore people to moral and social life. The novel is full of rescues, recognitions, punishments, and attempts to rebuild broken households.
 
-Its anxiety is that the city constantly produces more disorder than charity can repair. That tension makes the note relevant to [[Entropy and the Binding Force]]: the modern city threatens dissolution, while reform tries to create small bonds strong enough to resist it.
+Its anxiety is that the city constantly produces more disorder than charity can repair. That tension makes the note relevant to [[Fragile Counter-Community]]: the modern city threatens dissolution, while reform tries to create small bonds strong enough to resist it.

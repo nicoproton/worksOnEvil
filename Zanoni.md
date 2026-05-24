@@ -15,7 +15,7 @@ tags:
 
 ## Rosicrucian Frame
 
-The novel presents itself through a manuscript and a Rosicrucian frame, placing hidden knowledge at the center of its fiction. This makes it relevant to [[Occult Science]], especially the 19th-century literary imagination of secret orders, initiatory wisdom, and invisible laws beneath ordinary life.
+The novel presents itself through a manuscript and a Rosicrucian frame, placing hidden knowledge at the center of its fiction. This makes it relevant to [[Hidden Correspondence System]], especially the 19th-century literary imagination of secret orders, initiatory wisdom, and invisible laws beneath ordinary life.
 
 Unlike a modern laboratory dystopia, *Zanoni* treats occult knowledge as explicitly spiritual and initiatory. Its danger is not mechanism but aspiration without purified love.
 
@@ -23,7 +23,7 @@ Unlike a modern laboratory dystopia, *Zanoni* treats occult knowledge as explici
 
 Zanoni's long life gives him power, perspective, and distance from ordinary humanity. Immortality appears attractive, but also isolating. The more he stands above ordinary life, the more the novel asks whether such elevation has cost him the very vulnerability that makes love possible.
 
-This connects the novel to [[Artificial Immortality]] by contrast. Zanoni's immortality is occult rather than technological, but both forms raise the same question: what is preserved, and what human goods are lost in preservation?
+This connects the novel to [[Death Refused as Gift]] by contrast. Zanoni's immortality is occult rather than technological, but the moral question is similar: what is preserved, and what human goods are lost when ordinary vulnerability is avoided?
 
 ## Glyndon and Failed Initiation
 
@@ -35,7 +35,7 @@ This makes him a figure of [[The Overreacher]]. In *Zanoni*, hidden knowledge is
 
 Zanoni's love for Viola draws him back toward human vulnerability. The novel's movement is therefore not simply upward into occult mastery, but downward into sacrifice. The immortal adept becomes most fully human when he accepts loss.
 
-That arc links the work to [[Entropy and the Binding Force]]. Love is the force that breaks sterile self-preservation, even when the cost is death.
+That arc links the work to [[Embodied Relation]]. Love is the force that breaks sterile self-preservation, even when the cost is death.
 
 ## Why It Belongs Here
 

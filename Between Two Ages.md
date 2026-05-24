@@ -17,7 +17,7 @@ This makes the book a strong context note for [[Technetronic Society]], [[Simula
 
 One of the book's most relevant concerns is the political effect of mass communications and information technology on consciousness. Electronic media can create new forms of participation, but also new forms of manipulation and social coordination.
 
-This connects directly to [[Engineered Happiness]] and [[False Salvation Through Systems]]. The technetronic society can promise participation and modernization while quietly narrowing the range of thought and desire.
+This connects directly to [[Programmed Contentment]] and [[False Salvation Through Systems]]. The technetronic society can promise participation and modernization while quietly narrowing the range of thought and desire.
 
 ## Elite Coordination
 

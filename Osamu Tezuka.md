@@ -11,13 +11,13 @@ tags: [Author, Manga, Japan, ConceptualContext]
 
 Tezuka repeatedly stages artificial or engineered beings who expose the poverty of treating life as a product. *[[Metropolis (Tezuka)]]* gives this problem the form of Mitchy, a made being wanted as a weapon. *[[Apollo's Song]]* gives it the form of cloned social rule. *[[Phoenix (Tezuka)]]* expands it into medical, evolutionary, and cosmic scales.
 
-This makes Tezuka a useful context note for [[Manufactured Humanity]]. His made beings are not simply warnings against science; they are tests of whether creators can recognize personhood where they expected instrumentality.
+This makes Tezuka a useful context note for [[Disposable Artificial Person]]. His made beings are not simply warnings against science; they are tests of whether creators can recognize personhood where they expected instrumentality.
 
 ## Cycles Over Possession
 
 In *Phoenix*, immortality is often a temptation rather than salvation. Characters seek to possess life permanently, but the series repeatedly returns to death, rebirth, recurrence, and transformation.
 
-That gives Tezuka's work a major connection to [[Reincarnation and Cycles]] and a contrast with [[Artificial Immortality]]. The problem is not the desire to live, but the desire to possess life as private property outside the larger cycle.
+That gives Tezuka's work a major connection to [[Reincarnation and Cycles]] and a contrast with [[Death Refused as Gift]]. The problem is not the desire to live, but the desire to possess life as private property outside the larger cycle.
 
 ## Post-War Evolutionary Anxiety
 

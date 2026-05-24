@@ -19,11 +19,11 @@ tags:
 
 The One State is built from transparency. Citizens live in glass apartments, move according to the Table of Hours, and are known by numbers rather than personal names. Privacy appears as irrational residue, something left over from a less perfected age.
 
-This is [[Technological Dystopia]] in its pure rationalizing form. Technology is not only machinery; it is architecture, schedule, mathematics, erotic regulation, and the conversion of life into legible pattern.
+This is [[Total Technical Environment]] in its pure rationalizing form. Technology is not only machinery; it is architecture, schedule, mathematics, erotic regulation, and the conversion of life into legible pattern.
 
 ## D-503's Mathematical Faith
 
-D-503 begins as a believer in the One State. As builder of the Integral, he wants to export mathematical happiness beyond Earth. His diary first reads like testimony from inside [[Weaponized Rationalism]]: numbers promise to cure conflict, desire, ambiguity, and pain.
+D-503 begins as a believer in the One State. As builder of the Integral, he wants to export mathematical happiness beyond Earth. His diary first reads like testimony from inside [[Abstraction Without Prudence]]: numbers promise to cure conflict, desire, ambiguity, and pain.
 
 The novel's drama begins when his language fails to contain his experience. Dreams, jealousy, erotic desire, and imagination enter as symptoms of an emerging soul.
 
@@ -43,11 +43,11 @@ This directly echoes Dostoevsky's "Grand Inquisitor" argument in *[[The Brothers
 
 The Great Operation removes imagination through surgery. It is the One State's clearest confession: perfect order cannot tolerate the soul. The operation does not persuade citizens into happiness; it cuts away the faculty that could desire otherwise.
 
-This is a medicalized version of [[Privatio Boni]]. The state defines perfection as the absence of unpredictability, longing, inwardness, and creative disorder.
+This is a medicalized version of [[Hollowed Order]]. The state defines perfection as the absence of unpredictability, longing, inwardness, and creative disorder.
 
-It is also one of the vault's strongest examples of [[False Salvation Through Systems]]. The One State promises happiness, but only by removing the part of the person that could experience freedom as more than error.
+It is also one of the vault's strongest examples of [[False Cure]]. The One State promises happiness, but only by removing the part of the person that could experience freedom as more than error.
 
-The Great Operation also belongs to [[Forced Human Completion]]. The state treats imagination as a wound in the social body and tries to perfect its citizens by cutting away the faculty that makes them inwardly free.
+The Great Operation also belongs to [[Corrected Inwardness]]. The state treats imagination as a wound in the social body and tries to perfect its citizens by cutting away the faculty that makes them inwardly free.
 
 ## No Final Revolution
 

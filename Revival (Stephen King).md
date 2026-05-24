@@ -17,7 +17,7 @@ tags:
 
 Jacobs's "secret electricity" begins as wonder, cure, and experiment. Over time it becomes a forbidden medium through which suffering, obsession, and metaphysical curiosity are fused.
 
-This makes the novel a strong late example of [[Occult Science]]. The experiment is technical, but it behaves like ritual: hidden force, forbidden knowledge, transformation, and contact with powers beyond ordinary life.
+This makes the novel a strong late example of [[Ritual Technology]]. The experiment is technical, but it behaves like ritual: hidden force, forbidden knowledge, transformation, and contact with powers beyond ordinary life.
 
 ## Healing Without Wholeness
 

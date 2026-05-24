@@ -17,13 +17,13 @@ This makes the book a major anchor for [[Global Problematique]]. It gives non-fi
 
 The report also speaks of the resolutique: the search for integrated solutions to the problematique. The conceptual danger is built in. If the crisis is global and interdependent, the proposed response tends toward global coordination, planning, and consciousness-shaping.
 
-This connects the book to [[False Salvation Through Systems]]. The problems may be real, but the system that claims to solve them can become a new source of domination.
+This connects the book to [[Managed Crisis]]. The problems may be real, but the system that claims to solve them can become a new source of domination.
 
 ## Common Enemy Logic
 
 The report is often discussed for its claim that humanity may need a common motivation or common enemy to unite around global problems. Environmental crisis, pollution, climate, or scarcity can become that unifying pressure.
 
-This gives the book a strong connection to [[Engineered Consent]]. A crisis can be framed not only as a fact to be addressed, but as a symbolic instrument for mobilizing global agreement.
+This gives the book a strong connection to [[World-Consciousness Formation]]. A crisis can be framed not only as a fact to be addressed, but as a symbolic instrument for mobilizing global agreement.
 
 ## World Consciousness and Governance
 

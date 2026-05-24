@@ -17,7 +17,7 @@ tags:
 
 Huxley's transhumanism is not yet contemporary digital transhumanism, but the core idea is present: humanity can transcend itself by realizing new possibilities of human nature through knowledge, social organization, and conscious evolution.
 
-This makes the book a major anchor for [[Conscious Evolution]] and [[Forced Human Completion]]. The central ambiguity is whether self-transcendence means fuller flourishing or managed redesign.
+This makes the book a major anchor for [[Conscious Evolution]] and [[Designed Successor Humanity]]. The central ambiguity is whether self-transcendence means fuller flourishing or managed redesign.
 
 ## Evolutionary Humanism
 
@@ -29,10 +29,10 @@ This links the book to [[Evolutionary Humanism]] and [[The Overreacher]]. The da
 
 The title suggests that old forms of thought, morality, and institution may no longer contain new realities. Huxley wants new intellectual and social vessels for modern knowledge.
 
-This connects to [[False Salvation Through Systems]]. The promise is renewal, but renewal can become a mandate to discard inherited limits before understanding what goods they protected.
+This connects to [[Good Captured by Evil]]. The promise is renewal, but renewal can become a mandate to discard inherited limits before understanding what goods they protected.
 
 ## The Human Future as Project
 
 The book turns humanity's future into a project. That project may involve education, biology, culture, psychology, and social planning.
 
-This makes it relevant to [[Manufactured Humanity]] and [[Engineered Happiness]], even when Huxley writes in humanist rather than dystopian language.
+This makes it relevant to [[Designed Successor Humanity]] and [[Programmed Contentment]], even when Huxley writes in humanist rather than dystopian language.

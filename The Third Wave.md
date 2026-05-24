@@ -23,7 +23,7 @@ This connects the book to [[Technetronic Society]], the concept already implied 
 
 Toffler argues that third-wave society breaks down mass industrial forms: mass production, mass media, mass education, and centralized bureaucratic patterns.
 
-This makes the book a useful counterpoint to older images of [[Technological Dystopia]]. Control may become less factory-like and more networked, customized, informational, and distributed.
+This makes the book a useful counterpoint to older images of industrial dystopia and a useful neighbor for [[Technetronic Society]]. Control may become less factory-like and more networked, customized, informational, and distributed.
 
 ## Prosumer and Information Society
 

@@ -17,10 +17,16 @@ This matters for [[Weaponized Rationalism]]. Lewis is not attacking reason itsel
 
 Lewis's phrase "men without chests" names people whose intellect and appetite remain, but whose moral affections have been hollowed out. The result is not neutrality but vulnerability: such people can be conditioned by stronger wills.
 
-This gives the graph a psychological bridge between [[Engineered Happiness]] and [[Forced Human Completion]]. The system does not need to destroy the person all at once; it can first remove the interior faculty that would resist.
+This gives the graph a psychological bridge between [[Engineered Happiness]] and [[Corrected Inwardness]]. The system does not need to destroy the person all at once; it can first remove the interior faculty that would resist.
 
 ## The Conditioners
 
 Lewis's central political-theological warning is that those who "conquer nature" eventually include human nature in the conquered territory. The final product of technical mastery is therefore not the liberation of humanity but the rule of some humans over others.
 
 *[[That Hideous Strength]]* dramatizes this argument through the N.I.C.E.: a scientific-administrative institution whose public language of progress conceals spiritual and political domination.
+
+The novel adds a demonic irony to the argument. The Conditioners imagine themselves as the surviving elite, but the Macrobes expose the deeper end of the bargain: the would-be rulers are also material. Their promised post-human ascent is [[False Apotheosis]], not true transformation.
+
+## Meeting Against Use
+
+Lewis's fiction often contrasts real relation with analysis converted into control. In *[[That Hideous Strength]]*, this becomes [[Encounter vs Manipulation]]: Belbury studies and conditions persons, while St. Anne's preserves the possibility of meeting, hospitality, obedience, and embodied love.

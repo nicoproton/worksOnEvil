@@ -37,7 +37,7 @@ This is not only a political distinction. It is a spiritual and narrative one: t
 
 The novel repeatedly links scientific modernity to occult inheritances: alchemy, Kabbalah, Tarot, seances, mystical correspondences, and figures such as Newton or Kircher. Pynchon does not simply claim that science is secretly magic. He shows that both science and occultism can share a desire to discover hidden laws connecting everything.
 
-That makes [[Occult Science]] a useful hub for this note. The rocket age appears modern, but it is haunted by older fantasies of total knowledge, transformation, and command over invisible forces.
+That makes [[Hidden Correspondence System]] a useful bridge for this note. The rocket age appears modern, but it is haunted by older fantasies of total knowledge, transformation, and command over invisible forces.
 
 ## Entropy, Paranoia, and Pattern
 

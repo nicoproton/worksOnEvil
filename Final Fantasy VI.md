@@ -26,7 +26,7 @@ This makes the game a strong case for [[Stolen Life-Force Technology]]. The Empi
 
 Terra Branford, a half-human, half-Esper child, is controlled by the Empire through a slave crown and used as a living weapon. Her identity is therefore political, biological, and metaphysical at once: she is a person whose mixed nature has been captured by an imperial system.
 
-This places the game near [[Manufactured Humanity]]. Terra is not artificially made from nothing, but the Empire treats her hybridity as material for military production rather than as personhood.
+This places the game near [[Weaponized Personhood]]. Terra is not artificially made from nothing, but the Empire treats her hybridity as material for military production rather than as personhood.
 
 ## Kefka as Failed Enhancement
 
@@ -44,4 +44,4 @@ When Kefka moves the statues out of alignment, the result is not a local disaste
 
 The second half of the game takes place after the apocalypse. Kefka rules as a godlike tyrant from his tower, using the Light of Judgment to destroy resistance while the world withers.
 
-The recovery narrative links the game to [[Entropy and the Binding Force]]. The heroes do not restore the old world simply by defeating a machine or empire; they gather scattered persons, rebuild bonds, and choose meaning in a world already broken.
+The recovery narrative links the game to [[Fragile Counter-Community]]. The heroes do not restore the old world simply by defeating a machine or empire; they gather scattered persons, rebuild bonds, and choose meaning in a world already broken.

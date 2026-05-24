@@ -20,11 +20,15 @@ The subtitle links Victor to Prometheus, the mythic giver of fire. Victor wants 
 
 The novel's danger is not curiosity as such. Shelley makes the problem more exact: Victor narrows knowledge into possession. He wants the glory of animation, not the obligations of parenthood, kinship, or stewardship.
 
+That makes the novel a dark answer to the Romantic Promethean current. *[[Prometheus Unbound]]* imagines the rebel as liberator; *Frankenstein* asks what happens when Promethean aspiration becomes making without love.
+
 ## Solitary Creation
 
 Victor's experiment is conducted in secrecy and isolation. He withdraws from family, friendship, place, and ordinary rhythms of life. The Creature is assembled from dead matter, but the deeper absence is relational: no community is present to receive the new life.
 
-This gives the creation scene its connection to [[Privatio Boni]]. The Creature is not born evil. What is missing is the good that should surround a created being: welcome, naming, education, affection, and responsibility.
+This gives the creation scene its connection to [[Hollowed Order]]. The Creature is not born evil. What is missing is the good that should surround a created being: welcome, naming, education, affection, and responsibility.
+
+Mary Shelley's inherited Godwinian context sharpens the point. *[[St. Leon]]* had already imagined secret power, immortality, and wealth becoming curses when detached from domestic affection; *Frankenstein* turns that question toward the making of life itself.
 
 ## Abandonment
 

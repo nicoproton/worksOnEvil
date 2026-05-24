@@ -35,4 +35,4 @@ This makes him useful for [[Weaponized Rationalism]]. When reason is reduced to 
 
 Aquinas gives a way to distinguish real perfection from imposed completion. A thing is perfected when it reaches the good proper to its nature, not when an external system forces it into efficient conformity.
 
-This helps clarify [[Forced Human Completion]]. Systems that remove imagination, freedom, embodiment, or separateness may claim to perfect humanity, but from a Thomistic angle they destroy goods that belong to human flourishing.
+This helps clarify [[Forced Human Completion]] and its bridge concepts. Systems that remove imagination, freedom, embodiment, or separateness may claim to perfect humanity, but from a Thomistic angle they destroy goods that belong to human flourishing.

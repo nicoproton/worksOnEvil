@@ -18,7 +18,7 @@ tags:
 
 Shogo's hatred of love begins in childhood neglect and abuse. He kills animals when he sees them expressing affection, as if tenderness itself were an intolerable accusation. The story therefore begins from a privation: not evil as strength, but cruelty born from the absence of received love.
 
-This gives the manga a clear relation to [[Privatio Boni]]. Shogo's deformation is not explained as an independent demonic force; it is the damage produced where love should have been.
+This gives the manga a clear relation to [[Disordered Love]]. Shogo's deformation is not explained as an independent demonic force; it is the damage produced where love should have been.
 
 ## Love as Ordeal
 
@@ -30,7 +30,7 @@ This makes the work a strong case for [[Reincarnation and Cycles]]. The cycle is
 
 One future episode sends Shogo to a society where cloned humans control original humans, who are treated as obsolete beings of the past. Queen Sigma, who does not know true love, demands that Shogo show her what love is.
 
-This episode links *Apollo's Song* to [[Manufactured Humanity]]. Tezuka stages a future in which biological reproduction, social hierarchy, and emotional incapacity are intertwined.
+This episode links *Apollo's Song* to [[Engineered Caste]]. Tezuka stages a future in which biological reproduction, social hierarchy, and emotional incapacity are intertwined.
 
 ## Love Against System
 

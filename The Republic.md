@@ -23,7 +23,7 @@ This gives the graph a classical root for [[Scientific World State]]. Later tech
 
 The guardians are formed through music, gymnastics, censorship, myth, discipline, and philosophical ascent. Education is not neutral instruction; it shapes the soul for the city.
 
-This links the dialogue to [[Engineered Consent]] and [[Forced Human Completion]]. The city seeks to produce the kind of person its order requires.
+This links the dialogue to [[Noble Lie]] and [[Administered Human Formation]]. The city seeks to produce the kind of person its order requires.
 
 ## The Noble Lie
 

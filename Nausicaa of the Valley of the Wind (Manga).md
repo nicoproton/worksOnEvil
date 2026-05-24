@@ -33,7 +33,7 @@ This gives the manga a subtle and argumentative relation to [[Privatio Boni]]. M
 
 The Crypt preserves old-world knowledge, biotechnological power, and a planned future humanity. It contains the ability to control the "wellsprings of life" and offers a vision of restoration based on the old world's design.
 
-This is one of the strongest cases for [[False Salvation Through Systems]]. The Crypt promises to save life, but only by controlling, replacing, and judging the living world that actually emerged after catastrophe.
+This is one of the strongest cases for [[Good Captured by Evil]]. The Crypt promises to save life, but only by controlling, replacing, and judging the living world that actually emerged after catastrophe.
 
 The Crypt is also [[Lost Technology as Temptation]] in its most ideological form. It offers the authority of preserved knowledge, but that knowledge asks the living world to submit to a dead civilization's plan.
 
@@ -41,10 +41,10 @@ The Crypt is also [[Lost Technology as Temptation]] in its most ideological form
 
 The manga's old-world planners altered life, preserved embryos or future possibilities, and treated the post-apocalyptic world as a transitional stage toward their intended restoration. Human beings, insects, forests, and bodies all bear the mark of intervention.
 
-That makes the work central to [[Manufactured Humanity]]. The question is not only whether humanity can survive, but whether survival designed by a dead technocratic order is still life freely received.
+That makes the work central to [[Designed Successor Humanity]]. The question is not only whether humanity can survive, but whether survival designed by a dead technocratic order is still life freely received.
 
 ## Nausicaa's Refusal
 
 Nausicaa ultimately refuses the Crypt's plan. Her refusal is not anti-life; it is a rejection of life managed from outside by a preserved system that claims authority over the future.
 
-This gives the manga a strong connection to [[Entropy and the Binding Force]]. Nausicaa chooses the fragile, polluted, suffering world and its living relations over a purified future imposed by the old world's machinery of salvation.
+This gives the manga a strong connection to [[Embodied Relation]]. Nausicaa chooses the fragile, polluted, suffering world and its living relations over a purified future imposed by the old world's machinery of salvation.

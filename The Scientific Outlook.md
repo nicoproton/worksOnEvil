@@ -23,16 +23,16 @@ That distinction matters for the graph. The danger is not reason itself, but the
 
 Russell imagines the possibility of a society organized by scientific planning, technical expertise, and centralized administration. Such a society could increase efficiency and reduce suffering, but it also risks subordinating freedom and individuality to managed order.
 
-This gives the vault a theory-bearing anchor for [[Technological Dystopia]], [[Engineered Happiness]], and [[False Salvation Through Systems]]. The fictional tyrant is less important than the system of experts, institutions, and techniques that defines what counts as welfare.
+This gives the vault a theory-bearing anchor for [[Scientific World State]], [[Programmed Contentment]], and [[False Salvation Through Systems]]. The fictional tyrant is less important than the system of experts, institutions, and techniques that defines what counts as welfare.
 
 ## Education and Conditioning
 
 The book is especially relevant where Russell discusses education, habit, and the shaping of social behavior. Scientific control over formation can produce citizens adapted to the needs of the planned society.
 
-This links directly to [[Forced Human Completion]]. Human beings are not perfected by becoming more fully themselves, but completed for a system through managed development.
+This links directly to [[Administered Human Formation]]. Human beings are not perfected by becoming more fully themselves, but completed for a system through managed development.
 
 ## Reproduction and the Future Human
 
-Russell's attention to heredity, reproduction, and future social planning places the book near [[Manufactured Humanity]]. Even when his tone is speculative rather than dystopian, the conceptual issue is clear: scientific society can treat human reproduction and formation as design problems.
+Russell's attention to heredity, reproduction, and future social planning places the book near [[Engineered Caste]]. Even when his tone is speculative rather than dystopian, the conceptual issue is clear: scientific society can treat human reproduction and formation as design problems.
 
 This makes the book a useful context note for *[[Brave New World]]*, *[[We (Zamyatin)]]*, and *[[Psycho-Pass]]*, where human life is organized through conditioning, classification, and institutional expertise.
