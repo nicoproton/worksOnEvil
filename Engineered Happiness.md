@@ -20,3 +20,5 @@ Robert Owen's *[[A New View of Society]]* and *[[The Book of the New Moral World
 For the political-media version, use [[Engineered Consent]]. Happiness concerns desire and psychic stability; consent concerns public agreement and legitimacy.
 
 *Do Androids Dream of Electric Sheep?* gives the concept a domestic, individualized form through mood organs: emotion becomes something dialed, scheduled, and technically adjusted.
+
+*[[White Noise]]* gives a softer pharmacological form through the desire to chemically manage fear of death rather than confront mortality directly.

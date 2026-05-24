@@ -13,4 +13,4 @@ Use this link when words, code, or symbols function as an operating system for p
 
 In non-fiction media theory, the concept overlaps with [[Mediated Reality]] and [[Engineered Consent]], where public language helps construct the environment in which people form opinions.
 
-William S. Burroughs gives the motif its viral media form. *[[The Ticket That Exploded]]* and *[[Nova Express]]* imagine words, recordings, images, and scripts as control systems that infect desire and behavior.
+William S. Burroughs gives the motif its viral media form. *[[Naked Lunch]]* begins the pattern through addiction, routines, voices, and grotesque control scenes, while *[[The Ticket That Exploded]]* and *[[Nova Express]]* make words, recordings, images, and scripts into explicit control systems that infect desire and behavior.

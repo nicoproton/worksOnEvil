@@ -25,4 +25,4 @@ Bertrand Russell's *[[The Scientific Outlook]]* and *[[The Impact of Science on 
 
 Sade's *[[Philosophy in the Bedroom]]* is a non-technocratic but important limit case: rational argument becomes anti-moral instruction, teaching the body as material for liberated appetite.
 
-The postwar science-fiction branch gives several secular forms. *[[Camp Concentration]]* turns enhancement into prison experiment, *[[Cat's Cradle]]* turns elegant discovery into apocalypse, and *[[The Atrocity Exhibition]]* turns clinical and media language into a way of breaking the human image into usable fragments.
+The postwar science-fiction branch gives several secular forms. *[[Camp Concentration]]* turns enhancement into prison experiment, *[[Cat's Cradle]]* turns elegant discovery into apocalypse, and *[[The Atrocity Exhibition]]* turns clinical and media language into a way of breaking the human image into usable fragments. [[Media-Flesh Fusion]] names the related media-body pattern where the technical image-world begins to reorganize sensation and bodily identity.
