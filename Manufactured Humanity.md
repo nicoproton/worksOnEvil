@@ -16,3 +16,7 @@ Use more precise bridge concepts when possible. [[Engineered Caste]] applies whe
 Some works may still link here directly when they are broad anchors for the whole motif. But most work-notes should link to the specific bridge that explains what kind of manufacture is at stake.
 
 [[Communal Reproduction]] is one of the motif's older civic ancestors: before hatcheries and androids, utopian cities imagine reproduction and family as public design problems.
+
+*[[RoboCop]]* touches the motif through reconstruction rather than birth or cloning: a murdered officer is rebuilt as a corporate product, making [[Disposable Artificial Person]] the sharper bridge.
+
+*[[Helter Skelter (Okazaki)]]* touches the concept from the side of cosmetic manufacture rather than artificial life. The body is not built in a factory, but it is remade as material for a designed public image.

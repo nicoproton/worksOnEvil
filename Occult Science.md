@@ -19,4 +19,6 @@ Use this link when a work deliberately blurs experiment, magic, and metaphysical
 
 When occult science becomes the outer technique through which a deeper infernal power commands human agents, use [[Demonic Conspiracy]] as the more precise bridge. *[[That Hideous Strength]]* is the clearest case because the scientific institute is not merely haunted by occult desire; it is being directed by fallen intelligences.
 
+*[[Dorohedoro]]* touches the concept from the fantasy side. Sorcery is not scientific, but it often functions like technical power: bodies are altered, tested, mutilated, and transformed by specialists who treat the weaker world as practice material.
+
 Keep direct links to this note for broad concept notes or for works where the fusion itself is the point and no sharper bridge carries the relation cleanly.

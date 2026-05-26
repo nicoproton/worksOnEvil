@@ -27,6 +27,10 @@ Use this link when:
 
 *[[The Painter of Modern Life]]* gives Baudelaire's art-theoretical version. Modern fashion, artificiality, crowds, and urban surfaces become material for beauty without ceasing to belong to a damaged modern world.
 
+*[[Helter Skelter (Okazaki)]]* gives the celebrity-body version. Beauty remains socially powerful, but it is produced through bodily damage, media appetite, and fear of replacement.
+
+*[[Dorohedoro]]* gives a grotesque urban-fantasy version. Its beauty is not polished decadence but pleasure in grime, masks, food, altered bodies, sorcerer smoke, and violent absurdity.
+
 This bridge can touch [[Privatio Boni]], but it should do so carefully. The connection is strongest when the work presents evil as parasitic on beauty, desire, language, or life. If a work treats evil as a positive rival substance, use [[Manichaeism and Zoroastrianism]] or [[Gnosticism and its Critics]] instead.
 
 The Huysmans conversion arc provides an important counter-movement through [[Beauty Returned to Worship]]. *[[En route]]*, *[[La Cathedrale]]*, and *[[L'Oblat]]* do not abandon aesthetic hunger; they test whether it can be purified by worship, discipline, symbol, and sacramental order.

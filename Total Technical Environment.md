@@ -22,3 +22,9 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 *[[Metropolis (Novel)]]* is a symbolic-industrial case. The city is not just a backdrop for class conflict; it is a machine-age spiritual architecture built as a modern Babel.
 
 *[[High-Rise]]* gives the architectural-social form: a luxury tower becomes a complete habitat whose technical and class structures produce a closed environment of status, conflict, and regression.
+
+[[Machine for Living]] names the architectural bridge into this motif. In *[[Toward an Architecture]]*, the house-machine appears before the full technical city; later modernist planning expands the same logic from dwelling to environment.
+
+*[[The City of Tomorrow and Its Planning]]* gives the urban seed form: traffic, zoning, towers, hygiene, open space, and circulation are coordinated as the practical environment of modern life.
+
+*[[Cyberpunk 2020]]* is a looser but useful game-world case. Night City, cyberware, networks, corporate zones, media, weapons, and street economies form the environment before any single story begins.

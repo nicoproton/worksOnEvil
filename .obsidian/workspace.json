@@ -21,13 +21,18 @@
             "id": "24648f43c98900ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Naked Lunch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Naked Lunch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Liaisons",
+                "query": "soft machine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,34 +192,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd4344196b33080c",
+  "active": "24648f43c98900ac",
   "lastOpenFiles": [
-    "Cosmopolis.md",
-    "High-Rise.md",
-    "White Noise.md",
-    "eXistenZ.md",
-    "Tetsuo - The Iron Man.md",
-    "Naked Lunch.md",
-    "American Psycho.md",
-    "Videodrome.md",
-    "Crash (Ballard).md",
-    "Media-Flesh Fusion.md",
-    "Venus in Furs.md",
-    "The Torture Garden.md",
-    "Les Liaisons dangereuses.md",
-    "Aestheticized Transgression.md",
-    "La Regenta.md",
-    "Lost Illusions.md",
-    "Sentimental Education.md",
-    "The Sorrows of Young Werther.md",
-    "Don Quixote.md",
-    "Madame Bovary.md",
-    "Bovarysme.md",
-    "Ratner's Star.md",
-    "The Shockwave Rider.md",
-    "The Sirens of Titan.md",
-    "Player Piano.md",
-    "The Three Stigmata of Palmer Eldritch.md",
+    "Plan Voisin.md",
+    "The City of Tomorrow and Its Planning.md",
+    "High-Modernist Planning.md",
+    "Toward an Architecture.md",
+    "Machine for Living.md",
+    "Stand on Zanzibar.md",
+    "Welcome to the N.H.K..md",
+    "Pulse (Kairo).md",
+    "Perfect Blue.md",
+    "Kaiba.md",
+    "He, She and It.md",
+    "Feed.md",
+    "Permutation City.md",
+    "The Fortunate Fall.md",
+    "Synners.md",
+    "Inward Life as Data.md",
+    "Blade Runner.md",
+    "RoboCop.md",
+    "Cyberpunk 2020.md",
+    "Hardwired.md",
+    "Neuromancer.md",
+    "Corporate Sovereignty.md",
+    "Dorohedoro.md",
+    "Texhnolyze.md",
+    "Helter Skelter (Okazaki).md",
+    "Paranoia Agent.md",
     "Shin Megami Tensei III_ Nocturne (Video Game).md~",
     "Shin Megami Tensei IV (Video Game).md~",
     "Digimon (Franchise).md~",

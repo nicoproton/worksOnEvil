@@ -12,3 +12,5 @@ This concept is distinct from [[Artificial Woman as Double]]. Use that more spec
 Use this link when doubling exposes repression, obsession, divided agency, unstable identity, or a self that becomes alien to itself.
 
 *[[The Picture of Dorian Gray]]* is one of the clearest cases: the portrait preserves Dorian's public beauty while becoming the visible form of his hidden corruption.
+
+*[[Perfect Blue]]* gives the media-idol form: Mima's public image becomes a rival self produced by fandom, performance, online impersonation, and commercial memory.

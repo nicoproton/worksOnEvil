@@ -13,6 +13,8 @@ Use this link when technology shapes the structure of domination, not merely whe
 
 Use more precise bridge concepts when possible. [[Domination Through the Machine]] applies when technique, institution, device, or system makes the will effective by bypassing relation, patience, consent, creaturely limits, or divine order. [[Total Technical Environment]] applies when technology becomes the inhabited world rather than a tool within it. [[Sacred Infrastructure]] applies when technological dependence becomes reverence. [[Networked Divinity]] applies when AI, networks, or information systems take on providential or divine significance. [[Engineered Happiness]] applies when desire is conditioned into stability. [[Manufactured Humanity]] and its bridge concepts apply when persons are designed as products. [[Scientific World State]] applies when expert planning becomes planetary political order. [[Technetronic Society]] applies when control becomes informational, electronic, and media-saturated.
 
+For architectural modernism and planning, use [[Machine for Living]] when the built environment is treated as an apparatus for rationalized dwelling, hygiene, circulation, and social formation. Use [[High-Modernist Planning]] when the emphasis is top-down legibility, zoning, large-scale simplification, and administrative redesign of the city.
+
 Some works emphasize extraction rather than control. In those cases, [[Stolen Life-Force Technology]] is the more precise hub: technology expands by draining spirits, worlds, ecosystems, or living bodies.
 
 Tolkien's idea of the Machine, developed through [[Enchantment vs Magic]], clarifies a non-modern version of the same danger.
@@ -20,6 +22,8 @@ Tolkien's idea of the Machine, developed through [[Enchantment vs Magic]], clari
 Marinetti's *[[The Futurist Manifesto]]* is not a dystopia, but it is an important artistic ancestor to the danger: it openly loves speed, machinery, violence, and rupture as cultural renewal.
 
 *Between Two Ages* gives the cybernetic and informational version of this anxiety: technological power increasingly acts through communication systems, perception management, and expert coordination rather than through machines alone.
+
+The cyberpunk branch sharpens the corporate version of the motif. *[[Neuromancer]]*, *[[Hardwired]]*, *[[Cyberpunk 2020]]*, and *[[RoboCop]]* show technical power operating through networks, cyberware, private security, artificial intelligence, and [[Corporate Sovereignty]] rather than through a single state machine.
 
 The Wells-Huxley branch gives the planned global version: [[Scientific World State]], [[Evolutionary Humanism]], and [[Conscious Evolution]] name systems that promise rational planetary progress while risking the administration of human development itself.
 

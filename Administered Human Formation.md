@@ -16,4 +16,12 @@ Use this link for:
 
 *[[The Republic]]* and *[[The City of the Sun]]* give ancient and early-modern forms: the city educates, mythologizes, and organizes persons for the whole. *[[A New View of Society]]* and *[[The Book of the New Moral World]]* give benevolent reformist forms, where character is made by circumstances and therefore social environment becomes a design problem. *[[A Modern Utopia]]* and *[[The Scientific Outlook]]* give modern planning forms. *[[Brave New World]]* gives the dystopian industrial form, where reproduction and conditioning make each person fit a social function.
 
+*[[Feed]]* gives the consumer-network form: the young are formed by implanted media, advertising, slang, and trend responsiveness before resistance can become articulate.
+
+*[[Stand on Zanzibar]]* gives the population-policy form: heredity, reproduction, social pressure, and biological risk become matters for expert management in an overcrowded society.
+
+*[[Toward an Architecture]]* gives an architectural seed form through [[Machine for Living]]: the built environment is expected to reform modern habits through light, air, standardization, efficiency, and rational dwelling.
+
+*[[The City of Tomorrow and Its Planning]]* gives the urban-planning form: the city itself becomes a formative apparatus of traffic, zoning, towers, hygiene, and functional order.
+
 This concept overlaps with [[Engineered Caste]] when formation is explicitly hierarchical, with [[Programmed Contentment]] when it targets desire and mood, and with [[Scientific World State]] when expert planning becomes planetary order.

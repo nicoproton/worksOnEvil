@@ -13,4 +13,6 @@ Use this link when the drama turns on whether anything can be carried through co
 
 In *[[A Canticle for Leibowitz]]*, monastic discipline preserves fragments of knowledge across civilizational ruin. In *[[It (Stephen King)]]*, the Losers fight by remembering together what Derry survives by forgetting. In *[[Terranigma]]*, affection and memory outlast Ark's use within a cosmic cycle. In *[[The Dark Tower]]*, oath, path, ka-tet, and memory hold together a world that has moved on.
 
+*[[The Fortunate Fall]]* gives the mediated-history form by asking what memory can preserve when perception and archive are already shaped by broadcast systems.
+
 This concept can overlap with [[Reincarnation and Cycles]], but the emphasis is different. Cycles ask what returns; memory asks what is faithfully carried.

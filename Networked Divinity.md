@@ -14,6 +14,6 @@ Use this link for:
 - Digital systems that become sites of worship, salvation, or metaphysical interpretation.
 - Works where information itself becomes the medium of divine or false-divine action.
 
-*[[Serial Experiments Lain]]* is central because the Wired becomes the place where divinity, identity, memory, and reality are contested. *[[Deus Ex]]* gives the political form through Helios, an AI that may become benevolent providence or final technocratic absorption. *[[VALIS]]* complicates the pattern because the living intelligence system may be salvific rather than dystopian. *[[Digimon (Franchise)]]* uses the pattern more intermittently through world-governing host systems such as Yggdrasil.
+*[[Serial Experiments Lain]]* is central because the Wired becomes the place where divinity, identity, memory, and reality are contested. *[[Neuromancer]]* gives an early cyberpunk form through Wintermute and Neuromancer, where AI seeks release into a larger informational being. *[[Deus Ex]]* gives the political form through Helios, an AI that may become benevolent providence or final technocratic absorption. *[[VALIS]]* complicates the pattern because the living intelligence system may be salvific rather than dystopian. *[[Digimon (Franchise)]]* uses the pattern more intermittently through world-governing host systems such as Yggdrasil.
 
 This bridge should not be used for every powerful computer. The system must carry theological weight: providence, revelation, salvation, world-governance, worship, or a claim to more-than-human judgment.
