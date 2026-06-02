@@ -26,6 +26,8 @@ Comte's *[[Catechism of Positive Religion]]* gives a later religious form. Progr
 
 Robert Owen's *[[A New View of Society]]* gives the environmental-reform form: humanity improves as circumstances are rationally remade. *[[The Book of the New Moral World]]* expands that principle toward a complete social vision.
 
+Saint-Simon's *[[The Industrial System]]* and *[[The New Christianity]]* give the industrial-religious form: progress is imagined through productive organization, science, industry, and moral concern for the poorest.
+
 The art branch complicates the concept. Courbet's *[[The Realist Manifesto (Courbet)]]* imagines progress as fidelity to contemporary reality, Morris's *[[Useful Work versus Useless Toil]]* imagines it as restored craft and meaningful labor, and Marinetti's *[[The Futurist Manifesto]]* imagines it as violent rupture with the past.
 
 This concept is a useful ancestor for later world-planning and evolutionary-humanist nodes, but it should remain distinct from them. Condorcet and Mercier are not simply Wells, Huxley, or technocratic dystopia in seed form. They belong at the moment where progress is still hope, prophecy, critique, and temptation at once.

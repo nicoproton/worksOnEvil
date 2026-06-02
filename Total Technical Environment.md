@@ -27,4 +27,6 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 
 *[[The City of Tomorrow and Its Planning]]* gives the urban seed form: traffic, zoning, towers, hygiene, open space, and circulation are coordinated as the practical environment of modern life.
 
+*[[The New World (Hannes Meyer)]]* gives a Bauhaus-adjacent non-fiction seed form: modern life is described as an environment remade by machines, media, scientific thinking, standardized materials, housing processes, and collective design.
+
 *[[Cyberpunk 2020]]* is a looser but useful game-world case. Night City, cyberware, networks, corporate zones, media, weapons, and street economies form the environment before any single story begins.

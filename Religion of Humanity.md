@@ -18,6 +18,8 @@ Use this link for:
 
 *[[Catechism of Positive Religion]]* is the central theoretical anchor. Comte explicitly organizes positivism as a religion of Humanity, adapting Catholic structure while rejecting Catholic theology.
 
+Saint-Simon's *[[The New Christianity]]* is an earlier neighbor rather than the same thing. It keeps more Christian vocabulary, but it already redirects religious energy toward organized social improvement and the condition of the poorest.
+
 *[[Lord of the World]]* is the strongest fictional-theological neighbor. Benson imagines a future where humanitarian unity and worship of man prepare an Antichristic order. The link should be careful: Comte is not Benson's fictional Antichrist, but Comte helps explain why secular modernity may become religious rather than merely irreligious.
 
 This concept often overlaps with [[Hollowed Order]] when religious form remains after worship of God has been replaced, and with [[Scientific World State]] when social order is guided by expert or scientific administration.

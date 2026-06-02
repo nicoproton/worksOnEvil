@@ -33,4 +33,6 @@ The non-fiction technocratic branch often appears through [[Managed Crisis]] and
 
 H. G. Wells's [[Scientific World State]] gives the motif its utopian-planning form, while Julian Huxley's [[Evolutionary Humanism]] gives it an evolutionary-human-development form.
 
+Architectural modernism enters through [[Machine for Living]] and [[High-Modernist Planning]]. *[[The City of Tomorrow and Its Planning]]* promises health, light, air, order, and efficient circulation, while *[[Plan Voisin]]* shows how that promise can become spatial purification through demolition and reconstruction.
+
 Ancient and early-modern utopias complicate the pattern. *The Republic*, *The City of the Sun*, and *New Atlantis* are not simple dystopias, but each shows how order, knowledge, myth, reproduction, and scientific institutions can become total designs for human life.

@@ -29,4 +29,6 @@ The older ancestry runs through *[[The Republic]]*, *[[The City of the Sun]]*, a
 
 The French Enlightenment branch enters more through [[Progress as Secular Providence]] than direct world-state planning. *[[Sketch for a Historical Picture of the Progress of the Human Mind]]* and *[[The Year 2440]]* imagine rational historical improvement before that hope hardens into later administrative schemes.
 
+Saint-Simon's *[[The Industrial System]]* and *[[The New Christianity]]* give an industrial and moral precursor. They do not yet present Wells's planetary world state, but they help move social authority toward science, industry, expert organization, and the improvement of humanity through planned order.
+
 Comte's *[[Catechism of Positive Religion]]* adds a religious-sociological form: scientific order becomes moral and spiritual authority through the [[Religion of Humanity]].

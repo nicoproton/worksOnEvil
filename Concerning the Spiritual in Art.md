@@ -34,6 +34,10 @@ This gives the book a relation to [[Enchantment vs Magic]] in argument. Kandinsk
 
 Baudelaire's *[[The Painter of Modern Life]]* is an important precursor by contrast. Baudelaire finds spiritual resonance in modern surfaces, fashion, and the fugitive city; Kandinsky moves further inward, seeking spiritual necessity beyond external appearance.
 
+The early *[[Bauhaus Manifesto and Program]]* is a useful institutional neighbor. It shows spiritual modernism entering a school and workshop culture where color, form, material, craft, and architecture are meant to help remake the visible world.
+
+*[[De Stijl Manifesto I]]* is a neighboring but more impersonal route from spiritual abstraction to environment. Kandinsky emphasizes inner necessity and expressive form; De Stijl seeks universal plastic order that can pass from painting into architecture through *[[Towards a Plastic Architecture]]*.
+
 ## Why It Belongs Here
 
 *Concerning the Spiritual in Art* belongs because it shows modern art searching for hidden spiritual order. It stands between the older esoteric branch and modern abstraction: not traditional liturgy, not realism, not machine worship, but an attempt to make the invisible visible through form.
