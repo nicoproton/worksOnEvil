@@ -1,6 +1,13 @@
 ---
-aliases: [Hardwired]
-tags: [Novel, Cyberpunk, Corporation, War, Body]
+aliases:
+  - Hardwired
+tags:
+  - Novel
+  - Cyberpunk
+  - Corporation
+  - War
+  - Body
+  - Work
 ---
 
 # Hardwired

@@ -20,3 +20,5 @@ Use this link when the emphasis falls on technique: how opinion is studied, stag
 *[[The Fortunate Fall]]* gives the postcyberpunk historical-media form: public memory is shaped by networked perception, broadcast packaging, and the technical capture of experience.
 
 This bridge differs from [[Language as Control System]]. Language control concerns symbolic structures that directly govern thought or behavior; public opinion engineering concerns the organized environment in which opinion forms.
+
+[[Apolitical Culture as Soft Power]] is a higher cultural neighbor rather than a synonym. Public opinion engineering emphasizes mass persuasion and mediated attitudes. Apolitical culture as soft power emphasizes elite prestige, journals, conferences, foundations, art, literature, and the political usefulness of apparent independence.

@@ -1,6 +1,15 @@
 ---
-aliases: [He, She and It, Body of Glass]
-tags: [Novel, Cyberpunk, Golem, Cyborg, Corporation]
+aliases:
+  - He
+  - She and It
+  - Body of Glass
+tags:
+  - Novel
+  - Cyberpunk
+  - Golem
+  - Cyborg
+  - Corporation
+  - Work
 ---
 
 # He, She and It

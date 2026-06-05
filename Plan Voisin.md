@@ -1,6 +1,14 @@
 ---
-aliases: [Plan Voisin, Plan Voisin de Paris]
-tags: [Architecture, Urbanism, Planning, Paris, LeCorbusier]
+aliases:
+  - Plan Voisin
+  - Plan Voisin de Paris
+tags:
+  - Architecture
+  - Urbanism
+  - Planning
+  - Paris
+  - LeCorbusier
+  - City
 ---
 
 # Plan Voisin

@@ -1,6 +1,13 @@
 ---
-aliases: [Kaiba]
-tags: [Anime, Memory, Body, Technology, Japan]
+aliases:
+  - Kaiba
+tags:
+  - Anime
+  - Memory
+  - Body
+  - Technology
+  - Japan
+  - Work
 ---
 
 # Kaiba

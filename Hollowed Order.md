@@ -15,4 +15,6 @@ In *[[We (Zamyatin)]]*, the One State defines perfection as the surgical absence
 
 *[[Texhnolyze]]* gives the cyberpunk terminal form: Lux still has hierarchy, factions, ritual, and rule, but the city struggles to offer any positive account of human flourishing or inheritance.
 
+*[[Backrooms]]* gives the spatial-horror form: office, showroom, corridor, carpet, light, and room remain recognizable after work, commerce, shelter, memory, and destination have vanished.
+
 This concept is close to [[Good Captured by Evil]], but the emphasis is different. Good Captured by Evil tracks a real good redirected toward a false end; Hollowed Order tracks a form that persists after its animating good has drained away.

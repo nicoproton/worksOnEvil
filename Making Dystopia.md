@@ -73,7 +73,7 @@ Curl should be read with the other critique nodes rather than alone.
 
 Watkin's *[[Morality and Architecture]]* explains the moralized historical argument. Krier's *[[Architecture - Choice or Fate]]* gives the traditional urban counterclaim. Scruton's *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]]* defend architecture as public language and judgment. Perez-Gomez's *[[Architecture and the Crisis of Modern Science]]* gives the deeper genealogy of technical reduction.
 
-Curl adds the prosecutorial version: he gathers the genealogy, the institutions, the myths, and the built failures into a single indictment. That is his strength, and also his danger.
+Tom Wolfe's *[[From Bauhaus to Our House]]* gives the American satirical neighbor. Wolfe asks how imported European modernism became the prestige language of American architectural insiders, museums, schools, corporations, and civic institutions. Curl adds the prosecutorial version: he gathers the genealogy, the institutions, the myths, and the built failures into a single indictment. That is his strength, and also his danger.
 
 ## Limits and Cautions
 

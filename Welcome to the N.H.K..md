@@ -1,6 +1,14 @@
 ---
-aliases: [Welcome to the N.H.K., Welcome to the NHK]
-tags: [Novel, Anime, Japan, Hikikomori, Alienation]
+aliases:
+  - Welcome to the N.H.K.
+  - Welcome to the NHK
+tags:
+  - Novel
+  - Anime
+  - Japan
+  - Hikikomori
+  - Alienation
+  - Work
 ---
 
 # Welcome to the N.H.K.

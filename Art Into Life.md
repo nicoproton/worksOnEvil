@@ -25,6 +25,8 @@ The shared pattern is deeper and more portable: inherited form is treated as exh
 
 Because the pattern is abstract and portable, it can be translated into different regimes: socialist, liberal, fascist, corporate, spiritual, technocratic, or pedagogical. That portability is part of its importance.
 
+One of the main results is [[Place Replaced by Designed Environment]]. When art enters life as design, inherited places can be reinterpreted as environments to be organized. Home, ornament, craft, street, and memory become problems of form, function, perception, production, and expert coordination.
+
 ## From Total Artwork to Designed Environment
 
 Wagner's *[[The Artwork of the Future]]* gives an earlier aesthetic version: the separated arts should be reunited in a communal work. Futurism gives the violent machine-age version in *[[The Futurist Manifesto]]*. Kandinsky's *[[Concerning the Spiritual in Art]]* gives the inward spiritual-abstraction version.
@@ -46,6 +48,12 @@ This connects Art Into Life to [[Social Condenser]] and [[Administered Human For
 The North American line often softens or filters the revolutionary content. *[[The International Style]]* turns European modernism into a portable museum and professional category. *[[Space, Time and Architecture]]* gives modernism a grand historical narrative, tying architecture, science, painting, engineering, and planning into one story of modern space.
 
 This is why the same visual and technical grammar can move across political contexts. Once modernism is described as the inevitable expression of the age, it can be adopted by states, corporations, universities, museums, housing authorities, and planning offices without carrying every original revolutionary claim.
+
+## Media, Exhibition, and Perception
+
+The art-into-life movement does not pass only through buildings. Walter Benjamin's *[[The Work of Art in the Age of Mechanical Reproduction]]* gives the media-theoretical version: photography, film, reproduction, montage, exhibition, and mass circulation alter perception and make art politically available.
+
+That makes Benjamin a companion to *[[The New Vision]]*. Moholy-Nagy trains the modern sensorium from inside design pedagogy; Benjamin asks what happens when technologically trained perception becomes a mass condition. Both help explain why modernism could later become institutionally useful: it did not merely offer new forms, but new habits of seeing.
 
 ## Relation to the Machine and the City
 

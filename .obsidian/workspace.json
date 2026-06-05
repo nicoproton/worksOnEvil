@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd544f66b3d83ea",
+        "id": "e78a0245a032506a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4344196b33080c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zanoni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zanoni"
-            }
-          },
-          {
-            "id": "24648f43c98900ac",
+            "id": "e42352c4fb3a2449",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,34 +177,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "24648f43c98900ac",
+  "active": "e42352c4fb3a2449",
   "lastOpenFiles": [
-    "Reflections on Violence.md",
-    "From the Easel to the Machine.md",
-    "Art and Production.md",
-    "L'Esprit Nouveau.md",
-    "Apres le Cubisme.md",
-    "Today and Tomorrow.md",
-    "The Principles of Scientific Management.md",
-    "The New Industrial and Societary World.md",
-    "The New Christianity.md",
-    "The Industrial System.md",
+    "Building the Cold War.md",
+    "Bauhaus Culture.md",
+    "The Organizational Complex.md",
+    "The CIAM Discourse on Urbanism.md",
+    "The Bauhaus and America.md",
+    "Cold War on the Home Front.md",
+    "Cold War Modernists.md",
+    "Perfect Blue.md",
+    "Backrooms.md",
+    "Place Replaced by Designed Environment.md",
+    "How New York Stole the Idea of Modern Art.md",
+    "The Politics of Apolitical Culture.md",
+    "The Cultural Cold War.md",
+    "Apolitical Culture as Soft Power.md",
+    "The Architecture of Diplomacy.md",
+    "Modernism as Cultural Diplomacy.md",
+    "From Bauhaus to Our House.md",
+    "The City of Tomorrow and Its Planning.md",
+    "Pulse (Kairo).md",
+    "Cyberpunk 2020.md",
+    "Permutation City.md",
+    "Neuromancer.md",
+    "Kaiba.md",
+    "Hardwired.md",
+    "He, She and It.md",
     "Life Redesigned by Ideology.md",
-    "Naked Lunch.md",
-    "Zanoni.md",
-    "The New World Order (Wells).md",
-    "Making Dystopia.md",
-    "Architecture - Choice or Fate.md",
-    "Morality and Architecture.md",
-    "Moralized Architectural Determinism.md",
-    "Unite d'Habitation, Marseille.md",
-    "The New Brutalism - Ethic or Aesthetic.md",
-    "Theory and Design in the First Machine Age.md",
-    "Bowling Alone.md",
-    "Associational Life.md",
-    "Crabgrass Frontier.md",
-    "The Rise of the Community Builders.md",
-    "State-Market Landscape.md",
     "Shin Megami Tensei III_ Nocturne (Video Game).md~",
     "Shin Megami Tensei IV (Video Game).md~",
     "Digimon (Franchise).md~",

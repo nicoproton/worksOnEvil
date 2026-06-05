@@ -44,6 +44,8 @@ This makes the manifesto a useful case of [[Administered Human Formation]], thou
 
 This is one reason the Bauhaus matters for the graph. Social formation does not always begin with the state, the laboratory, or the city plan. It can begin in the school that trains the people who will design the environment.
 
+This also makes the manifesto an early institutional case of [[Place Replaced by Designed Environment]]. The school trains makers to see ordinary life as designable material: objects, rooms, surfaces, typography, workshops, dwellings, and public buildings can all be brought under a new visual and constructive discipline.
+
 ## From Craft to Industry
 
 The early manifesto's craft language can mislead if isolated from the Bauhaus's later development. The school's trajectory moves toward industrial design, standard forms, mass production, typography, modern housing, furniture, and everyday objects.
@@ -66,9 +68,13 @@ Moholy-Nagy's *[[The New Vision]]* gives the Bauhaus pedagogical and perceptual 
 
 Banham's *[[Theory and Design in the First Machine Age]]* is useful for placing the Bauhaus inside the wider machine-age genealogy rather than treating it as the source of all later modernism. His *[[The New Brutalism - Ethic or Aesthetic]]* also helps clarify why Brutalism should not be treated as a simple Bauhaus descendant. Brutalism shares the anti-ornament and material-directness inheritance, but its more immediate route runs through late Le Corbusier, postwar reconstruction, raw concrete, and the Smithsons' New Brutalism.
 
-Curl's *[[Making Dystopia]]* is the hostile later reading of this genealogy. It is useful because it asks how the Bauhaus and related modernist myths became institutional authority, but it should not erase the early Bauhaus's spiritual, craft, and pedagogical complexity.
+Curl's *[[Making Dystopia]]* and Wolfe's *[[From Bauhaus to Our House]]* are hostile later readings of this genealogy. Curl asks how the Bauhaus and related modernist myths became institutional authority. Wolfe asks how the Bauhaus name and its associated austerity became prestige language in American professional culture. Both are useful as reception critiques, but neither should erase the early Bauhaus's spiritual, craft, and pedagogical complexity.
 
-The danger is not that good design is evil. The danger is that the whole field of ordinary life can become available for expert redesign, as if form, habit, dwelling, work, and perception were all to be remade by a disciplined modern design class.
+Margret Kentgens-Craig's *[[The Bauhaus and America]]* is the more patient reception-history companion. It shows that American Bauhaus fame was made through early contacts, publications, exhibitions, information flow, cultural demand, and presentation, not only through the inherent force of the school's ideas.
+
+*[[Bauhaus Culture]]* is the broader historical-corrective companion. It keeps the school from becoming a simple symbol of clean design, progressive politics, or technological modernity by placing Bauhaus work in Weimar culture, consumer culture, political conflict, exile, and Cold War memory.
+
+The danger is not that good design is evil. The danger is that the whole field of ordinary life can become available for expert redesign, as if form, habit, dwelling, work, and perception were all to be remade by a disciplined modern design class. This is where the manifesto must be held in tension with [[Architecture as Public Language]]: design formation becomes dangerous when it stops answering to the shared world of inhabitants.
 
 ## Between Spiritual Form and Technical Design
 

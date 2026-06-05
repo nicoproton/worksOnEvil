@@ -1,6 +1,13 @@
 ---
-aliases: [Perfect Blue]
-tags: [Film, Anime, Japan, Media, Identity]
+aliases:
+  - Perfect Blue
+tags:
+  - Film
+  - Anime
+  - Japan
+  - Media
+  - Identity
+  - Work
 ---
 
 # Perfect Blue

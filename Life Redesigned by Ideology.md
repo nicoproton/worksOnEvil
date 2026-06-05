@@ -23,11 +23,15 @@ Modernist architecture did not arise only from aesthetic taste. It was fed by in
 
 The shared claim is that inherited life is not simply received and repaired. It is diagnosed as obsolete, irrational, wasteful, oppressive, unhealthy, or historically exhausted. Once that diagnosis is accepted, a new class of experts, artists, engineers, planners, managers, or revolutionaries can claim authority to design the replacement.
 
+In the architecture branch, one concrete result is [[Place Replaced by Designed Environment]]. The older world of home, street, ornament, memory, and local form is reclassified as environment, function, circulation, standard object, and design problem.
+
 ## Different Regimes, Shared Grammar
 
 This bridge should not claim that liberal America, Soviet Russia, Fascist Italy, Weimar modernism, and French technocratic planning were identical. They were enemies in many ways.
 
 The deeper similarity is a grammar of reconstruction. The old world is judged by the new age. Production, hygiene, efficiency, consciousness, collective life, and historical necessity become warrants for redesign. That grammar can be translated into socialist planning, corporate efficiency, fascist spectacle, liberal institutional modernism, or technocratic administration.
+
+[[Modernism as Cultural Diplomacy]] is one liberal-institutional version of this grammar. It does not redesign the whole population in the same direct way as a planning scheme, but it uses modern form to represent the kind of social order a state claims to embody.
 
 ## Source Currents
 

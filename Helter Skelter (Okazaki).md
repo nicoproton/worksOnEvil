@@ -1,6 +1,14 @@
 ---
-aliases: [Helter Skelter, Helter Skelter by Kyoko Okazaki]
-tags: [Manga, Japan, Body, Celebrity, Media]
+aliases:
+  - Helter Skelter
+  - Helter Skelter by Kyoko Okazaki
+tags:
+  - Manga
+  - Japan
+  - Body
+  - Celebrity
+  - Media
+  - Work
 ---
 
 # Helter Skelter

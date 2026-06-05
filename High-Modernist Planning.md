@@ -13,6 +13,8 @@ This bridge belongs near [[Life Redesigned by Ideology]], [[Administered Human F
 
 *[[Cities of Tomorrow (Peter Hall)]]* gives the broader planning-history map. It helps distinguish Garden City decentralization, RPAA regionalism, Le Corbusier's functional city, highway planning, urban renewal, and state-market suburbia without losing the common modern wager that social life can be improved by spatial redesign.
 
+Eric Mumford's *[[The CIAM Discourse on Urbanism]]* gives the institutional genealogy behind much of this branch. CIAM turns modernist urbanism into an international discourse of social purpose, functional categories, and planning doctrine rather than leaving it as a set of isolated architect-manifestos.
+
 Stein's *[[Toward New Towns for America]]* belongs on the softer edge of this bridge. It is not a Corbusian tower-city argument, but its superblocks, traffic separation, and planned neighborhood grammar show how humane community planning can still turn social life into a design problem solved before inhabitants arrive.
 
 Watkin's *[[Morality and Architecture]]* helps explain why such plans can become resistant to correction. Through [[Moralized Architectural Determinism]], a design system can present itself as the morally necessary form of the age, so lived alienation is interpreted as public backwardness rather than as evidence against the plan.

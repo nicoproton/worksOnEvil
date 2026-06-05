@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Work  ",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Concept  ",
+      "query": "tag:#Concept",
       "color": {
         "a": 1,
         "rgb": 1818731
@@ -34,6 +34,34 @@
         "a": 1,
         "rgb": 16767785
       }
+    },
+    {
+      "query": "tag:#BridgeConcept",
+      "color": {
+        "a": 1,
+        "rgb": 65378
+      }
+    },
+    {
+      "query": "tag:#City  ",
+      "color": {
+        "a": 1,
+        "rgb": 1660902
+      }
+    },
+    {
+      "query": "tag:#Building  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Novel  ",
+      "color": {
+        "a": 1,
+        "rgb": 41820
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13168724279835337,
+  "scale": 0.1316872427983532,
   "close": true
 }

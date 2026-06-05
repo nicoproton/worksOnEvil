@@ -47,6 +47,8 @@ This places the book beside Roger Scruton's *[[The Aesthetics of Architecture]]*
 
 Both works support [[Architecture as Public Language]], but from different directions. Scruton defends the public intelligibility of architecture as aesthetic judgment. Perez-Gomez shows how the technical-scientific worldview weakened architecture's older power to speak through memory, metaphor, number, and symbolic order.
 
+That makes the book a deep genealogy of [[Place Replaced by Designed Environment]]. Before home can become equipment and place can become environment, architecture has to be reimagined as an object of technical representation rather than as a symbolic art of dwelling.
+
 ## The Background to Modern Functionalism
 
 The book is useful for reading *[[Toward an Architecture]]*, *[[The New World (Hannes Meyer)]]*, and *[[Style and Epoch]]*. Those works present modern architecture as truthful because it answers machinery, function, economy, production, or the material reality of the age.

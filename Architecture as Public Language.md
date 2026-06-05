@@ -16,6 +16,8 @@ Architecture as Public Language names the pattern in which building is understoo
 
 This concept is useful for counter-works that oppose [[Machine for Living]] and [[High-Modernist Planning]] at the level of meaning. The issue is not only that modernist planning can be ugly, abstract, or inefficient. The deeper question is whether architecture still speaks a language in which human beings can recognize home, threshold, street, worship, civic dignity, memory, and neighborly belonging.
 
+It is the main counter-bridge to [[Place Replaced by Designed Environment]]. Where that bridge names the translation of home into equipment, place into space, and public meaning into expert visual grammar, this bridge asks whether architecture can still address persons as inhabitants of a shared world.
+
 Use this link when:
 
 - architecture is treated as a public art that must answer to those who live with it;
@@ -31,6 +33,10 @@ David Watkin's *[[Morality and Architecture]]* gives a neighboring critique of a
 Leon Krier's *[[Architecture - Choice or Fate]]* gives the urban traditionalist version. It argues that streets, squares, blocks, fronts, building types, and civic hierarchy are not nostalgic decorations, but part of the public grammar through which common life becomes legible.
 
 James Stevens Curl's *[[Making Dystopia]]* gives the more accusatory version. It argues that modernist architecture became barbarous when it rejected inherited public language and then protected that rejection through professional mythology and institutional authority.
+
+Tom Wolfe's *[[From Bauhaus to Our House]]* gives the satirical American reception version. It is useful when the issue is not only that a building fails to speak publicly, but that professional insiders treat public dislike as evidence of public backwardness rather than as a serious judgment about a shared environment.
+
+*[[Backrooms]]* gives the horror version of failed public language. The rooms and corridors retain the visual grammar of modern interiors, but they no longer say where one is, where one may go, who the space is for, or what human good it serves.
 
 Alberto Perez-Gomez's *[[Architecture and the Crisis of Modern Science]]* gives the historical-genealogical version. It asks how architecture lost older symbolic, numerical, and cosmological languages as scientific representation and technical reason became dominant.
 

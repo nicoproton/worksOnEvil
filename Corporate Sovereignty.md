@@ -9,6 +9,8 @@ Corporate Sovereignty names worlds where corporations do not merely sell product
 
 This bridge belongs near [[Domination Through the Machine]], [[Alienating City]], and [[Manufactured Humanity]]. It is strongest when corporate power becomes the environment in which persons live, rather than one villainous company doing one bad thing.
 
+Reinhold Martin's *[[The Organizational Complex]]* gives the non-fiction prehistory of this pattern. It does not describe cyberpunk corporate sovereignty, but it shows corporate architecture, media, computers, and organizational thought beginning to shape the postwar landscape as a system of work, image, and control.
+
 Use this link when:
 
 - corporations own bodies, labor, memory, weapons, city space, or identity;

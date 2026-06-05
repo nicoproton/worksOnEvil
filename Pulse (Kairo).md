@@ -1,6 +1,15 @@
 ---
-aliases: [Pulse, Kairo, Pulse (Kairo)]
-tags: [Film, Horror, Japan, Internet, Alienation]
+aliases:
+  - Pulse
+  - Kairo
+  - Pulse (Kairo)
+tags:
+  - Film
+  - Horror
+  - Japan
+  - Internet
+  - Alienation
+  - Work
 ---
 
 # Pulse

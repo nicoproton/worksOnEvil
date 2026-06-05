@@ -1,6 +1,15 @@
 ---
-aliases: [Cyberpunk 2020, Cyberpunk RPG, Cyberpunk 2013]
-tags: [Game, TabletopRPG, Cyberpunk, Corporation, Worldbuilding]
+aliases:
+  - Cyberpunk 2020
+  - Cyberpunk RPG
+  - Cyberpunk 2013
+tags:
+  - Game
+  - TabletopRPG
+  - Cyberpunk
+  - Corporation
+  - Worldbuilding
+  - Work
 ---
 
 # Cyberpunk 2020

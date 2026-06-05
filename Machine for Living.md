@@ -13,6 +13,8 @@ It also belongs under [[Art Into Life]] when the house-machine or city-machine a
 
 It also draws on the wider industrial logic of [[Life Redesigned by Ideology]]. Taylor's *[[The Principles of Scientific Management]]* and Ford's *[[Today and Tomorrow]]* help explain why standardization, efficiency, flow, and expert coordination could appear as moral goods before they entered architectural language.
 
+It is also one of the clearest mechanisms of [[Place Replaced by Designed Environment]]. Dwelling is not denied, but it is translated into equipment, functions, services, circulation, hygiene, and measurable comfort. The house becomes an environment for producing modern life.
+
 Use this link when:
 
 - the house, apartment block, or city is described as a functional instrument;
@@ -47,9 +49,13 @@ Banham's *[[Theory and Design in the First Machine Age]]* is the critical geneal
 
 *[[Houses with Balcony Access]]* gives that logic a modest domestic form: worker housing is organized through minimum dwelling, balcony access, sunlight, shared services, gardens, and construction economy.
 
+Greg Castillo's *[[Cold War on the Home Front]]* shows the house-machine softened into Cold War domestic display. Appliances, furniture, model homes, and modern interiors make designed domestic life appear as comfort, freedom, and political superiority.
+
 *[[Style and Epoch]]* gives the Soviet Constructivist manifesto form: the building should arise from the epoch's labor, technology, machine forms, social need, and constructive method rather than from inherited style.
 
 Use [[Social Condenser]] rather than this broader bridge when the architectural machine is explicitly meant to produce collective socialist habits, as in the [[Narkomfin Building]].
+
+Reinhold Martin's *[[The Organizational Complex]]* belongs near this bridge's corporate extension. The machine is no longer only house or city, but office, campus, laboratory, media image, curtain wall, management system, and cybernetic pattern.
 
 Use [[Architecture as Public Language]] for the counter-claim, especially in Roger Scruton's *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]]*. There the problem is not only that buildings become functional machines, but that they stop speaking a shared language of home, street, memory, beauty, and public judgment.
 

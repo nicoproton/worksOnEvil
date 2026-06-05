@@ -33,6 +33,8 @@ This is where his critique reaches the social-engineering branch. If architectur
 
 The opposition is not between usefulness and beauty. It is between usefulness ordered by humane meaning and usefulness that has forgotten why dwelling matters.
 
+That makes the book a major counter-node to [[Place Replaced by Designed Environment]]. Scruton is not only defending old styles. He is defending the claim that place, memory, ornament, and public language cannot be replaced by environment, function, and expert design without changing the kind of beings architecture thinks it is addressing.
+
 ## Public Judgment Against Expert Ideology
 
 Scruton is especially hostile to the professional and theoretical habits by which architects justify buildings that the public experiences as alienating. His point is not populism in the shallow sense. It is that architecture is unavoidably public, so architectural judgment cannot be sealed inside an expert caste.

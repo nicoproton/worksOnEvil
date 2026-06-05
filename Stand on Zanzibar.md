@@ -1,6 +1,13 @@
 ---
-aliases: [Stand on Zanzibar]
-tags: [Novel, ScienceFiction, Dystopia, Media, Overpopulation]
+aliases:
+  - Stand on Zanzibar
+tags:
+  - Novel
+  - ScienceFiction
+  - Dystopia
+  - Media
+  - Overpopulation
+  - Work
 ---
 
 # Stand on Zanzibar

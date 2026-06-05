@@ -9,6 +9,7 @@ tags:
   - Modernism
   - SovietUnion
   - Movement
+  - Concept
 ---
 
 # Soviet Constructivism

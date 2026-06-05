@@ -1,6 +1,13 @@
 ---
-aliases: [Neuromancer]
-tags: [Novel, Cyberpunk, AI, Network, Dystopia]
+aliases:
+  - Neuromancer
+tags:
+  - Novel
+  - Cyberpunk
+  - AI
+  - Network
+  - Dystopia
+  - Work
 ---
 
 # Neuromancer

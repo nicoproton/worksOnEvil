@@ -1,6 +1,13 @@
 ---
-aliases: [RoboCop]
-tags: [Film, Cyberpunk, Corporation, Police, Body]
+aliases:
+  - RoboCop
+tags:
+  - Film
+  - Cyberpunk
+  - Corporation
+  - Police
+  - Body
+  - Work
 ---
 
 # RoboCop

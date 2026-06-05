@@ -25,7 +25,13 @@ The strongest graph point is the conversion from movement to style. European mod
 
 The MoMA frame simplified much of this into formal principles: volume rather than mass, regularity rather than axial symmetry, and avoidance of applied ornament.
 
-This makes the book a crucial neighbor to *[[Making Dystopia]]*. Curl criticizes modernism's institutional mythology. *The International Style* helps explain one mechanism by which the mythology became portable: the complex avant-garde was translated into a professional aesthetic category.
+This makes the book a crucial neighbor to *[[Making Dystopia]]* and *[[From Bauhaus to Our House]]*. Curl criticizes modernism's institutional mythology. Wolfe satirizes its American professional reception. *The International Style* helps explain one mechanism by which the mythology became portable: the complex avant-garde was translated into a professional aesthetic category.
+
+That portability is also why the book matters for [[Place Replaced by Designed Environment]]. Once modernism is translated into an international grammar, local place can be judged by a disembedded standard of volume, regularity, surface, and anti-ornament. The style becomes legible to institutions before it becomes answerable to local memory.
+
+Margret Kentgens-Craig's *[[The Bauhaus and America]]* gives a nearby reception story. It shows that modernist transfer depended on contacts, publications, exhibitions, marketing, and American cultural demand before the International Style frame could make European modernism appear as a stable professional language.
+
+*[[Bauhaus Culture]]* gives the caution behind that transfer. Before Bauhaus modernism could be abstracted into an international style or American prestige language, it was a historically unstable school culture: spiritual, pedagogical, technological, consumer-facing, political, and later mythologized.
 
 ## Ornament Removed, Politics Filtered
 
@@ -39,6 +45,8 @@ The book connects *[[Bauhaus Manifesto and Program]]*, *[[Toward an Architecture
 
 This is also where [[Moralized Architectural Determinism]] enters through institutional form. If the International Style is treated as the natural expression of modernity, then traditional public language can be dismissed as obsolete before the building is judged by inhabitants.
 
+Jane C. Loeffler's *[[The Architecture of Diplomacy]]* shows one later use of this portability. Once modern architecture could be read as an international language, American embassies could use it as [[Modernism as Cultural Diplomacy]]: a style meant to signal openness, freedom, and modern democratic confidence abroad.
+
 ## Why It Belongs Here
 
-*The International Style* belongs because it gives the graph a concrete transfer node from European modernist theory to North American institutional architecture. It shows how a heterogeneous movement became a portable professional style, making modernism easier to export, teach, fund, and normalize.
+*The International Style* belongs because it gives the graph a concrete transfer node from European modernist theory to North American institutional architecture. It shows how a heterogeneous movement became a portable professional style, making modernism easier to export, teach, fund, normalize, and later defend as the serious architecture of the age.
