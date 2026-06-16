@@ -35,13 +35,13 @@ For Moholy-Nagy, modern technologies can reveal what ordinary vision misses. Pho
 
 This places the book near [[Total Technical Environment]] in seed form. The modern world is experienced through machines and media, and art must learn from that changed condition.
 
-Walter Benjamin's *[[The Work of Art in the Age of Mechanical Reproduction]]* is a later neighbor. Benjamin asks what technological reproduction does to aura, mass perception, and politics. Moholy-Nagy asks how technological media can educate vision and design.
+[[Mediated Reality]] is the later theoretical neighbor. Benjamin asks what technological reproduction does to aura, mass perception, and politics. Moholy-Nagy asks how technological media can educate vision and design.
 
 ## Bauhaus to North America
 
 This note is also important for the transfer question. Moholy-Nagy carried Bauhaus pedagogy into the New Bauhaus and later the Institute of Design in Chicago. The result is one path by which European avant-garde design entered North American education, industry, photography, typography, and architecture.
 
-That makes *The New Vision* a companion to *[[The International Style]]*. The International Style brings European architecture into museum-professional classification. Moholy-Nagy brings Bauhaus experimentation into design pedagogy and sensory training.
+That makes *The New Vision* a companion to [[Portable Modernism]]. The International Style brings European architecture into museum-professional classification. Moholy-Nagy brings Bauhaus experimentation into design pedagogy and sensory training.
 
 This connection also clarifies the later Cold War branch without reducing Moholy-Nagy to politics. [[Modernism as Cultural Diplomacy]] could use modern form as a sign of freedom and progress because schools, exhibitions, magazines, and design institutions had already taught people to read abstraction, light, motion, transparency, and technical experiment as modern visual virtues.
 

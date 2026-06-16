@@ -20,11 +20,11 @@ The book is useful as a corrective node. It keeps the Bauhaus branch from becomi
 
 ## Against the Simple Bauhaus Myth
 
-The strongest graph value of the book is historical complication. *[[Bauhaus Manifesto and Program]]* begins with craft, cathedral imagery, and the desire to reunite the arts around building. Later Bauhaus reputation often collapses that story into white walls, flat roofs, industrial design, and modern functionalism.
+The strongest graph value of the book is historical complication. The Bauhaus founding text begins with craft, cathedral imagery, and the desire to reunite the arts around building. Later Bauhaus reputation often collapses that story into white walls, flat roofs, industrial design, and modern functionalism.
 
 *Bauhaus Culture* widens the frame. It places the school in Weimar Germany, before the Nazi seizure of power, through World War II, and into the Cold War. The Bauhaus becomes less a single doctrine than a contested cultural object whose meaning changes as it moves through politics, exile, museums, consumer culture, and postwar memory.
 
-This matters because many later nodes inherit "Bauhaus" as a symbol. *[[From Bauhaus to Our House]]* attacks the American prestige myth. *[[The Bauhaus and America]]* studies early American reception. *Bauhaus Culture* asks what was lost when the historical school became a portable emblem of modernity.
+This matters because many later nodes inherit "Bauhaus" as a symbol. Wolfe attacks the American prestige myth, while reception histories study early American transfer. *Bauhaus Culture* asks what was lost when the historical school became a portable emblem of modernity.
 
 ## Abstraction, Technology, and Politics
 
@@ -40,7 +40,7 @@ One of the book's most useful implications is that Bauhaus modernity entered con
 
 This prepares the path toward [[Modernism as Cultural Diplomacy]]. Modernism can become politically useful only after it has become culturally legible. If Bauhaus form can signify newness, freedom, expertise, democracy, technical seriousness, or progressive taste, then later institutions can mobilize those meanings.
 
-That makes *Bauhaus Culture* a good companion to *[[Cold War Modernists]]* and *[[Cold War on the Home Front]]*. Barnhisel shows modernist art and literature being repurposed for cultural diplomacy. Castillo shows modern design and domestic comfort becoming Cold War soft power. *Bauhaus Culture* helps explain the older symbolic capital those later uses draw upon.
+That makes *Bauhaus Culture* a good companion to the Cold War modernism branch. Barnhisel shows modernist art and literature being repurposed for cultural diplomacy. Castillo shows modern design and domestic comfort becoming Cold War soft power. *Bauhaus Culture* helps explain the older symbolic capital those later uses draw upon.
 
 ## Why It Belongs Here
 

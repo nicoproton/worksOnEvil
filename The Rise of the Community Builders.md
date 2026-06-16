@@ -16,7 +16,7 @@ tags:
 
 ***The Rise of the Community Builders: The American Real Estate Industry and Urban Land Planning*** is Marc A. Weiss's history of the American real estate industry and its role in urban land planning. Its value for this graph is that it shifts the question from ideal plans to institutional transmission: how developers, real estate organizations, zoning advocates, mortgage institutions, and federal housing standards helped turn suburban planning into a reproducible landscape.
 
-The book belongs after *[[Toward New Towns for America]]*. Stein shows the reformist Garden City/RPAA branch becoming planned neighborhoods and new-town experiments. Weiss shows another layer: private real estate actors also learned to plan, regulate, standardize, and sell whole communities.
+The book belongs downstream from the reformist Garden City/RPAA branch. Stein shows that branch becoming planned neighborhoods and new-town experiments. Weiss shows another layer: private real estate actors also learned to plan, regulate, standardize, and sell whole communities.
 
 ## The Community Builder
 
@@ -54,7 +54,7 @@ That mechanism is different from building a city by decree. It is more indirect 
 
 The book helps distinguish influence from resemblance. A subdivision may borrow Garden City or Radburn language: greenery, curving streets, neighborhood identity, traffic protection, and domestic refuge. But the underlying mechanism may be quite different.
 
-Howard's *[[Garden Cities of To-morrow]]* wanted land-value capture, bounded growth, local work, agricultural belts, and a federated social city. Stein's *[[Toward New Towns for America]]* defended planned communities with green interiors and traffic separation. The community-builder tradition often preserved only the marketable parts: landscape, exclusivity, order, safety, and escape.
+Howard's Garden City wanted land-value capture, bounded growth, local work, agricultural belts, and a federated social city. Stein defended planned communities with green interiors and traffic separation. The community-builder tradition often preserved only the marketable parts: landscape, exclusivity, order, safety, and escape.
 
 This is why Weiss matters. He helps the graph ask not only "Which vision inspired this form?" but "Which institutions selected and diluted the vision?"
 
@@ -64,7 +64,7 @@ The most important phrase for the vault is planned market. The suburban landscap
 
 This does not make the American suburb identical to Soviet planning or Corbusian urbanism. It makes it a different modern form of planned life. Its order is administered through risk, finance, land value, and domestic aspiration rather than through one visible master plan.
 
-That distinction helps keep [[High-Modernist Planning]] precise. Weiss belongs near it, but he is not describing the same thing as [[Plan Voisin]] or [[Brasilia]]. He is describing how the market itself becomes planned.
+That distinction helps keep [[High-Modernist Planning]] precise. Weiss belongs near it, but he is not describing the same thing as the Corbusian project-image of Plan Voisin or the capital-scale planning of Brasilia. He is describing how the market itself becomes planned.
 
 ## What Actually Traveled
 
@@ -75,8 +75,8 @@ For the graph's influence question, Weiss suggests that suburbia absorbed fragme
 - from public policy: zoning, subdivision controls, mortgage insurance, underwriting standards, road infrastructure;
 - from consumer culture: domestic privacy, ownership, yard, car, family security, and escape from the old city.
 
-This means that no single framework won completely. Le Corbusier carries more weight in towers, clearance, functional zoning, and administrative legibility. Howard and Stein carry more weight in planned low-density neighborhood form. Weiss shows how real estate and federal standards selected usable fragments and made them profitable.
+This means that no single framework won completely. [[Functional City]] carries more weight in towers, clearance, functional zoning, and administrative legibility. Garden City and RPAA ideas carry more weight in planned low-density neighborhood form. Weiss shows how real estate and federal standards selected usable fragments and made them profitable.
 
 ## Why It Belongs Here
 
-*The Rise of the Community Builders* belongs because it gives the vault the missing institutional layer between planning ideals and ordinary suburban form. It shows that modern settlement was shaped not only by architects and reformers, but by the real estate industry's attempt to make whole communities predictable, saleable, financeable, and protected by law. Jackson's *[[Crabgrass Frontier]]* gives the broader social and policy history into which that industry story fits.
+*The Rise of the Community Builders* belongs because it gives the vault the missing institutional layer between planning ideals and ordinary suburban form. It shows that modern settlement was shaped not only by architects and reformers, but by the real estate industry's attempt to make whole communities predictable, saleable, financeable, and protected by law. That is why its strongest graph home is [[State-Market Landscape]].

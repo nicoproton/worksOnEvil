@@ -43,7 +43,7 @@ That makes the book a genealogy of [[Machine for Living]] rather than another ex
 
 The crisis named in the title is not that architecture learned too much science. The crisis is that architecture began to lose the ability to justify its poetic and symbolic work in a culture where objective technical knowledge seemed to be the only serious form of truth.
 
-This places the book beside Roger Scruton's *[[The Aesthetics of Architecture]]*. Scruton asks philosophically why architecture cannot be reduced to utility, private taste, or function. Perez-Gomez asks historically how architecture arrived at a condition in which such reductions could seem natural.
+This places the book beside [[Architecture as Public Language]]. Roger Scruton asks philosophically why architecture cannot be reduced to utility, private taste, or function. Perez-Gomez asks historically how architecture arrived at a condition in which such reductions could seem natural.
 
 Both works support [[Architecture as Public Language]], but from different directions. Scruton defends the public intelligibility of architecture as aesthetic judgment. Perez-Gomez shows how the technical-scientific worldview weakened architecture's older power to speak through memory, metaphor, number, and symbolic order.
 
@@ -51,7 +51,7 @@ That makes the book a deep genealogy of [[Place Replaced by Designed Environment
 
 ## The Background to Modern Functionalism
 
-The book is useful for reading *[[Toward an Architecture]]*, *[[The New World (Hannes Meyer)]]*, and *[[Style and Epoch]]*. Those works present modern architecture as truthful because it answers machinery, function, economy, production, or the material reality of the age.
+The book is useful for reading the modernist claims gathered under [[Machine-Age Standardization]] and [[Epoch as Form-Maker]]. Works such as *Toward an Architecture*, *The New World*, and *Style and Epoch* present modern architecture as truthful because it answers machinery, function, economy, production, or the material reality of the age.
 
 Perez-Gomez helps reveal what has already been conceded in that move. If truth in architecture is identified with technical exactness, functional adequacy, or the scientific description of need, then inherited symbol, ornament, ritual, craft, and metaphysical proportion can be dismissed as subjective or obsolete.
 

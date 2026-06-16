@@ -47,13 +47,13 @@ The deeper issue is representation. Modern architecture often claims to represen
 
 The book should not be read as a call to copy old buildings mechanically. Scruton's stronger argument is that traditions are languages: they survive by adaptation, not by preservation in glass.
 
-That makes the book a useful neighbor to *[[The Timeless Way of Building]]*. Alexander asks how living places can be generated through patterns and local participation. Scruton asks how inherited architectural language can continue to speak publicly after modernism has tried to sever grammar from memory.
+That makes the book a useful neighbor to [[Embodied Relation]]. Alexander asks how living places can be generated through patterns and local participation. Scruton asks how inherited architectural language can continue to speak publicly after modernism has tried to sever grammar from memory.
 
 The neighbor relation is real, but not identity. Alexander is more procedural and generative. Scruton is more aesthetic, linguistic, and civilizational.
 
 ## Ruskin, Beauty, and Moral Settlement
 
-Scruton also belongs beside *[[The Nature of Gothic]]*. Ruskin defends Gothic craft because the worker's hand, freedom, and spiritual life remain visible. Scruton defends classical and vernacular form because architecture should sustain a shared world of public judgment and settled meaning.
+Scruton also belongs beside [[Architecture as Public Language]]. Ruskin defends Gothic craft because the worker's hand, freedom, and spiritual life remain visible. Scruton defends classical and vernacular form because architecture should sustain a shared world of public judgment and settled meaning.
 
 Both resist the reduction of building to mechanical production. Ruskin's language is more moral-theological and craft-centered; Scruton's is more philosophical and civic.
 

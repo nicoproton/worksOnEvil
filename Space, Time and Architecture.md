@@ -24,7 +24,7 @@ The subtitle matters. Giedion wants modern architecture to be seen not as fashio
 
 This places the book near [[Moralized Architectural Determinism]]. If modern architecture is the necessary growth of a new tradition, then resistance can be cast as failure to understand the historical movement of the age.
 
-The book should be read beside Watkin's *[[Morality and Architecture]]*. Watkin criticizes the kind of historiography that turns architectural development into moral necessity. Giedion is one of the major figures whose historical framing made that necessity persuasive.
+The book should be read beside [[Moralized Architectural Determinism]]. Watkin criticizes the kind of historiography that turns architectural development into moral necessity. Giedion is one of the major figures whose historical framing made that necessity persuasive.
 
 ## Space-Time Modernism
 
@@ -32,17 +32,17 @@ Giedion connects modern architecture to changing ideas of space and time, includ
 
 This makes the book a major node under [[Art Into Life]]. The modern building is not merely a technical object. It is presented as part of a wider transformation of perception, culture, science, and form.
 
-The connection to *[[Concerning the Spiritual in Art]]*, *[[De Stijl Manifesto I]]*, and *[[Towards a Plastic Architecture]]* is important. Abstract art is not a side branch; it becomes part of the story by which modern architecture understands itself.
+The connection to abstraction is important. Kandinsky, De Stijl, and plastic architecture are not side branches; abstract art becomes part of the story by which modern architecture understands itself.
 
 ## CIAM and Planning
 
 Giedion was also closely tied to CIAM, so the book belongs near [[High-Modernist Planning]]. Its importance is not only formal architecture, but the broader conviction that modern building and modern planning answer the same historical transformation.
 
-That gives the book a role beside *[[The Athens Charter]]*. The functional city becomes more plausible when it is placed inside a story of modern space, movement, technology, and collective life.
+That gives the book a role beside [[Functional City]]. Functional planning becomes more plausible when it is placed inside a story of modern space, movement, technology, and collective life.
 
 ## North American Legitimization
 
-Because the book came through Harvard and English-language architectural culture, it helped make European modernism intellectually respectable in North America. Where *[[The International Style]]* provides a museum-professional classification, *Space, Time and Architecture* provides a grand historical and theoretical justification.
+Because the book came through Harvard and English-language architectural culture, it helped make European modernism intellectually respectable in North America. Where the International Style frame provides a museum-professional classification, *Space, Time and Architecture* provides a grand historical and theoretical justification.
 
 This makes it a key institutional transfer node. Modernism travels not only through buildings, but through books, lectures, schools, exhibitions, and historical narratives.
 

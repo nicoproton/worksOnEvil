@@ -32,11 +32,11 @@ The work complicates the graph's modernist branch. Not all modernist rupture is 
 
 This gives the book a relation to [[Enchantment vs Magic]] in argument. Kandinsky wants art to disclose invisible life, but the abstraction can also risk becoming a private symbolic system if it loses common measure.
 
-Baudelaire's *[[The Painter of Modern Life]]* is an important precursor by contrast. Baudelaire finds spiritual resonance in modern surfaces, fashion, and the fugitive city; Kandinsky moves further inward, seeking spiritual necessity beyond external appearance.
+Baudelaire's modern-life aesthetics are an important precursor by contrast. Baudelaire finds spiritual resonance in modern surfaces, fashion, and the fugitive city; Kandinsky moves further inward, seeking spiritual necessity beyond external appearance.
 
-The early *[[Bauhaus Manifesto and Program]]* is a useful institutional neighbor. It shows spiritual modernism entering a school and workshop culture where color, form, material, craft, and architecture are meant to help remake the visible world.
+The early Bauhaus is a useful institutional neighbor through [[Art Into Life]]. It shows spiritual modernism entering a school and workshop culture where color, form, material, craft, and architecture are meant to help remake the visible world.
 
-*[[De Stijl Manifesto I]]* is a neighboring but more impersonal route from spiritual abstraction to environment. Kandinsky emphasizes inner necessity and expressive form; De Stijl seeks universal plastic order that can pass from painting into architecture through *[[Towards a Plastic Architecture]]*.
+De Stijl is a neighboring but more impersonal route from spiritual abstraction to environment. Kandinsky emphasizes inner necessity and expressive form; De Stijl seeks universal plastic order that can pass from painting into architecture through [[Place Replaced by Designed Environment]].
 
 ## Why It Belongs Here
 

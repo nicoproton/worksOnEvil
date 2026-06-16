@@ -19,19 +19,19 @@ It belongs in the graph because it turns the dramatic proposal of [[Plan Voisin]
 
 It should also be read under [[Life Redesigned by Ideology]]. The radiant city is not only an architectural composition; it is a social doctrine in spatial form, drawing on machine-age production, hygiene, planning, and the belief that modern life can be redesigned through expert order.
 
-Later built projects should usually be linked through [[The Athens Charter]] or through their own planning sources rather than treated as simple copies. [[Brasilia]] is a strong descendant of this planning family, but its immediate form comes through Lucio Costa's Pilot Plan and Oscar Niemeyer's architecture as much as through Le Corbusier's doctrine.
+Later built projects should usually be linked through [[Functional City]] or through their own planning sources rather than treated as simple copies. Brasilia is a strong descendant of this planning family, but its immediate form comes through Lucio Costa's Pilot Plan and Oscar Niemeyer's architecture as much as through Le Corbusier's doctrine.
 
-[[Unite d'Habitation, Marseille]] is the stronger built hinge for Le Corbusier's postwar collective housing line. It is not a full radiant city, but it carries the doctrine into one massive residential organism: vertical dwelling, services, sun, air, collective facilities, Modulor measure, and raw concrete.
+Unite d'Habitation, Marseille is the stronger built hinge for Le Corbusier's postwar collective housing line. It is not a full radiant city, but it carries the doctrine into one massive residential organism: vertical dwelling, services, sun, air, collective facilities, Modulor measure, and raw concrete.
 
 ## From Paris Shock-Image to Urban Doctrine
 
-*[[The City of Tomorrow and Its Planning]]* and [[Plan Voisin]] already present the city as an object that can be redrawn from above. *The Radiant City* broadens that gesture into a portable urban program. The problem is no longer merely how to modernize central Paris, but how modern life itself should be spatially arranged.
+*The City of Tomorrow and Its Planning* and [[Plan Voisin]] already present the city as an object that can be redrawn from above. *The Radiant City* broadens that gesture into a portable urban program. The problem is no longer merely how to modernize central Paris, but how modern life itself should be spatially arranged.
 
 This makes the work a major case of [[High-Modernist Planning]]. It does not simply suggest better housing. It imagines a whole order of dwelling, movement, leisure, services, density, and greenery made legible through the plan.
 
 The shift is important. Plan Voisin is scandalous because it touches a real inherited city. *The Radiant City* is dangerous in another way: it turns the scandal into a doctrine that can travel.
 
-*[[The Athens Charter]]* is one major vehicle of that travel. It codifies the functional city in a form that planners and governments could take up beyond Le Corbusier's own project-images.
+[[Functional City]] is the concept that gathers that travel. The Athens Charter is one major vehicle: it codifies the functional city in a form that planners and governments could take up beyond Le Corbusier's own project-images.
 
 ## The Functional City and the End of the Street
 
@@ -69,7 +69,7 @@ In this sense *The Radiant City* is less a single architectural style than a soc
 
 The strongest counterpoint remains [[Embodied Relation]]. A city is not only a problem of traffic, light, air, density, and services. It is also an inheritance of attachments that cannot be fully seen from above: neighbors, thresholds, routes, habits, parish and market life, memory, small enterprise, and the slow knowledge of place.
 
-This is why *The Radiant City* belongs in argument with *[[The Nature of Gothic]]*. Ruskin's account of architecture values imperfection, craft, freedom, and spiritual labor. Le Corbusier's radiant order values clarity, standardization, function, and the power of the plan.
+This is why *The Radiant City* belongs in argument with [[Architecture as Public Language]]. Ruskin's account of architecture values imperfection, craft, freedom, and spiritual labor. Le Corbusier's radiant order values clarity, standardization, function, and the power of the plan.
 
 The conflict is not simply medieval versus modern. It is a conflict over what kind of order can be trusted to form human beings.
 

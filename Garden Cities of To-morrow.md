@@ -57,7 +57,7 @@ Howard's proposal is more humane than many later planning systems. It is anti-sl
 
 Even so, it still participates in the modern planning wager. The settlement is conceived as a device for social reform. If the right land system, size, green belt, transport, civic center, industrial ring, and town-country balance are established, a better society is expected to emerge.
 
-This is why the book belongs beside *[[Urban Utopias in the Twentieth Century]]*. Fishman's broader comparison helps keep Howard distinct from Wright and Le Corbusier, while Howard's own text shows how spatial redemption can appear in a cooperative and decentralist key.
+This is why the book belongs near [[Administered Human Formation]] only with care. The broader ideal-city comparison helps keep Howard distinct from Wright and Le Corbusier, while Howard's own text shows how spatial redemption can appear in a cooperative and decentralist key.
 
 ## What Actually Traveled
 
@@ -65,7 +65,7 @@ For the graph's current question, Howard's influence should be split into strong
 
 The stronger inheritances are the Garden City movement, Letchworth, Welwyn, British new-town thinking, green belts, planned decentralization, satellite towns, and the idea that city growth should be shaped by a regional settlement pattern.
 
-Stein's *[[Toward New Towns for America]]* is one important American transmission point. It carries the Garden City/RPAA line into planned neighborhoods, superblocks, traffic separation, green interiors, and New Deal greenbelt-town experiments.
+The American new-town branch is one important transmission point. It carries the Garden City/RPAA line into planned neighborhoods, superblocks, traffic separation, green interiors, and New Deal greenbelt-town experiments.
 
 The weaker or diluted inheritances are garden suburbs, low-density residential imagery, landscaped subdivisions, and the general claim that leaving the old city for green domestic surroundings will restore life. These can descend from Howard's vocabulary while losing the land reform, productive economy, civic ownership, and limited-growth structure.
 

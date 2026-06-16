@@ -23,7 +23,7 @@ The book's key object is the international hotel as "little America": a modern, 
 
 Wharton examines how Hilton hotels became effective representations of the United States abroad. They were not embassies, but they operated beside diplomatic power: sites of business, tourism, comfort, spectacle, and American modernity.
 
-This makes the book a strong companion to *[[The Architecture of Diplomacy]]*. Loeffler studies embassies as official state architecture. Wharton studies hotels as corporate architecture that could still carry national meaning.
+This makes the book a strong case of [[Modernism as Cultural Diplomacy]]. Embassy programs show official state architecture; Wharton studies hotels as corporate architecture that could still carry national meaning.
 
 That difference matters. The Hilton is not a government building, yet it can represent a way of life: service, consumption, height, air-conditioning, international travel, private comfort, and modern luxury. The free world appears not as a doctrine, but as an environment one can enter, purchase, and inhabit.
 
@@ -37,7 +37,7 @@ The result is not the same as [[High-Modernist Planning]]. The Hilton does not r
 
 ## Comfort as Ideology
 
-Wharton makes the hotel branch connect strongly to *[[Cold War on the Home Front]]*. Castillo shows the model home and appliance as soft-power objects. Wharton shows the hotel as an exported environment of comfort.
+Wharton makes the hotel branch connect strongly to [[Apolitical Culture as Soft Power]]. The same politics of comfort appears in model homes, appliances, and hotel interiors: ordinary ease becomes political evidence.
 
 The overlap is not accidental. In both cases, political meaning works through ordinary goods: food, temperature, service, privacy, convenience, communication, furniture, surfaces, and ease. Comfort becomes an argument.
 
@@ -45,7 +45,7 @@ This places the book under [[Modernism as Cultural Diplomacy]] and near [[Apolit
 
 ## Corporate Modernity Without Full Corporate Sovereignty
 
-The book also belongs near *[[The Organizational Complex]]*. Both works show corporate architecture as a postwar system of image, management, modernity, and environmental control.
+The book also belongs near [[Place Replaced by Designed Environment]]. Corporate architecture becomes a postwar system of image, management, modernity, and environmental control.
 
 The Hilton, however, should not be treated as a direct case of [[Corporate Sovereignty]]. It is not a cyberpunk corporation replacing the state. It is more subtle: a corporation becomes a semi-diplomatic actor because its buildings embody a national order abroad.
 

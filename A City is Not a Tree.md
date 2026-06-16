@@ -14,7 +14,7 @@ tags:
 
 ***A City is Not a Tree*** is Christopher Alexander's 1965 essay arguing that living cities have overlapping structures more like a semi-lattice, while many planned modern cities are organized like trees: clean hierarchies in which each part belongs to one branch and overlaps are suppressed.
 
-It belongs in the graph because it gives a structural account of the same problem Jane Jacobs sees at street level. *[[The Death and Life of Great American Cities]]* observes sidewalk life, mixed uses, and local complexity. Alexander gives the formal warning: the city dies when planners simplify overlapping life into separable units.
+It belongs in the graph because it gives a structural account of the same problem Jane Jacobs sees at street level. Jacobs observes sidewalk life, mixed uses, and local complexity. Alexander gives the formal warning: the city dies when planners simplify overlapping life into separable units.
 
 The essay's special value is narrow and powerful: it names the structural error by which artificial cities lose the overlapping relations found in living cities.
 
@@ -36,11 +36,11 @@ This is why the essay is so important for the graph. It gives a formal way to sa
 
 ## Against Functional Separation
 
-Alexander's argument cuts into the same planning logic that appears in *[[The Athens Charter]]*. Functional planning wants dwelling, work, recreation, and circulation separated so each can be ordered clearly.
+Alexander's argument cuts into the same planning logic gathered under [[Functional City]]. Functional planning wants dwelling, work, recreation, and circulation separated so each can be ordered clearly.
 
 Alexander shows the cost of that separation. When every function receives its own branch, the city loses the overlapping fields where ordinary life actually happens.
 
-This also sharpens the critique of *[[The Radiant City]]* and [[Brasilia]]. Alexander explicitly treats Brasilia as a tree-like artificial city: visually and administratively coherent, but impoverished in overlap at the lived level.
+This also sharpens the critique of high-modernist planned capitals and tower-city models. Alexander explicitly treats Brasilia as a tree-like artificial city: visually and administratively coherent, but impoverished in overlap at the lived level.
 
 ## Jacobs in Structural Language
 
@@ -50,7 +50,7 @@ This relation should be kept as a strong thematic link rather than a claim that 
 
 Together they form the main counter-current to the Le Corbusier-CIAM branch.
 
-*[[A Pattern Language]]* is the constructive continuation of Alexander's critique. If this essay explains why tree-like planning damages living cities, the later book tries to describe patterns by which overlapping living order can be generated.
+*A Pattern Language* is the constructive continuation of Alexander's critique. If this essay explains why tree-like planning damages living cities, the later book tries to describe patterns by which overlapping living order can be generated.
 
 ## The Danger of Design Intelligence
 
@@ -60,7 +60,7 @@ This connects the essay to [[Abstraction Without Prudence]]. The abstract model 
 
 The danger is subtle: the planner may destroy overlap not out of malice, but because overlap is hard to draw, govern, budget, zone, and defend in a clean plan.
 
-*[[Seeing Like a State]]* gives the broader statecraft version of the same danger. The tree-like city is one case of a larger administrative habit: making a living order readable by simplifying the overlaps that made it alive.
+The broader statecraft version of the same danger belongs under [[High-Modernist Planning]] and [[Abstraction Without Prudence]]. The tree-like city is one case of a larger administrative habit: making a living order readable by simplifying the overlaps that made it alive.
 
 ## Limits and Cautions
 

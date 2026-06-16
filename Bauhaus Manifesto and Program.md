@@ -24,7 +24,7 @@ The Bauhaus changed over time. The early Weimar Bauhaus still carried Expression
 
 The Feininger cathedral image is not decorative trivia. It shows the early Bauhaus imagining the arts as converging toward a shared building, almost like a secular-sacred center for modern communal making.
 
-This connects the manifesto to *[[The Artwork of the Future]]*. Like Wagner, Gropius imagines the separated arts recovering unity in a larger communal work. But the Bauhaus version is architectural and pedagogical rather than operatic and mythic.
+This connects the manifesto to the total-artwork current inside [[Art Into Life]]. Like Wagner, Gropius imagines the separated arts recovering unity in a larger communal work. But the Bauhaus version is architectural and pedagogical rather than operatic and mythic.
 
 The connection should stay careful. The manifesto is not trying to build a religion in the same way as [[Religion of Humanity]], and it is not theocratic. But it does show modern art trying to recover a sacred or communal center after inherited artistic order has fractured.
 
@@ -32,7 +32,7 @@ The connection should stay careful. The manifesto is not trying to build a relig
 
 The manifesto attacks the separation between artist and artisan. The school is to be organized around workshops, materials, practice, and craft training rather than only academic style or isolated fine-art genius.
 
-This gives the text a real connection to *[[The Nature of Gothic]]*. Ruskin values craft because the worker's hand, freedom, and moral presence remain visible in the work. Gropius also turns toward craft, but in a modern institutional form: the school becomes the place where art and making are to be reunited.
+This gives the text a real connection to [[Architecture as Public Language]]. Ruskin values craft because the worker's hand, freedom, and moral presence remain visible in the work. Gropius also turns toward craft, but in a modern institutional form: the school becomes the place where art and making are to be reunited.
 
 The difference is crucial. Ruskin defends inherited craft against mechanical degradation. Gropius uses craft as a bridge toward a new design culture that can eventually cooperate with modern production.
 
@@ -52,27 +52,27 @@ The early manifesto's craft language can mislead if isolated from the Bauhaus's 
 
 This places the Bauhaus near [[Machine for Living]], but by a different route from Le Corbusier. Le Corbusier begins with machine-age admiration and makes dwelling architectural. The Bauhaus begins with a workshop-school and gradually turns modern life itself into a design problem: chair, lamp, room, poster, facade, apartment, and school all become parts of a designed environment.
 
-The *[[Bauhaus Building in Dessau]]* is the key built case for this shift. The school itself becomes a functional composition of workshop, administration, studio dwelling, stage, cafeteria, light, glass, and circulation.
+The Bauhaus Building in Dessau is the key built case for this shift. The school itself becomes a functional composition of workshop, administration, studio dwelling, stage, cafeteria, light, glass, and circulation.
 
-Hannes Meyer's *[[The New World (Hannes Meyer)]]* makes the later social-functional turn more explicit. The Bauhaus path from craft to modern production becomes a worldview of science, media, standardized form, housing need, and collective design.
+Hannes Meyer's *The New World* makes the later social-functional turn more explicit. The Bauhaus path from craft to modern production becomes a worldview of science, media, standardized form, housing need, and collective design.
 
-The *[[ADGB Trade Union School]]* gives that turn its strongest built school case: the Bauhaus workshops, architecture, and social-functional program are directed toward labor education and collective life.
+The ADGB Trade Union School gives that turn its strongest built school case: the Bauhaus workshops, architecture, and social-functional program are directed toward labor education and collective life.
 
-The *[[Houses with Balcony Access]]* give the domestic case: the Bauhaus architecture department turns housing for workers into a problem of economy, sunlight, access, shared services, and collective design.
+The Houses with Balcony Access give the domestic case: the Bauhaus architecture department turns housing for workers into a problem of economy, sunlight, access, shared services, and collective design.
 
-[[Soviet Constructivism]] and Ginzburg's *[[Style and Epoch]]* should be kept as neighboring but distinct branches. The Bauhaus path moves through school, workshop, design pedagogy, and industry; the Soviet Constructivist path ties construction more directly to revolutionary social transformation.
+[[Soviet Constructivism]] should be kept as a neighboring but distinct branch. The Bauhaus path moves through school, workshop, design pedagogy, and industry; the Soviet Constructivist path ties construction more directly to revolutionary social transformation.
 
-De Stijl gives another neighboring art-to-architecture route. *[[De Stijl Manifesto I]]* and *[[Towards a Plastic Architecture]]* help explain how abstract art could become a program for space, color, interior, and building.
+De Stijl gives another neighboring art-to-architecture route. Its manifestos help explain how abstract art could become a program for space, color, interior, and building.
 
-Moholy-Nagy's *[[The New Vision]]* gives the Bauhaus pedagogical and perceptual route. The modern designer must be trained through materials, light, photography, motion, typography, and construction before remaking the environment.
+Moholy-Nagy's *The New Vision* gives the Bauhaus pedagogical and perceptual route. The modern designer must be trained through materials, light, photography, motion, typography, and construction before remaking the environment.
 
-Banham's *[[Theory and Design in the First Machine Age]]* is useful for placing the Bauhaus inside the wider machine-age genealogy rather than treating it as the source of all later modernism. His *[[The New Brutalism - Ethic or Aesthetic]]* also helps clarify why Brutalism should not be treated as a simple Bauhaus descendant. Brutalism shares the anti-ornament and material-directness inheritance, but its more immediate route runs through late Le Corbusier, postwar reconstruction, raw concrete, and the Smithsons' New Brutalism.
+Banham's machine-age genealogy is useful for placing the Bauhaus inside [[Machine-Age Standardization]] rather than treating it as the source of all later modernism. His Brutalism book also helps clarify why Brutalism should not be treated as a simple Bauhaus descendant. Brutalism shares the anti-ornament and material-directness inheritance, but its more immediate route runs through late Le Corbusier, postwar reconstruction, raw concrete, and the Smithsons' New Brutalism.
 
-Curl's *[[Making Dystopia]]* and Wolfe's *[[From Bauhaus to Our House]]* are hostile later readings of this genealogy. Curl asks how the Bauhaus and related modernist myths became institutional authority. Wolfe asks how the Bauhaus name and its associated austerity became prestige language in American professional culture. Both are useful as reception critiques, but neither should erase the early Bauhaus's spiritual, craft, and pedagogical complexity.
+Curl and Wolfe give hostile later readings of this genealogy. Curl asks how the Bauhaus and related modernist myths became institutional authority. Wolfe asks how the Bauhaus name and its associated austerity became prestige language in American professional culture. Both are useful as reception critiques, but neither should erase the early Bauhaus's spiritual, craft, and pedagogical complexity.
 
-Margret Kentgens-Craig's *[[The Bauhaus and America]]* is the more patient reception-history companion. It shows that American Bauhaus fame was made through early contacts, publications, exhibitions, information flow, cultural demand, and presentation, not only through the inherent force of the school's ideas.
+Margret Kentgens-Craig's reception history is the more patient companion. It shows that American Bauhaus fame was made through early contacts, publications, exhibitions, information flow, cultural demand, and presentation, not only through the inherent force of the school's ideas.
 
-*[[Bauhaus Culture]]* is the broader historical-corrective companion. It keeps the school from becoming a simple symbol of clean design, progressive politics, or technological modernity by placing Bauhaus work in Weimar culture, consumer culture, political conflict, exile, and Cold War memory.
+*Bauhaus Culture* is the broader historical-corrective companion. It keeps the school from becoming a simple symbol of clean design, progressive politics, or technological modernity by placing Bauhaus work in Weimar culture, consumer culture, political conflict, exile, and Cold War memory.
 
 The danger is not that good design is evil. The danger is that the whole field of ordinary life can become available for expert redesign, as if form, habit, dwelling, work, and perception were all to be remade by a disciplined modern design class. This is where the manifesto must be held in tension with [[Architecture as Public Language]]: design formation becomes dangerous when it stops answering to the shared world of inhabitants.
 

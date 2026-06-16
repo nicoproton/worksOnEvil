@@ -29,11 +29,11 @@ This makes the text a clear case of [[Art Into Life]]. It shows how avant-garde 
 
 Van Doesburg's new architecture rejects applied ornament and historical costume. Color and form are not decorations placed on a building; they are supposed to participate in the building's spatial order.
 
-This places the work near *[[Ornament and Crime]]*, but by a different route. Loos attacks ornament morally and economically. Van Doesburg dissolves ornament into total composition. Both help weaken inherited architectural language, though De Stijl does so through a more spiritual and abstract vocabulary.
+This places the work near [[Moralized Architectural Determinism]], but by a different route. Loos attacks ornament morally and economically. Van Doesburg dissolves ornament into total composition. Both help weaken inherited architectural language, though De Stijl does so through a more spiritual and abstract vocabulary.
 
 ## Bauhaus Neighbor
 
-The text belongs beside *[[Bauhaus Manifesto and Program]]* and *[[The New Vision]]*. De Stijl's influence on Bauhaus circles matters because it helps push modern design away from expressionist craft mysticism and toward abstract, elemental, constructible form.
+The text belongs beside [[Art Into Life]] and [[Place Replaced by Designed Environment]]. De Stijl's influence on Bauhaus circles matters because it helps push modern design away from expressionist craft mysticism and toward abstract, elemental, constructible form.
 
 This does not make De Stijl identical to Bauhaus. De Stijl is more strictly neoplastic and universalist. Bauhaus is more pedagogical, workshop-based, and later industrial. Their overlap is the belief that a new visual grammar can train modern life.
 

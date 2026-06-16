@@ -49,7 +49,7 @@ The Backrooms myth uses the video-game language of "no-clipping": slipping throu
 
 The stronger point is architectural and ontological. The wall, floor, basement doorway, or threshold stops being a stable boundary between rooms and becomes an accidental wound in the world. Normal space is revealed as less secure than it looked.
 
-That also keeps *Backrooms* distinct from [[Total Technical Environment]]. The space may feel industrial, artificial, and technically produced, but the horror is not a functioning machine system in the manner of *[[The Machine Stops]]* or *[[BLAME!]]*. It is the remains of designed environment after design no longer serves dwelling.
+That also keeps *Backrooms* distinct from [[Total Technical Environment]]. The space may feel industrial, artificial, and technically produced, but the horror is not a functioning machine system in the manner of *The Machine Stops* or *BLAME!*. It is the remains of designed environment after design no longer serves dwelling.
 
 ## Internet Myth and Found Footage
 
@@ -57,7 +57,7 @@ The Backrooms began as an image and a copied story before becoming Parsons's ana
 
 The photograph, forum text, creepypasta expansion, YouTube found footage, VHS texture, and online lore all make the Backrooms feel discovered rather than authored. The myth works because it appears as documentation of a hidden environment that might already exist beneath familiar modern interiors.
 
-This gives *Backrooms* a different relation to media than *[[Videodrome]]* or *[[Serial Experiments Lain]]*. The media are not the ultimate god or networked cosmos. They are the way an architectural nightmare becomes collectively believable.
+This gives *Backrooms* a different relation to media than *Videodrome* or *Serial Experiments Lain*. The media are not the ultimate god or networked cosmos. They are the way an architectural nightmare becomes collectively believable.
 
 ## Not the Alienating City, But Its Interior Residue
 
@@ -65,8 +65,14 @@ This gives *Backrooms* a different relation to media than *[[Videodrome]]* or *[
 
 That makes it a more distilled horror than many urban works. The city is gone, but its low-grade interiors remain: offices, commercial rooms, service corridors, waiting areas, storage spaces, and transitional zones. The social world has disappeared, leaving only the atmosphere of a world built for circulation, work, management, and consumption.
 
-Reinhold Martin's *[[The Organizational Complex]]* gives a non-fiction neighbor for this atmosphere. It is not a source for *Backrooms*, but it helps explain why postwar corporate offices, modular interiors, service spaces, media images, and organizational environments can feel spiritually charged before horror turns them into an endless place without place.
+Reinhold Martin's *The Organizational Complex* gives a non-fiction neighbor for this atmosphere. It is not a source for *Backrooms*, but it helps explain why postwar corporate offices, modular interiors, service spaces, media images, and organizational environments can feel spiritually charged before horror turns them into an endless place without place.
+
+## Lynchian Neighbor, But Not the Same Pattern
+
+David Lynch's work is a useful neighbor through [[Threshold Room]]. *Twin Peaks*, *Mulholland Drive*, *Lost Highway*, and *Inland Empire* all use rooms, theaters, corridors, stages, or homes as passages into dream, guilt, image, or spiritual pressure.
+
+The distinction matters. Lynch's rooms are usually overcharged with symbol, performance, desire, and hidden presence. The Backrooms are frightening because the designed interior has become too empty, too repeatable, and too deprived of ordinary human meaning.
 
 ## Why It Belongs Here
 
-*Backrooms* belongs because it gives the graph a contemporary horror image for the architecture branch. It shows the designed environment after public language, memory, use, and dwelling have failed. Modern interior space becomes uncanny not because it is strange, but because it is too familiar and too empty: a human-made environment from which the human meaning has been evacuated.
+*Backrooms* belongs because it gives the graph a contemporary horror image for the architecture branch. It shows the designed environment after public language, memory, use, and dwelling have failed. Modern interior space becomes [[Architectural Uncanny]] not because it is strange, but because it is too familiar and too empty: a human-made environment from which the human meaning has been evacuated.

@@ -47,6 +47,8 @@ Arvatov's *[[Art and Production]]* and Tarabukin's *[[From the Easel to the Mach
 
 Sorel's *[[Reflections on Violence]]* gives the mythic-political version: modern politics is not only rational program, but mobilizing myth, action, and rupture.
 
+Coudenhove-Kalergi's *[[Practical Idealism]]* gives an interwar supranational version: technology, elite formation, education, press, pacifism, and European federation are treated as parts of one practical ideal for remaking postwar civilization.
+
 ## Why It Belongs Here
 
 Life Redesigned by Ideology belongs because it gives the graph a deeper layer beneath modernist architecture. It explains why so many different domains began to converge: art, theater, industry, housing, planning, education, media, and politics were all drawn into the belief that the new age required a newly designed human environment.

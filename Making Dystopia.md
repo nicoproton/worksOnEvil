@@ -21,7 +21,7 @@ Curl's answer is severe: modern architecture did not merely make technical mista
 
 The subtitle's key word is "survival." Curl is not only asking how modernist architecture rose. He is asking how it continued to command prestige after many of its built results became unpopular, decayed badly, or failed to create the humane communities they promised.
 
-This makes the book a sharper cousin of *[[Morality and Architecture]]*. Watkin analyzes the moralized historical arguments by which architectural styles are declared truthful or necessary. Curl presses the institutional question: once such arguments enter schools, professional bodies, criticism, patronage, planning offices, and public building programs, they can continue even when ordinary experience speaks against them.
+This makes the book a sharper cousin of Watkin's critique. Watkin analyzes the moralized historical arguments by which architectural styles are declared truthful or necessary. Curl presses the institutional question: once such arguments enter schools, professional bodies, criticism, patronage, planning offices, and public building programs, they can continue even when ordinary experience speaks against them.
 
 That is why the book belongs near [[Moralized Architectural Determinism]]. The problem is not only bad design. It is the formation of a professional worldview in which the theory has already decided what history, morality, and progress require.
 
@@ -37,7 +37,7 @@ The deeper issue is therefore not nostalgia. It is public intelligibility. If a 
 
 Curl is especially useful against the claim that modern architecture was inevitable. The standard story says that machine production, new materials, mass housing, hygiene, speed, democracy, and the modern age demanded a radical architectural break.
 
-This is where the book joins *[[Architecture - Choice or Fate]]*. Krier argues that modernist urbanism is not fate but choice. Curl argues that the story of inevitability became a cultural alibi: if modernism is simply the architecture demanded by history, then criticism can be dismissed as reactionary resistance to reality.
+This is where the book joins the traditional-urbanist critique gathered under [[Architecture as Public Language]]. Krier argues that modernist urbanism is not fate but choice. Curl argues that the story of inevitability became a cultural alibi: if modernism is simply the architecture demanded by history, then criticism can be dismissed as reactionary resistance to reality.
 
 The same issue appears in [[Machine for Living]]. The house-machine, functional city, standardized object, and planned housing block can be presented as the only honest answer to modern life. Curl's critique asks whether that answer was imposed by history or selected by theorists, patrons, schools, and institutions already committed to rupture.
 
@@ -45,13 +45,13 @@ The same issue appears in [[Machine for Living]]. The house-machine, functional 
 
 Curl's polemic repeatedly returns to figures and institutions such as the Bauhaus, Le Corbusier, the International Style, and postwar architectural education. For the graph, the point is not to reduce all modern architecture to one source. The point is to ask how certain stories became canonical: the heroic school, the prophetic architect, the honest machine aesthetic, the clean break with the past, the new architecture for a new society.
 
-This makes the book useful beside *[[Bauhaus Manifesto and Program]]*, *[[Toward an Architecture]]*, and *[[The Radiant City]]*. Those notes show that modernism contains several different impulses: spiritual art, craft reform, machine admiration, social housing, planning, pedagogy, and industrial design. Curl's contribution is to ask how those impulses were later hardened into a professional mythology that treated traditional architecture as dead and modernist rupture as moral progress.
+This makes the book useful as a critique of [[Moralized Architectural Determinism]], [[Machine-Age Standardization]], and [[Functional City]]. Modernism contains several different impulses: spiritual art, craft reform, machine admiration, social housing, planning, pedagogy, and industrial design. Curl's contribution is to ask how those impulses were later hardened into a professional mythology that treated traditional architecture as dead and modernist rupture as moral progress.
 
 The deeper source layer is [[Life Redesigned by Ideology]]. Curl is strongest when read against that broader background: modern architecture inherits not only art movements, but industrialism, scientific management, production ideology, secular progress, and revolutionary myth.
 
-*[[The International Style]]* and *[[Space, Time and Architecture]]* are important middle nodes in that hardening. The first translates European modernism into a portable museum-professional style; the second gives modern architecture a grand historical narrative of necessity.
+The International Style and Giedion's historical narrative are important middle nodes in that hardening. The first translates European modernism into a portable museum-professional style; the second gives modern architecture a grand historical narrative of necessity.
 
-That makes Curl more hostile than Banham's *[[Theory and Design in the First Machine Age]]*. Banham maps machine-age modernism from within its own excitement. Curl writes from after the damage, asking why the excitement became so protected from correction.
+That makes Curl more hostile than Banham's machine-age history. Banham maps machine-age modernism from within its own excitement. Curl writes from after the damage, asking why the excitement became so protected from correction.
 
 ## Utopia, Welfare, and Public Building
 
@@ -63,7 +63,7 @@ The answer is not simply that public building is bad. The answer is that the pub
 
 ## Brutalism and the Aesthetic of Force
 
-Curl is also useful beside *[[The New Brutalism - Ethic or Aesthetic]]*. Banham's question asks whether Brutalism remained an ethic of truth or became an aesthetic of roughness. Curl's critique pushes the darker possibility: the ethic of truth can become a public aesthetic of force when rawness, mass, exposed structure, and anti-ornament are treated as moral seriousness in themselves.
+Curl is also useful beside the Brutalism branch. Banham's question asks whether Brutalism remained an ethic of truth or became an aesthetic of roughness. Curl's critique pushes the darker possibility: the ethic of truth can become a public aesthetic of force when rawness, mass, exposed structure, and anti-ornament are treated as moral seriousness in themselves.
 
 This does not mean every Brutalist building belongs under the same judgment. Some are carefully composed, socially ambitious, or materially powerful. But Curl helps clarify why Brutalism is so central to this branch's question. It often embodies the contradiction between promised common good and lived alienation: social housing, public education, civic care, or cultural democracy expressed in forms that many inhabitants experience as mute, heavy, and imposed.
 
@@ -71,9 +71,9 @@ This does not mean every Brutalist building belongs under the same judgment. Som
 
 Curl should be read with the other critique nodes rather than alone.
 
-Watkin's *[[Morality and Architecture]]* explains the moralized historical argument. Krier's *[[Architecture - Choice or Fate]]* gives the traditional urban counterclaim. Scruton's *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]]* defend architecture as public language and judgment. Perez-Gomez's *[[Architecture and the Crisis of Modern Science]]* gives the deeper genealogy of technical reduction.
+Watkin explains the moralized historical argument. Krier gives the traditional urban counterclaim. Scruton defends architecture as public language and judgment. Perez-Gomez gives the deeper genealogy of technical reduction.
 
-Tom Wolfe's *[[From Bauhaus to Our House]]* gives the American satirical neighbor. Wolfe asks how imported European modernism became the prestige language of American architectural insiders, museums, schools, corporations, and civic institutions. Curl adds the prosecutorial version: he gathers the genealogy, the institutions, the myths, and the built failures into a single indictment. That is his strength, and also his danger.
+Tom Wolfe gives the American satirical neighbor. Wolfe asks how imported European modernism became the prestige language of American architectural insiders, museums, schools, corporations, and civic institutions. Curl adds the prosecutorial version: he gathers the genealogy, the institutions, the myths, and the built failures into a single indictment. That is his strength, and also his danger.
 
 ## Limits and Cautions
 

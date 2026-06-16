@@ -18,15 +18,15 @@ Jacobs is not defending disorder for its own sake. She is defending a living ord
 
 The book is also tied to Jacobs's activism against urban renewal, but the note should keep the book's argument distinct from the later uses of Jacobsian urbanism by planners, preservationists, developers, and activists.
 
-Peter Hall's *[[Cities of Tomorrow (Peter Hall)]]* gives the wider planning-history background to Jacobs's critique. Jacobs is not only arguing against bad taste in modern design; she is arguing against several planning traditions that learned to see living urban complexity as a problem to be solved from above.
+Peter Hall's planning history gives the wider background to Jacobs's critique. Jacobs is not only arguing against bad taste in modern design; she is arguing against several planning traditions that learned to see living urban complexity as a problem to be solved from above.
 
 ## Against Orthodox Planning
 
 Jacobs attacks the planning orthodoxies that treat cities as if they can be saved by separation, clearance, superblocks, towers, isolated open space, and abstract visual order. Her main enemy is not planning as such, but planning that begins with diagrams instead of city life.
 
-This makes the book the major counter-work to *[[The Radiant City]]* and *[[The Athens Charter]]*. Where the functional city separates dwelling, work, recreation, and circulation, Jacobs looks for the conditions under which mixed uses actually produce safety, contact, variety, and public trust.
+This makes the book the major counter-work to [[Functional City]]. Where functional planning separates dwelling, work, recreation, and circulation, Jacobs looks for the conditions under which mixed uses actually produce safety, contact, variety, and public trust.
 
-Her critique also answers [[Plan Voisin]] by implication. The inherited street fabric that Le Corbusier sees as congestion can also be the place where city life has learned how to maintain itself.
+Her critique also answers Le Corbusier's clearance imagination by implication. The inherited street fabric that he sees as congestion can also be the place where city life has learned how to maintain itself.
 
 ## The Sidewalk as Social Organ
 
@@ -60,11 +60,11 @@ This is the strongest answer to [[Machine for Living]]. A house, school, or apar
 
 For the graph, this is a major epistemological correction. The planner must learn to observe before commanding. The city is not legible enough from above.
 
-Christopher Alexander's *[[A City is Not a Tree]]* gives a structural neighbor to Jacobs's observation. Jacobs describes the lived complexity of sidewalks and mixed uses; Alexander explains why planned tree-like hierarchies destroy the overlaps that living cities need.
+Christopher Alexander gives a structural neighbor to Jacobs's observation. Jacobs describes the lived complexity of sidewalks and mixed uses; Alexander explains why planned tree-like hierarchies destroy the overlaps that living cities need.
 
-Alexander's *[[A Pattern Language]]* gives a more constructive neighbor: it tries to turn this respect for local, overlapping order into patterns that communities and builders can actually use.
+Alexander's pattern work gives a more constructive neighbor: it tries to turn this respect for local, overlapping order into patterns that communities and builders can actually use.
 
-James C. Scott's *[[Seeing Like a State]]* gives the political-theoretical neighbor. Jacobs shows what the planner misses at sidewalk level; Scott explains why states and large institutions are tempted to simplify that lived order into legible units before acting on it.
+James C. Scott gives the political-theoretical neighbor. Jacobs shows what the planner misses at sidewalk level; Scott explains why states and large institutions are tempted to simplify that lived order into legible units before acting on it.
 
 ## Limits and Cautions
 

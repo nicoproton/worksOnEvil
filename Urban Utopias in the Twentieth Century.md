@@ -15,7 +15,7 @@ tags:
 
 ***Urban Utopias in the Twentieth Century: Ebenezer Howard, Frank Lloyd Wright, Le Corbusier*** is Robert Fishman's study of three modern ideal-city projects: Howard's Garden City, Wright's Broadacre City, and Le Corbusier's Ville Radieuse. Its value for this graph is that it treats modern planning as a set of salvific urban visions, not only as policies, engineering, or professional technique.
 
-The book belongs after *[[Cities of Tomorrow (Peter Hall)]]* because it slows down on three decisive lineages inside Hall's broader genealogy. Hall maps the forest. Fishman lets us inspect three of the trees closely enough to see the metaphysical pressure inside them: the hatred of the existing metropolis, the promise of a redeemed environment, and the attempt to produce a new social order through urban form.
+The book belongs inside the broader genealogy of [[High-Modernist Planning]] because it slows down on three decisive ideal-city lineages. A broad planning history maps the forest. Fishman lets us inspect three of the trees closely enough to see the metaphysical pressure inside them: the hatred of the existing metropolis, the promise of a redeemed environment, and the attempt to produce a new social order through urban form.
 
 ## The Metropolis as Anti-Image
 
@@ -27,7 +27,7 @@ This makes the book especially useful for the vault. It shows how reform can bec
 
 ## Howard and the Cooperative Garden
 
-Howard's *[[Garden Cities of To-morrow]]* begins as a response to the industrial metropolis and to the isolation of the countryside. It tries to reunite town and country through planned settlements surrounded by green belts, linked by rail, and supported by communal land arrangements.
+Howard's *Garden Cities of To-morrow* begins as a response to the industrial metropolis and to the isolation of the countryside. It tries to reunite town and country through planned settlements surrounded by green belts, linked by rail, and supported by communal land arrangements.
 
 Fishman's reading keeps Howard distinct from later sprawl. The Garden City is not simply the private suburb. It is a social reform scheme with land-value capture, cooperative ownership, limited size, work near home, and a larger federation of towns.
 
@@ -49,9 +49,9 @@ This also helps explain why postwar suburbia can feel both anti-statist and plan
 
 Le Corbusier's urban utopia moves in the opposite direction from Wright. He does not dissolve the city into dispersed landholding. He purifies and intensifies it: towers, open space, traffic hierarchy, functional separation, sunlight, hygiene, and central order.
 
-Fishman's comparison makes the Le Corbusier branch sharper than it appears when read alone. *[[The City of Tomorrow and Its Planning]]*, [[Plan Voisin]], and *[[The Radiant City]]* do not merely modernize the old city. They offer a counter-city in which disorder is overcome by geometric and administrative clarity.
+Fishman's comparison makes the Le Corbusier branch sharper than it appears when read alone. The City of Tomorrow, Plan Voisin, and The Radiant City do not merely modernize the old city. They offer a counter-city in which disorder is overcome by geometric and administrative clarity.
 
-This is the clearest connection to [[High-Modernist Planning]] and [[Machine for Living]]. Le Corbusier's city is not just made of machines or made for machines. It is a social machine that promises a better human type through redesigned circulation, dwelling, work, leisure, and visibility.
+This is the clearest connection to [[Functional City]], [[High-Modernist Planning]], and [[Machine for Living]]. Le Corbusier's city is not just made of machines or made for machines. It is a social machine that promises a better human type through redesigned circulation, dwelling, work, leisure, and visibility.
 
 ## Three Utopias, Three Anthropologies
 

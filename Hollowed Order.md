@@ -13,6 +13,8 @@ Use this link when a work emphasizes hollowed institutions, civic forms without 
 
 In *[[We (Zamyatin)]]*, the One State defines perfection as the surgical absence of imagination and inward freedom. In *[[The Mysteries of Paris]]*, respectable law and charity can become masks for predation. In *[[La Regenta]]*, marriage, religion, civic status, and provincial respectability remain powerful while charity, truth, and spiritual care have thinned. In *[[Salem's Lot]]*, the town's communal forms remain while the goods that should bind them have thinned. In *[[It (Stephen King)]]*, Derry functions as a civic world while truth, memory, and care are hollowed out. In *[[Catechism of Positive Religion]]*, Catholic-like religious form is preserved while its supernatural center is replaced by Humanity. Thomas Paine's *[[Common Sense]]* and *[[Rights of Man]]* use this logic politically, treating hereditary monarchy and aristocracy as inherited forms after public legitimacy has drained away.
 
+*[[Blue Velvet]]* gives the Lynchian small-town form: neighborhood, family, police, and ordinary civic surfaces remain while hidden violence and predation move underneath. *[[Twin Peaks]]* deepens that pattern because the town contains real goods of affection and hospitality while also concealing abuse, secrecy, and spiritual danger.
+
 *[[Texhnolyze]]* gives the cyberpunk terminal form: Lux still has hierarchy, factions, ritual, and rule, but the city struggles to offer any positive account of human flourishing or inheritance.
 
 *[[Backrooms]]* gives the spatial-horror form: office, showroom, corridor, carpet, light, and room remain recognizable after work, commerce, shelter, memory, and destination have vanished.

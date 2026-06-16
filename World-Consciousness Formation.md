@@ -17,6 +17,8 @@ Use this link when a work argues that global coordination requires the formation
 
 *[[The First Global Revolution]]* gives the crisis-governance form: planetary problems require planetary consciousness, but crisis can also become a symbolic instrument for mobilizing agreement.
 
+*[[Practical Idealism]]* gives a European supranational form. Coudenhove-Kalergi's pacifism requires more than treaties: education, press, propaganda, and elite guidance must form a wider European consciousness strong enough to overcome nationalist war passions.
+
 *[[The Externalisation of the Hierarchy]]* gives an occult-esoteric form: world consciousness is not only civic or institutional, but part of a hidden spiritual project for humanity.
 
 Wagner's *[[The Artwork of the Future]]* gives an aesthetic form: shared consciousness is to be shaped through total art, myth, music, body, and communal participation rather than through policy alone.

@@ -15,4 +15,6 @@ This concept is usually downstream from [[Domination Through the Machine]]. The 
 
 *[[Backrooms]]* is not a city case, but it belongs nearby as the interior residue of the same pressure. It removes crowd, street, commerce, and skyline, leaving only the office/showroom/service-space atmosphere of modern life after use and social meaning have vanished.
 
+The Lynch branch touches this concept without being reducible to it. *[[Eraserhead]]* gives the industrial-fringe form, a world between factory and neighborhood where domestic life is swallowed by machinery, grime, and sound. *[[Mulholland Drive]]* gives the Hollywood dream-city form, where Los Angeles becomes an image-system that generates and breaks selves.
+
 This concept often touches [[Mediated Reality]] when the city is encountered through signs, images, screens, crowds, or obsessive interpretation.

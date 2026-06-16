@@ -22,3 +22,5 @@ Stephen King's vampire and vampire-like works make this communal. In *[[Salem's 
 *[[Paranoia Agent]]* gives the motif a modern urban-media form. Lil' Slugger grows through pressure, rumor, shame, and the desire for escape; the attacker becomes real because the city keeps needing him.
 
 *[[Pulse (Kairo)]]* gives the networked-loneliness form. The haunting spreads less like a monster attack than like despair finding channels through screens, rooms, and already-isolated lives.
+
+*[[Twin Peaks]]* gives a more supernatural and therefore qualified form. BOB and the lodge mythology should not be reduced to psychology, but the evil spreads through hosts, families, rooms, desire, fear, and secrecy. The concept fits as a bridge because the work shows evil finding openings in already-wounded persons and communities.

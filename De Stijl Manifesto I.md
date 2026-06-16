@@ -24,13 +24,13 @@ This connects the manifesto to [[Art Into Life]]. The work of art is no longer o
 
 ## Spiritual Abstraction
 
-De Stijl should not be reduced to materialist functionalism. Like *[[Concerning the Spiritual in Art]]*, it participates in a modernist search for invisible order beyond surface realism.
+De Stijl should not be reduced to materialist functionalism. Like other spiritual-abstraction modernism, it participates in a search for invisible order beyond surface realism.
 
 The difference is that De Stijl moves toward a more impersonal and constructive grammar. Kandinsky's abstraction often feels inward and expressive. De Stijl tends toward universal composition, balance, and plastic order.
 
 ## Toward Architecture
 
-The manifesto matters architecturally because De Stijl abstraction wants to leave the canvas. *[[Towards a Plastic Architecture]]* develops this into principles for open, anti-historical, non-decorative architecture in which planes, color, space, and construction form a new environment.
+The manifesto matters architecturally because De Stijl abstraction wants to leave the canvas. Its architectural statements develop this into principles for open, anti-historical, non-decorative architecture in which planes, color, space, and construction form a new environment.
 
 That makes De Stijl a crucial bridge between art theory and [[Machine for Living]]. It does not begin from the house-machine slogan, but it helps make architecture available to abstract design intelligence.
 

@@ -25,9 +25,9 @@ Loeffler's central subject is the embassy as political representation. An embass
 
 This places the book under [[Modernism as Cultural Diplomacy]]. After World War II, modern architecture could be used to project an image of American openness, freedom, technological confidence, and democratic modernity. The embassy becomes a kind of built argument: this is what the United States says its civilization looks like.
 
-That makes the book a necessary complement to *[[From Bauhaus to Our House]]*. Wolfe shows modernism becoming an American professional and elite taste. Loeffler shows modernism becoming an official diplomatic instrument.
+That makes the book a necessary case for [[Portable Modernism]]. Wolfe's satire of American professional modernism shows one reception path; Loeffler shows the same portable grammar becoming an official diplomatic instrument.
 
-Annabel Jane Wharton's *[[Building the Cold War]]* is the corporate-hotel counterpart. Embassies represent the state directly; Hilton hotels abroad represent American modernity through business, tourism, comfort, service, and spectacle.
+The corporate-hotel counterpart belongs under [[Modernism as Cultural Diplomacy]] as well. Embassies represent the state directly; Hilton hotels abroad represent American modernity through business, tourism, comfort, service, and spectacle.
 
 The diplomatic use depends on the pattern named by [[Place Replaced by Designed Environment]]. The embassy is not asked to speak mainly through local inherited form, historical continuity, ornament, or traditional public language. It speaks through openness, glass, abstraction, technical confidence, and the supposedly universal grammar of modern design.
 
@@ -35,7 +35,7 @@ The diplomatic use depends on the pattern named by [[Place Replaced by Designed 
 
 The book's strongest graph value is institutional. It shows that modern architecture was not only a private avant-garde or academic fashion. It could be selected by federal agencies because it seemed to solve symbolic and political problems.
 
-This connects to *[[The International Style]]*. Once European modernism had been translated into a portable professional style, it became easier for American institutions to deploy it as a recognizable language of the age. The embassy program gives that language a geopolitical use.
+This connects directly to [[Portable Modernism]]. Once European modernism had been translated into a professional style, it became easier for American institutions to deploy it as a recognizable language of the age. The embassy program gives that language a geopolitical use.
 
 The result is not the same as [[High-Modernist Planning]]. The embassy program is not chiefly an attempt to reorganize an entire city or population. It is a symbolic state-building program: architecture is chosen because it can represent American identity in the Cold War world.
 

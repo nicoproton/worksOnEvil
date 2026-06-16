@@ -16,7 +16,7 @@ tags:
 
 ***Crabgrass Frontier: The Suburbanization of the United States*** is Kenneth T. Jackson's history of American suburbia from early nineteenth-century suburbs through the late twentieth-century automobile landscape. Its value for this graph is that it explains the suburb as a whole civilization pattern, not merely as a style of housing or a planner's diagram.
 
-The book belongs after *[[The Rise of the Community Builders]]*. Weiss shows how the real estate industry learned to build and sell planned communities. Jackson gives the larger national synthesis: cheap land, transportation, detached houses, yards, municipal separation, racial exclusion, federal mortgage policy, highways, and the cultural equation of the good life with private homeownership far from the workplace.
+The book belongs under [[State-Market Landscape]]. The real estate industry learned to build and sell planned communities, but Jackson gives the larger national synthesis: cheap land, transportation, detached houses, yards, municipal separation, racial exclusion, federal mortgage policy, highways, and the cultural equation of the good life with private homeownership far from the workplace.
 
 ## The American Exception
 
@@ -70,7 +70,7 @@ This connects Jackson to the colder side of [[Administered Human Formation]]. Th
 
 The suburb also fragments political life. Small municipalities, school districts, zoning powers, tax boundaries, and local control allow suburban residents to protect property values and services while distancing themselves from regional burdens.
 
-This matters for the later *[[Bowling Alone]]* question. Civic participation can remain locally energetic while becoming spatially defensive. The association is real, but it may be organized around exclusion, property protection, school boundaries, and resistance to shared metropolitan responsibility.
+This matters for the later [[Associational Life]] question. Civic participation can remain locally energetic while becoming spatially defensive. The association is real, but it may be organized around exclusion, property protection, school boundaries, and resistance to shared metropolitan responsibility.
 
 Jackson therefore complicates easy nostalgia. The suburb can preserve family and local association while also weakening older public forms of urban encounter and common obligation.
 
@@ -80,7 +80,7 @@ Jackson helps answer the influence question. Most American suburbia did not simp
 
 But Jackson shows that the dominant American pattern required something else: cheap land, transport technology, racial and class sorting, homeownership ideology, federal mortgage policy, road subsidy, local government fragmentation, and developer practice.
 
-This is why *Crabgrass Frontier* should sit beside *[[The Rise of the Community Builders]]*. Weiss shows the industry and planning machinery. Jackson shows the social and political civilization that made the machinery so successful.
+This is why *Crabgrass Frontier* should sit under [[State-Market Landscape]]. The industry and planning machinery matter, but Jackson shows the social and political civilization that made the machinery so successful.
 
 ## The City Made Less Competitive
 
@@ -88,7 +88,7 @@ The book also explains why older cities were not simply expanded in their inheri
 
 The old city was not merely defeated by consumer preference. It was made less competitive by policy and infrastructure.
 
-This places Jackson in argument with the planning confidence described by *[[Cities of Tomorrow (Peter Hall)]]*. The inherited city looked obsolete partly because institutions defined modernity as movement, detached ownership, separated uses, and new construction.
+This places Jackson in argument with the planning confidence gathered under [[High-Modernist Planning]]. The inherited city looked obsolete partly because institutions defined modernity as movement, detached ownership, separated uses, and new construction.
 
 ## Why It Belongs Here
 

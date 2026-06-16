@@ -13,7 +13,7 @@ tags:
 
 # Plan Voisin
 
-*Plan Voisin* is Le Corbusier's 1925 proposal for redeveloping central Paris, presented in connection with the Pavillon de l'Esprit Nouveau and the planning ideas developed in *[[The City of Tomorrow and Its Planning]]*. The project proposed replacing large areas of the existing right-bank urban fabric with a radically ordered composition of cruciform high-rise towers, broad traffic arteries, open ground, and greenery.
+*Plan Voisin* is Le Corbusier's 1925 proposal for redeveloping central Paris, presented in connection with the Pavillon de l'Esprit Nouveau and Le Corbusier's early urban-planning doctrine. The project proposed replacing large areas of the existing right-bank urban fabric with a radically ordered composition of cruciform high-rise towers, broad traffic arteries, open ground, and greenery.
 
 The plan belongs in the graph because it makes architectural modernism's promise and danger visible at urban scale. It is not only an image of towers. It is a diagram of how the inherited city can be seen as obsolete material awaiting rational replacement.
 
@@ -28,6 +28,8 @@ This note reads Plan Voisin as an unbuilt proposal, exhibition project, and proj
 The most important feature of Plan Voisin is not any single tower form. It is the treatment of existing Paris as something that can be cut away for a clearer order. Dense streets, mixed uses, irregular blocks, and historical accumulation appear as congestion, unhygienic confusion, and resistance to modern circulation.
 
 This makes the plan one of the clearest cases of [[High-Modernist Planning]]. The old city is not repaired by small accretions or local knowledge. It is redrawn from above according to legibility, geometry, traffic, light, air, and functional order.
+
+It is also one of the clearest project-images for [[Functional City]]. Even before the later charter language, the plan makes the city legible through separated movement, towers, open ground, business concentration, and hygienic order.
 
 The violence here is conceptual before it is physical. A lived city becomes a planning surface.
 
@@ -51,7 +53,7 @@ This is one of the places where the machine logic becomes spatial. A street is n
 
 The plan is so important because it proposes modern order not on empty land but against one of Europe's most symbolically dense cities. Paris is a historical, literary, political, religious, commercial, and urban memory-field. Plan Voisin imagines that much of this accumulated texture can be replaced by a purified modern system.
 
-This gives the project a strong contrast with [[Embodied Relation]] and with *[[The Nature of Gothic]]*. Ruskin's Gothic values irregularity, craft, spiritual labor, and historical depth. Plan Voisin values clarity, standardization, visibility, circulation, and geometric command.
+This gives the project a strong contrast with [[Embodied Relation]] and [[Architecture as Public Language]]. Ruskin's Gothic values irregularity, craft, spiritual labor, and historical depth. Plan Voisin values clarity, standardization, visibility, circulation, and geometric command.
 
 The contrast is not merely stylistic. It is two accounts of what a city is: an inherited body of human relations, or an instrument to be made rational.
 

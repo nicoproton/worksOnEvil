@@ -20,6 +20,8 @@ Use this link for:
 
 *[[Stand on Zanzibar]]* gives the population-policy form: heredity, reproduction, social pressure, and biological risk become matters for expert management in an overcrowded society.
 
+*[[Practical Idealism]]* gives an interwar elite-forming form. Coudenhove-Kalergi gives special weight to school and press as institutions that shape the child and adult, and his new spiritual aristocracy depends on forming the public soul rather than merely passing new laws.
+
 *[[Toward an Architecture]]* gives an architectural seed form through [[Machine for Living]]: the built environment is expected to reform modern habits through light, air, standardization, efficiency, and rational dwelling.
 
 [[Life Redesigned by Ideology]] gives the broader source layer. Saint-Simon's *[[The Industrial System]]*, Fourier's *[[The New Industrial and Societary World]]*, Taylor's *[[The Principles of Scientific Management]]*, and Ford's *[[Today and Tomorrow]]* are not dystopias, but they show how production, association, work, and environment become fields for expert redesign before architecture takes up the same logic.

@@ -28,4 +28,6 @@ Use this link when:
 
 *[[Naked Lunch]]* is a rough addiction-control neighbor: the body is occupied by need, phrase, bureaucracy, and control routine rather than by screen or vehicle. *[[American Psycho]]* is a commodity neighbor: Bateman's body and identity are mediated by brands, surfaces, music reviews, pornography, fitness, business cards, and status images until personhood becomes almost indistinguishable from consumable surface. *[[White Noise]]* gives the everyday media-consumer version, where death-anxiety, family life, pharmaceuticals, and television saturate the body without becoming spectacular body horror.
 
+*[[Inland Empire]]* is a qualified Lynchian neighbor. It does not make the body mutate through media in the direct manner of *[[Videodrome]]*, but performance, screen image, role, fear, face, and bodily vulnerability become difficult to separate.
+
 This concept differs from [[Simulated Reality]]. Simulation emphasizes a false world that supplies experience. Media-flesh fusion emphasizes the body being altered by the media and technical environment it inhabits.

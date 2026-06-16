@@ -13,7 +13,7 @@ tags:
 
 # The City of Tomorrow and Its Planning
 
-***The City of Tomorrow and Its Planning*** (*Urbanisme*, 1925) is Le Corbusier's major urban-planning work, extending the machine-age architectural vision of *[[Toward an Architecture]]* from the house to the city. It argues for order, traffic rationalization, high-rise towers, open space, hygiene, zoning, and a new urban form adequate to modern life.
+***The City of Tomorrow and Its Planning*** (*Urbanisme*, 1925) is Le Corbusier's major urban-planning work, extending the machine-age architectural vision of the house-machine from the house to the city. It argues for order, traffic rationalization, high-rise towers, open space, hygiene, zoning, and a new urban form adequate to modern life.
 
 The book matters for this graph because it makes the transition from dwelling as technical object to city as technical system. The planner does not merely design buildings. He proposes a new spatial order in which circulation, residence, work, administration, density, and health are reorganized from above.
 
@@ -22,6 +22,8 @@ The book matters for this graph because it makes the transition from dwelling as
 In *Toward an Architecture*, Le Corbusier gives the house-machine its manifesto form. In *The City of Tomorrow*, the same logic expands outward. The city itself becomes a coordinated apparatus: streets, towers, green space, traffic, density, and daily movement are treated as parts of one rational design.
 
 This makes the book a major development of [[Machine for Living]]. The question is no longer only whether a house can be modern, hygienic, and efficient. The question is whether urban life as a whole can be rebuilt as a functional mechanism for modern persons.
+
+It is also a central early form of [[Functional City]]. The city is no longer approached as a fabric of overlapping streets, trades, homes, institutions, and memories, but as a system of functions to be clarified and coordinated.
 
 The promise is health, clarity, light, open ground, efficient movement, and release from congested inherited streets. The danger is that the city begins to be understood more as a diagram of functions than as an accumulated human dwelling.
 
@@ -55,7 +57,7 @@ The book's most famous associated project is [[Plan Voisin]], Le Corbusier's pro
 
 This connection should be kept direct because it is not merely thematic. *The City of Tomorrow* provides the conceptual language; Plan Voisin is the project-image that reveals the force of the language when applied to an existing city.
 
-The later *[[The Radiant City]]* generalizes this urban imagination into a more portable doctrine of housing, green space, traffic separation, services, and planned modern life.
+The later *Radiant City* generalizes this urban imagination into a more portable doctrine of housing, green space, traffic separation, services, and planned modern life.
 
 ## Formation Through Environment
 
@@ -69,9 +71,9 @@ The question for the graph is whether this formation remains humane. Does the ci
 
 The book's deepest tension is its relation to inheritance. The old city is not only physically crowded; it is an archive of memory, mixed use, class contact, accidents, local adaptations, and symbolic depth. Le Corbusier often sees these accumulations as obstacles to order.
 
-This places the work in argument with [[Embodied Relation]] and with craft-centered notes such as *[[The Nature of Gothic]]*. Ruskin finds moral life in irregular, embodied, hand-made order. Le Corbusier seeks moral renewal through geometric clarity, standardization, and technical simplification.
+This places the work in argument with [[Embodied Relation]] and [[Architecture as Public Language]]. Ruskin's *The Nature of Gothic* finds moral life in irregular, embodied, hand-made order. Le Corbusier seeks moral renewal through geometric clarity, standardization, and technical simplification.
 
-Jane Jacobs's *[[The Death and Life of Great American Cities]]* gives the later urban answer. Her defense of street life, mixed use, small blocks, aged buildings, density, and sidewalk trust directly challenges the kind of top-down clarity that Le Corbusier makes attractive.
+Jane Jacobs's later urban answer is important because her defense of street life, mixed use, small blocks, aged buildings, density, and sidewalk trust directly challenges the kind of top-down clarity that Le Corbusier makes attractive.
 
 ## Why It Belongs Here
 

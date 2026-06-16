@@ -32,9 +32,9 @@ This places the work beside [[Machine for Living]]. Before the house becomes a m
 
 ## Le Corbusier Before the City
 
-This is one of the best nodes for connecting Le Corbusier to wider modernist art. *[[Toward an Architecture]]* sounds architectural, but *Apres le Cubisme* shows the earlier Purist logic: order is aesthetic, moral, technical, and civilizational at once.
+This is one of the best nodes for connecting Le Corbusier to wider modernist art. The later architectural manifesto sounds architectural, but *Apres le Cubisme* shows the earlier Purist logic: order is aesthetic, moral, technical, and civilizational at once.
 
-The journal *[[L'Esprit Nouveau]]* continues this bridge by bringing painting, architecture, design, urbanism, and modern culture into one forum.
+The journal culture around Purism continues this bridge through [[Art Into Life]] by bringing painting, architecture, design, urbanism, and modern culture into one forum.
 
 ## Why It Belongs Here
 

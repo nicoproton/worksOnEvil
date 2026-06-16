@@ -25,13 +25,13 @@ CIAM was founded in 1928 as an avant-garde association of architects. Its member
 
 This places the book near [[High-Modernist Planning]]. The point is not only that individual architects had strong opinions. A transnational organization tried to define what modern urbanism should mean, how it should be argued, and how it could be presented to authorities.
 
-The graph should keep this institutional level visible. *[[The City of Tomorrow and Its Planning]]* and *[[The Radiant City]]* give Le Corbusier's doctrine. *The CIAM Discourse on Urbanism* shows the wider arena in which such doctrines were debated, generalized, and promoted.
+The graph should keep this institutional level visible. Le Corbusier's urban works give one powerful doctrine, but *The CIAM Discourse on Urbanism* shows the wider arena in which such doctrines were debated, generalized, and promoted.
 
 ## The Functional City
 
-Mumford's strongest contribution is his account of CIAM's promotion of the Functional City. The city is analyzed through functions such as dwelling, work, recreation, and circulation, and those functions become the basis for a new urban order.
+Mumford's strongest contribution is his account of CIAM's promotion of the [[Functional City]]. The city is analyzed through functions such as dwelling, work, recreation, and circulation, and those functions become the basis for a new urban order.
 
-This directly strengthens *[[The Athens Charter]]*. The Charter should not be treated as an isolated text. It belongs to a longer CIAM effort to make the city legible through function, planning, and social purpose.
+This directly clarifies the Athens Charter. The Charter should not be treated as an isolated text. It belongs to a longer CIAM effort to make the city legible through function, planning, and social purpose.
 
 The connection to [[Machine for Living]] is also clear. CIAM extends the house-machine and building-machine toward the city as a coordinated apparatus: dwelling, traffic, open space, work, leisure, health, and administration are brought into one modern urban grammar.
 
@@ -47,7 +47,7 @@ The same planning grammar could appear democratic, socialist, technocratic, prog
 
 Mumford's account also matters because CIAM does not simply triumph. After World War II, younger architects associated with Team 10 challenged and revised the mission, pressing against the abstract functional categories and looking for a more complex social basis for architecture.
 
-This gives the book a neighboring relation to *[[The Death and Life of Great American Cities]]* and *[[A City is Not a Tree]]*, though the traditions are not identical. All three make visible the limits of planning that treats urban life as cleanly separable functions.
+This gives the book a neighboring relation to later critiques of functional planning, though the traditions are not identical. Jacobs and Alexander both make visible the limits of planning that treats urban life as cleanly separable functions.
 
 ## Why It Belongs Here
 

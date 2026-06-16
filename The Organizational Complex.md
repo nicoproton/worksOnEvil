@@ -43,11 +43,11 @@ It also points toward [[Total Technical Environment]], but in seed form. The pos
 
 ## Before the Horror of Empty Interiors
 
-The book is also useful beside *[[Backrooms]]*. Martin is not writing horror, but he helps explain why the anonymous office, corridor, corporate campus, modular surface, and service interior can feel charged before fiction turns them uncanny.
+The book is also useful for [[Architectural Uncanny]]. Martin is not writing horror, but he helps explain why the anonymous office, corridor, corporate campus, modular surface, and service interior can feel charged before fiction turns them uncanny.
 
-*Backrooms* gives the nightmare after the human purpose has drained away. *The Organizational Complex* gives one non-fiction genealogy of the postwar corporate environment: the built world as a system of organization, image, communication, and control.
+The nightmare version comes after human purpose has drained away. *The Organizational Complex* gives one non-fiction genealogy of the postwar corporate environment: the built world as a system of organization, image, communication, and control.
 
-Annabel Jane Wharton's *[[Building the Cold War]]* gives a parallel corporate architecture case in hospitality rather than office organization. The Hilton hotel is not only a business, but an environment of image, service, comfort, modernity, and political meaning.
+The parallel hospitality case belongs under [[Modernism as Cultural Diplomacy]]. The Hilton hotel is not only a business, but an environment of image, service, comfort, modernity, and political meaning.
 
 ## Why It Belongs Here
 

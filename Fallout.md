@@ -31,6 +31,8 @@ This places the game near [[Sterile Scientific Salvation]]. Science remains powe
 
 The vault system gives the series its most ironic image of secular salvation. A vault should be an ark: an enclosure that preserves a remnant through catastrophe so that human life can continue. In the broader early-series lore, many vaults become experimental worlds instead. Their inhabitants are not only protected from the bombs; they are sorted, isolated, observed, stressed, exposed, or preserved for later use.
 
+This makes the vault one of the graph's clearest secular forms of [[Sealed Refuge]]. Shelter is real, but the enclosure gives the institution total access to the people it claims to preserve.
+
 This is a precise form of [[Managed Crisis]]. Nuclear war creates the justification for total enclosure, and total enclosure gives the experimenter complete access to human life. The crisis does not merely threaten the population; it makes the population governable as data.
 
 The first game handles this more quietly than later franchise lore. Vault 13 is important because it can still be read as a genuine shelter, while Vault 12 and Necropolis already show the horror of a vault that fails, or is allowed to fail, into radiation exposure. *Fallout 2* then sharpens the implication by making vault populations valuable to the Enclave as controlled samples of humanity.
@@ -83,7 +85,7 @@ This is not as central as the Master or Enclave, but it is a good reminder that 
 
 *Fallout Tactics* is secondary, but its Calculator and Vault 0 belong to the same pattern. The old world attempts to preserve command intelligence through brains, computers, vault infrastructure, and robotics, then hands the postwar future to an automated pacification system.
 
-This is close to *[[Colossus - The Forbin Project]]* and *[[Wasteland]]*. It belongs near [[Machine as God]] and [[Sterile Scientific Salvation]] because the machine claims the role of postwar coordinator after the human order has collapsed.
+This is close to the machine-god branch and to Wasteland's automated postwar control pattern. It belongs near [[Machine as God]] and [[Sterile Scientific Salvation]] because the machine claims the role of postwar coordinator after the human order has collapsed.
 
 The Calculator is not as central to the first game's moral structure as the Master, but it clarifies the series' recurring alternatives: mutate humanity, purify humanity, lock humanity in vaults, or pacify humanity by machine.
 
@@ -99,9 +101,9 @@ Big MT is one of the clearest later Fallout examples of [[Weaponized Rationalism
 
 ## Literary and Film Ancestors
 
-The game's wasteland surface has a clear neighbor in *[[Mad Max 2]]*: desert roads, raiders, scavenged machines, fortified settlements, and the collapse of industrial civilization into fuel, violence, and barter. That connection is strongest at the level of iconography and tone.
+The game's wasteland surface has a clear neighbor in *Mad Max 2*: desert roads, raiders, scavenged machines, fortified settlements, and the collapse of industrial civilization into fuel, violence, and barter. That connection is strongest at the level of iconography and tone.
 
-The deeper bunker and laboratory branch points more toward science fiction like *[[The Penultimate Truth]]* and *[[Dr. Bloodmoney]]*. *The Penultimate Truth* clarifies how shelter can become managed unreality, while *Dr. Bloodmoney* gives a post-nuclear world of bodily alteration, guilt, and damaged community rather than clean heroic rebuilding.
+The deeper bunker branch now belongs more cleanly under [[Sealed Refuge]], while the laboratory and post-nuclear body branch has a literary neighbor in *Dr. Bloodmoney*: bodily alteration, guilt, and damaged community rather than clean heroic rebuilding.
 
 ## Why It Belongs Here
 

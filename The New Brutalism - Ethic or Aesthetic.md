@@ -17,7 +17,7 @@ tags:
 
 ***The New Brutalism: Ethic or Aesthetic?*** is Reyner Banham's 1966 book on New Brutalist architecture, expanding a debate he had already helped frame in the 1950s. It is the key theory node for this graph because the subtitle names the problem directly: was Brutalism a moral position about architectural truth, or did it become a style of roughness, mass, and concrete?
 
-The book belongs after Banham's *[[Theory and Design in the First Machine Age]]*. The earlier book maps machine-age modernism; this one studies a postwar turn inside modernism, where exposed materials, structural directness, raw concrete, and social seriousness challenge the smoother language of the International Style.
+The book belongs after Banham's machine-age genealogy. The earlier argument maps machine-age modernism; this one studies a postwar turn inside modernism, where exposed materials, structural directness, raw concrete, and social seriousness challenge the smoother language of the International Style.
 
 ## Ethic or Aesthetic
 
@@ -25,13 +25,13 @@ Banham's title is the central question. New Brutalism begins with an ethical cla
 
 But the danger is present from the beginning. An ethic can become an aesthetic. Rawness can become a look. Exposed concrete can become a visual brand. Social seriousness can become monumental style.
 
-Watkin's *[[Morality and Architecture]]* sharpens the danger behind Banham's subtitle. Once an architectural ethic is moralized, it can begin to protect itself from lived criticism. [[Moralized Architectural Determinism]] is the risk that truth, honesty, function, or historical necessity becomes a shield for a form that no longer serves the people it claims to elevate.
+[[Moralized Architectural Determinism]] sharpens the danger behind Banham's subtitle. Once an architectural ethic is moralized, it can begin to protect itself from lived criticism. Truth, honesty, function, or historical necessity can become a shield for a form that no longer serves the people it claims to elevate.
 
 This makes the book useful for the vault because it gives Brutalism an internal ambiguity rather than a simple label. Brutalism can be a demand for honesty, or it can become the theatrical image of honesty.
 
 ## From Le Corbusier to Brutalism
 
-The strongest Le Corbusier connection runs through [[Unite d'Habitation, Marseille]] and related late works such as the Maisons Jaoul. The issue is not only raw concrete. It is a change in modernism's character: rougher texture, heavier mass, deeper shadow, exposed making, and collective housing with a public social claim.
+The strongest Le Corbusier connection runs through the late collective-housing branch of [[Machine for Living]]. The issue is not only raw concrete. It is a change in modernism's character: rougher texture, heavier mass, deeper shadow, exposed making, and collective housing with a public social claim.
 
 This is why Brutalism should not be treated as a direct child of Bauhaus. Bauhaus matters through the wider modernist family of anti-ornament, design reform, functional discipline, and material teaching. But Brutalism's more immediate line runs through late Le Corbusier, postwar reconstruction, the Smithsons, Team 10 debates, and dissatisfaction with smooth prewar modernism.
 

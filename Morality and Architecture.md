@@ -63,19 +63,19 @@ This is how a humane intention becomes [[Abstraction Without Prudence]]. Prudenc
 
 ## Brutalism and the Ethic of Truth
 
-Watkin is especially useful beside Banham's *[[The New Brutalism - Ethic or Aesthetic]]*. Banham asks whether New Brutalism is an ethic or an aesthetic. Watkin helps explain why that question is dangerous: an architectural ethic can become coercive when it claims moral authority for a style.
+Watkin is especially useful beside the Brutalism branch. Banham asks whether New Brutalism is an ethic or an aesthetic. Watkin helps explain why that question is dangerous: an architectural ethic can become coercive when it claims moral authority for a style.
 
-The Brutalist claim to material truth, structural directness, and social seriousness is not empty. [[Unite d'Habitation, Marseille]] shows why raw concrete and collective housing could appear morally powerful after the war. But the ethic can become a way of refusing public judgment. A building may be honest about concrete and dishonest about dwelling.
+The Brutalist claim to material truth, structural directness, and social seriousness is not empty. Postwar raw concrete and collective housing could appear morally powerful after the war. But the ethic can become a way of refusing public judgment. A building may be honest about concrete and dishonest about dwelling.
 
 This does not mean Brutalism is automatically bad. It means that its moral vocabulary must answer to lived public meaning, not only to professional ideals of truth and material expression.
 
 ## Relation to Scruton and Perez-Gomez
 
-Watkin belongs beside Scruton's *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]].* Scruton asks what architecture must be if it is a public art addressed to human beings. Watkin asks how architectural theory came to justify styles by moral and historical necessity.
+Watkin belongs beside Scruton's architectural aesthetics and classical-vernacular argument. Scruton asks what architecture must be if it is a public art addressed to human beings. Watkin asks how architectural theory came to justify styles by moral and historical necessity.
 
-Krier's *[[Architecture - Choice or Fate]]* is the urban-polemical neighbor. Watkin exposes the moralized claim that modern architecture is historically necessary; Krier presses the counterclaim that modernist urbanism is a choice, not fate.
+Krier's urban polemic is the neighboring counterclaim. Watkin exposes the moralized claim that modern architecture is historically necessary; Krier presses the counterclaim that modernist urbanism is a choice, not fate.
 
-Perez-Gomez's *[[Architecture and the Crisis of Modern Science]]* gives a deeper intellectual genealogy of technical reduction. Watkin gives the polemical historiographical critique: the story architects tell about moral progress can itself become part of the problem.
+Perez-Gomez gives a deeper intellectual genealogy of technical reduction. Watkin gives the polemical historiographical critique: the story architects tell about moral progress can itself become part of the problem.
 
 Together these works clarify the failure pattern: technical reduction makes architecture seem like a solvable problem; moralized history makes the solution seem obligatory; public language is lost when ordinary reception no longer has authority.
 

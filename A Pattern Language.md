@@ -32,9 +32,9 @@ The book's method is generative rather than merely regulatory. A pattern should 
 
 The patterns are not isolated rules. Each pattern connects upward and downward to other patterns, from regional settlement down to rooms, windows, thresholds, and construction details.
 
-This makes the book the practical counterpart to *[[A City is Not a Tree]]*. The semi-lattice insight becomes a design method: places should be made from overlapping relations rather than separated functions.
+This makes the book the practical counterpart to Alexander's semi-lattice critique. The semi-lattice insight becomes a design method: places should be made from overlapping relations rather than separated functions.
 
-The book therefore resists the clean zoning logic of *[[The Athens Charter]]*. Dwelling, work, play, circulation, market, family, threshold, and public life are not meant to be sealed into separate branches. They are meant to support one another through patterns.
+The book therefore resists the clean zoning logic of [[Functional City]]. Dwelling, work, play, circulation, market, family, threshold, and public life are not meant to be sealed into separate branches. They are meant to support one another through patterns.
 
 ## User Participation and Local Judgment
 
@@ -66,7 +66,7 @@ The book should not be reduced to anti-modern nostalgia. It is critical of many 
 
 That makes it more complex than a return to the past. It is a modern attempt to recover what traditional building often knew tacitly: that places become alive through countless interlocking decisions at many scales.
 
-This makes the book a neighbor to *[[The Nature of Gothic]]* without being the same thing. Ruskin defends the moral freedom of the worker's hand; Alexander gives a language by which users and builders might again participate in shaping their world.
+This makes the book a neighbor to [[Embodied Relation]] without being the same thing as Ruskin's Gothic argument. Ruskin defends the moral freedom of the worker's hand; Alexander gives a language by which users and builders might again participate in shaping their world.
 
 ## Why It Belongs Here
 

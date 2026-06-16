@@ -38,11 +38,11 @@ Ruskin's defense of craft stands behind William Morris's socialist medievalism a
 
 The line should not be overstated as simple influence in every case. The graph connection is conceptual: living craft, received form, and imperfect beauty stand against mechanical domination.
 
-The contrast with *[[Bauhaus Manifesto and Program]]* is especially useful. Gropius also turns toward craft and the workshop, but he does so inside a modern school meant to prepare a new design culture. Ruskin's craft resists mechanical standardization; the Bauhaus begins with craft and moves toward modern production.
+The contrast with [[Machine-Age Standardization]] is especially useful. Gropius also turns toward craft and the workshop, but he does so inside a modern school meant to prepare a new design culture. Ruskin's craft resists mechanical standardization; the Bauhaus begins with craft and moves toward modern production.
 
-*[[The Timeless Way of Building]]* is a later neighbor by analogy rather than a simple continuation. Ruskin defends Gothic as moral craft within inherited Christian culture; Alexander tries to explain how living order can be generated through shared patterns, participation, and local correction in a modern context.
+Alexander's later work is a neighbor by analogy rather than a simple continuation. Ruskin defends Gothic as moral craft within inherited Christian culture; Alexander tries to explain how living order can be generated through shared patterns, participation, and local correction in a modern context.
 
-Roger Scruton's *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]]* give another later neighbor through [[Architecture as Public Language]]. Scruton is less focused on the worker's hand than Ruskin, but he shares the claim that architecture reveals and shapes a moral world rather than merely solving technical problems.
+[[Architecture as Public Language]] gives another later neighbor. Scruton is less focused on the worker's hand than Ruskin, but he shares the claim that architecture reveals and shapes a moral world rather than merely solving technical problems.
 
 ## Why It Belongs Here
 

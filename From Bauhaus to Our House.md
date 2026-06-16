@@ -21,7 +21,7 @@ The note should be used carefully. Wolfe is not a neutral historian of the Bauha
 
 Wolfe's central story is one of importation. The European modernist masters, especially figures such as Walter Gropius, Mies van der Rohe, and Marcel Breuer, enter the United States with great professional authority. Their architecture becomes attached to schools, museums, critics, patrons, corporate commissions, and public prestige.
 
-This makes the book a later American reception node for *[[Bauhaus Manifesto and Program]]* and *[[The International Style]]*. The early Bauhaus included craft reform, spiritual ambition, pedagogy, and experiments in uniting the arts. The American reception Wolfe attacks is narrower: the white box, glass wall, flat roof, stripped surface, and anti-bourgeois austerity become signs of seriousness.
+This makes the book a later American reception node for [[Portable Modernism]]. The early Bauhaus included craft reform, spiritual ambition, pedagogy, and experiments in uniting the arts. The American reception Wolfe attacks is narrower: the white box, glass wall, flat roof, stripped surface, and anti-bourgeois austerity become signs of seriousness.
 
 That narrowing matters. It shows how [[Art Into Life]] can become institutional taste. What began as avant-garde reformation becomes a language of offices, campuses, museums, towers, and respectable cultural authority.
 
@@ -37,11 +37,11 @@ Wolfe therefore helps explain a recurring paradox in this branch. Modernist arch
 
 The book is strongest when it shows how moralized design can become status display. The modern building claims poverty, simplicity, honesty, function, and anti-ornament; but in American elite use, that same austerity can become a sign of cultural superiority.
 
-This is the point where Wolfe belongs beside *[[Making Dystopia]]*. Curl gives the harsher historical indictment of modernist survival. Wolfe gives the social-satirical version: modernism survives not only because of theory, but because it becomes the badge of enlightened taste.
+This is the point where Wolfe belongs under [[Moralized Architectural Determinism]]. Curl gives the harsher historical indictment of modernist survival. Wolfe gives the social-satirical version: modernism survives not only because of theory, but because it becomes the badge of enlightened taste.
 
 The result is a strange inversion. Architecture that began by attacking bourgeois convention becomes the preferred language of corporations, foundations, universities, museums, and government respectability.
 
-Jane C. Loeffler's *[[The Architecture of Diplomacy]]* gives the diplomatic counterpart to Wolfe's satire. If Wolfe asks how modernism became an American insider status language, Loeffler asks how modern architecture became a state language abroad: embassy design as [[Modernism as Cultural Diplomacy]].
+[[Modernism as Cultural Diplomacy]] gives the diplomatic counterpart to Wolfe's satire. If Wolfe asks how modernism became an American insider status language, the embassy branch asks how modern architecture became a state language abroad.
 
 ## Architecture as Public Speech
 

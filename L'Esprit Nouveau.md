@@ -19,21 +19,21 @@ The journal is useful as a network node rather than a single treatise. It shows 
 
 ## A Forum for Purist Modernism
 
-The journal continues the argument of *[[Apres le Cubisme]]*. Purism's desire for clarity, order, standard objects, and disciplined modern form becomes a broader cultural program.
+The journal continues the Purist argument for clarity, order, standard objects, and disciplined modern form, then makes it into a broader cultural program.
 
-This places the journal under [[Art Into Life]]. Painting, furniture, cities, machines, typography, domestic objects, and architecture all belong to one modern field of form.
+This places the journal under [[Art Into Life]] and [[Machine-Age Standardization]]. Painting, furniture, cities, machines, typography, domestic objects, and architecture all belong to one modern field of form.
 
 ## Architecture Within Culture
 
 Le Corbusier's architectural writing does not appear in isolation. It is part of a wider claim about the modern age: old forms are exhausted, and the new age requires exact, clear, standardized, and rational form.
 
-This makes the journal important beside *[[Toward an Architecture]]*. The architectural manifesto is not just a personal book; it emerges from a magazine culture where art, machine aesthetics, urbanism, and social order reinforce one another.
+This makes the journal important for the works gathered under [[Machine for Living]]. The architectural manifesto is not just a personal book; it emerges from a magazine culture where art, machine aesthetics, urbanism, and social order reinforce one another.
 
 ## A Transfer Medium
 
 The journal also helps explain the movement of ideas. Modernism spreads through reviews, exhibitions, lectures, schools, manifestos, and polemics before it spreads through concrete and steel.
 
-This connects it to *[[The International Style]]* and *[[Space, Time and Architecture]]*. Those later works translate modernism for institutional and historical audiences; *L'Esprit Nouveau* belongs closer to the original avant-garde forum.
+This connects it to [[Portable Modernism]] by contrast. Later institutional and historical accounts translate modernism for museums, schools, and professional audiences; *L'Esprit Nouveau* belongs closer to the original avant-garde forum.
 
 ## Why It Belongs Here
 

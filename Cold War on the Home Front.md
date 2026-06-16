@@ -43,7 +43,7 @@ This places it near [[Machine for Living]]. The home is still treated as a desig
 
 It also touches [[Place Replaced by Designed Environment]]. The home becomes an environment assembled from products, displays, standards, and lifestyle images. Domesticity is not abolished, but it is translated into a designed consumer setting.
 
-Wharton's *[[Building the Cold War]]* gives the exported-hospitality counterpart. The same politics of comfort appears in hotels abroad: air-conditioning, food, service, communication, modern surfaces, and consumer ease become a way of making American modernity feel inhabitable.
+The exported-hospitality counterpart belongs under [[Modernism as Cultural Diplomacy]]. The same politics of comfort appears in hotels abroad: air-conditioning, food, service, communication, modern surfaces, and consumer ease become a way of making American modernity feel inhabitable.
 
 ## Why It Belongs Here
 

@@ -29,13 +29,13 @@ This connects the book to [[Mediated Reality]]. The tankers do not act on the wo
 
 The bunker should preserve a remnant through catastrophe. In *The Penultimate Truth*, preservation has been converted into extraction. The enclosed population is not simply protected; it is organized into a productive system whose fear maintains elite comfort.
 
-This places the novel near [[False Salvation Through Systems]]. The system calls itself survival, but its success depends on keeping people from the truth and from ordinary life in the world.
+This places the novel near [[False Salvation Through Systems]] and [[Sealed Refuge]]. The system calls itself survival, but its success depends on keeping people from the truth and from ordinary life in the world.
 
 ## The Respectable Lie
 
 The novel is also useful for [[Respectable Front]]. The outer justification is emergency, sacrifice, and wartime necessity. The inner reality is hierarchy, property, and manipulation.
 
-This is why the book belongs beside *[[Fallout]]*'s vault material, though the mechanisms differ. *Fallout* often makes the vault a research enclosure; *The Penultimate Truth* makes the bunker a political and economic deception. Both turn shelter into a system that owns the people it claims to save.
+This is why the book belongs under [[Sealed Refuge]], though its mechanism is specific. Some vault stories make the enclosure a research site; *The Penultimate Truth* makes the bunker a political and economic deception. Both turn shelter into a system that owns the people it claims to save.
 
 ## Why It Belongs Here
 

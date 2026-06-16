@@ -12,7 +12,7 @@ tags:
 
 ***The Aesthetics of Architecture*** is Roger Scruton's 1979 philosophical study of what architecture is, how it can be judged, and why its meaning cannot be reduced to utility, engineering, private taste, or visual novelty.
 
-It belongs in the graph because it gives the theoretical foundation for Scruton's later critique in *[[The Classical Vernacular]]*. If modernist architecture often treats building as function, system, experiment, or social apparatus, Scruton asks what has been forgotten: architecture is a public art in which human beings encounter meaning through dwelling, detail, proportion, material, place, and shared judgment.
+It belongs in the graph because it gives the theoretical foundation for Scruton's later critique of modern architecture. If modernist architecture often treats building as function, system, experiment, or social apparatus, Scruton asks what has been forgotten: architecture is a public art in which human beings encounter meaning through dwelling, detail, proportion, material, place, and shared judgment.
 
 Its value here is foundational. It asks what architecture is before asking which architecture should be built. That makes it a deeper counter-node than a simple anti-modernist polemic.
 
@@ -50,11 +50,11 @@ The book therefore belongs near [[Embodied Relation]]. Architectural experience 
 
 ## From Philosophy to Polemic
 
-*The Aesthetics of Architecture* is less directly polemical than *[[The Classical Vernacular]]*, but the continuity is strong. The later book's defense of classical and vernacular architecture depends on the earlier claim that architecture has public meaning and can be judged by more than novelty, theory, or utility.
+*The Aesthetics of Architecture* is less directly polemical than Scruton's later classical and vernacular defense, but the continuity is strong. The later argument depends on the earlier claim that architecture has public meaning and can be judged by more than novelty, theory, or utility.
 
-Alberto Perez-Gomez's *[[Architecture and the Crisis of Modern Science]]* is a neighboring diagnosis from history rather than aesthetics. Scruton asks what architecture means and how it can be judged; Perez-Gomez asks how architectural theory became vulnerable to technical and scientific reduction.
+[[Architecture as Public Language]] is the stronger bridge for this neighboring diagnosis. Scruton asks what architecture means and how it can be judged; the historical diagnosis asks how architectural theory became vulnerable to technical and scientific reduction.
 
-This also explains why Scruton differs from *[[The Timeless Way of Building]]*. Alexander emphasizes living process and pattern generation. Scruton emphasizes aesthetic judgment, meaning, language, and the public claim of built form.
+This also explains why Scruton differs from Alexander's living-order theory. Alexander emphasizes process and pattern generation. Scruton emphasizes aesthetic judgment, meaning, language, and the public claim of built form.
 
 Together, they give different counter-answers to modernist social engineering: Alexander asks how living order is made; Scruton asks what architecture must mean if it is to address persons rather than users.
 

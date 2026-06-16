@@ -23,7 +23,7 @@ Krier's answer is that architecture and urbanism are choices. The modernist city
 
 The book's title gives the central argument. Modernism often presents itself as historical necessity: the architecture of the machine age, the honest expression of the time, the only possible answer to industry, democracy, traffic, mass housing, or social reform.
 
-Krier rejects that inevitability. This makes the book a practical companion to *[[Morality and Architecture]]*. Watkin explains how architectural theory can moralize historical necessity. Krier asks what happens if that necessity is false.
+Krier rejects that inevitability. This makes the book a practical companion to [[Moralized Architectural Determinism]]. Watkin explains how architectural theory can moralize historical necessity. Krier asks what happens if that necessity is false.
 
 This is one of the clearest architectural cases of [[Moralized Architectural Determinism]]. If modernist planning is treated as fate, then its failures can be excused as unfortunate costs of progress. If it is a choice, then it can be judged, refused, corrected, or replaced.
 
@@ -47,7 +47,7 @@ The important point is not simply that zoning is ugly. It is that a theory of co
 
 Krier is useful because he attacks both the modernist city and the modern suburb. The tower block and the sprawl subdivision can look opposite, but both may destroy urbanity: one by over-scaling and abstracting the city, the other by dispersing it into low-density dependence on cars.
 
-This helps the graph connect the Le Corbusier branch and the suburb branch without collapsing them. *[[The Radiant City]]*, [[Unite d'Habitation, Marseille]], and *[[Crabgrass Frontier]]* do not describe the same phenomenon, but they all help show ways in which modern settlement can lose street, square, block, mixed use, and public language.
+This helps the graph connect the Le Corbusier branch and the suburb branch without collapsing them. Tower-city doctrine, collective housing blocks, and automobile suburbia do not describe the same phenomenon, but they all help show ways in which modern settlement can lose street, square, block, mixed use, and public language.
 
 Krier's question is whether the city has been replaced by anti-urban forms that still use the moral vocabulary of health, democracy, freedom, community, and progress.
 
@@ -55,7 +55,7 @@ Krier's question is whether the city has been replaced by anti-urban forms that 
 
 Krier's alternative centers on scale and limit. The city should not become one boundless system or one over-scaled machine. It should be composed of intelligible quarters, streets, squares, civic hierarchy, walkable distances, and building types that can be repeated and adapted.
 
-This gives the book a neighbor relation to *[[The Death and Life of Great American Cities]]* and *[[A Pattern Language]]*. Jacobs defends living urban complexity from observation. Alexander gives generative patterns. Krier gives a more traditionalist and typological argument: urban life needs recognizable forms, limits, and hierarchies.
+This gives the book a neighbor relation to the Jacobs and Alexander counter-current. Jacobs defends living urban complexity from observation. Alexander gives generative patterns. Krier gives a more traditionalist and typological argument: urban life needs recognizable forms, limits, and hierarchies.
 
 The three should not be treated as identical. Jacobs is empirical and civic. Alexander is procedural and pattern-based. Krier is polemical, classical, and typological. Their shared value is that all three resist the city as an abstract technical diagram.
 

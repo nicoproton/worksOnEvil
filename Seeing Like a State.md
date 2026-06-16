@@ -18,7 +18,7 @@ It belongs in the graph because it gives [[High-Modernist Planning]] its cleares
 
 Scott's target is more precise: schemes that simplify nature and society so they can be governed, improved, taxed, rebuilt, collectivized, disciplined, or redesigned from above, while ignoring the local practical knowledge by which people actually live.
 
-Peter Hall's *[[Cities of Tomorrow (Peter Hall)]]* is the planning-history companion to this argument. Scott explains the administrative temptation to simplify. Hall shows the planning movements through which reformers, architects, regionalists, governments, and developers tried to turn modern social problems into spatial programs.
+Peter Hall's planning history is the companion to this argument. Scott explains the administrative temptation to simplify. Hall shows the planning movements through which reformers, architects, regionalists, governments, and developers tried to turn modern social problems into spatial programs.
 
 ## Legibility Before Control
 
@@ -48,9 +48,9 @@ The point should be kept exact. A garden plan, school curriculum, building code,
 
 Scott's positive counterweight is local practical knowledge: the tacit, experience-shaped intelligence that farmers, neighbors, builders, traders, workers, and ordinary inhabitants use to navigate real situations.
 
-This connects the book to *[[The Death and Life of Great American Cities]]*. Jacobs sees sidewalk order that formal planning misses: shopkeepers, passersby, children, blocks, old buildings, and mixed uses cooperating without central command.
+This connects the book to the Jacobs branch of [[Architecture as Public Language]]. Jacobs sees sidewalk order that formal planning misses: shopkeepers, passersby, children, blocks, old buildings, and mixed uses cooperating without central command.
 
-It also connects to Alexander's sequence. *[[A City is Not a Tree]]* explains formally why living cities need overlap. *[[A Pattern Language]]* offers patterns through which ordinary people can participate in making places. *[[The Timeless Way of Building]]* gives the deeper claim that living order must be generated through a process answerable to use and participation.
+It also connects to Alexander's sequence. His work explains formally why living cities need overlap, offers patterns through which ordinary people can participate in making places, and gives the deeper claim that living order must be generated through a process answerable to use and participation.
 
 The common thread is not anti-intellectualism. It is prudence. Formal knowledge must remain corrigible by the people, practices, and places it claims to improve.
 
@@ -58,7 +58,7 @@ The common thread is not anti-intellectualism. It is prudence. Formal knowledge 
 
 The architecture branch is especially important because high-modernist planning often sees best from above. The plan, map, diagram, grid, sector, zone, and tower-in-park make the city legible before they make it livable.
 
-Scott's reading helps clarify the danger in *[[The City of Tomorrow and Its Planning]]*, *[[The Athens Charter]]*, and [[Brasilia]]. Le Corbusier's confidence in light, air, traffic, towers, and functional order becomes more than an architectural taste. It becomes a political imagination of life made legible through spatial simplification.
+Scott's reading helps clarify the danger in [[Functional City]]. Le Corbusier's confidence in light, air, traffic, towers, and functional order becomes more than an architectural taste. It becomes a political imagination of life made legible through spatial simplification.
 
 That is why Scott also sharpens the contrast with Jacobs and Alexander. The pedestrian, neighbor, household, shop, parish, informal market, and daily route all know things the aerial plan cannot know.
 

@@ -32,3 +32,5 @@ The French Enlightenment branch enters more through [[Progress as Secular Provid
 Saint-Simon's *[[The Industrial System]]* and *[[The New Christianity]]* give an industrial and moral precursor. They do not yet present Wells's planetary world state, but they help move social authority toward science, industry, expert organization, and the improvement of humanity through planned order.
 
 Comte's *[[Catechism of Positive Religion]]* adds a religious-sociological form: scientific order becomes moral and spiritual authority through the [[Religion of Humanity]].
+
+Coudenhove-Kalergi's *[[Practical Idealism]]* gives an interwar European variant rather than a full world-state doctrine. Its concern is that technological progress has outrun social organization, so Europe must be morally, politically, and technically reorganized quickly enough to prevent catastrophe.

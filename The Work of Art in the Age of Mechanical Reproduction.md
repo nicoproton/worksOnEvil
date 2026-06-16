@@ -29,7 +29,7 @@ This places the essay near [[Hollowed Order]] in a cultural sense. The work of a
 
 The essay is crucial because it treats technology as a transformation of perception. Film, photography, montage, close-up, repetition, and circulation train the senses of modern crowds.
 
-This makes it a strong neighbor to *[[The New Vision]]*. Moholy-Nagy sees technological media as training a new visual consciousness. Benjamin asks what such technologically trained perception does to culture and politics.
+This makes it a strong neighbor to [[Mediated Reality]]. Moholy-Nagy sees technological media as training a new visual consciousness. Benjamin asks what such technologically trained perception does to culture and politics.
 
 Both belong under [[Art Into Life]]. Art no longer remains separate from daily life; it enters the media environment through which people learn to see.
 
@@ -37,7 +37,7 @@ Both belong under [[Art Into Life]]. Art no longer remains separate from daily l
 
 Benjamin's closing contrast between fascism and communism is one of the sharpest art-politics bridges in the vault. Fascism aestheticizes politics: mass mobilization, spectacle, myth, and war become aesthetic experience. Communism, in Benjamin's formula, responds by politicizing art.
 
-This makes the essay a crucial neighbor to *[[The Futurist Manifesto]]*. Futurism's praise of speed, war, youth, machinery, and destruction becomes intelligible as one artistic route toward aestheticized politics.
+This makes the essay a crucial neighbor to [[Domination Through the Machine]]. Futurism's praise of speed, war, youth, machinery, and destruction becomes intelligible as one artistic route toward aestheticized politics.
 
 The essay also clarifies why modernist art can move toward propaganda, planning, and formation. Once art becomes mass-mediated, it can shape collective consciousness at scale.
 
@@ -45,7 +45,7 @@ The essay also clarifies why modernist art can move toward propaganda, planning,
 
 The essay should not be forced into a building note. Its importance is background and bridge. It explains why modern design, film, exhibition, typography, propaganda, photography, and architecture can all become parts of one cultural field.
 
-That makes it useful beside *[[Russia - An Architecture for World Revolution]]*. Lissitzky's world includes pages, exhibitions, images, architecture, and revolution. Benjamin provides the theoretical vocabulary for why such media matter politically.
+That makes it useful beside [[Art Into Life]]. Lissitzky's world includes pages, exhibitions, images, architecture, and revolution. Benjamin provides the theoretical vocabulary for why such media matter politically.
 
 ## Why It Belongs Here
 

@@ -27,15 +27,15 @@ That distinction helps keep the graph precise. Modernist architecture is not onl
 
 ## Le Corbusier and the Machine-Age Voice
 
-Banham gives *[[Toward an Architecture]]* a central place in the first machine-age imagination. Le Corbusier's ships, airplanes, cars, standard types, and house-machine language become one of the strongest rhetorical forms by which technology enters architectural theory.
+Banham gives Le Corbusier's early architectural manifestos a central place in the first machine-age imagination. Ships, airplanes, cars, standard types, and house-machine language become one of the strongest rhetorical forms by which technology enters architectural theory.
 
-This is the opening of the line that later runs through *[[The City of Tomorrow and Its Planning]]*, *[[The Radiant City]]*, and eventually [[Unite d'Habitation, Marseille]]. The machine begins as metaphor and model, then becomes dwelling, city, and collective block.
+This is the opening of the line that later runs through [[Machine for Living]] and [[Functional City]]. The machine begins as metaphor and model, then becomes dwelling, city, and collective block.
 
 Banham helps show that Le Corbusier's modernism is not merely utilitarian. It is also formal, rhetorical, mythic, and reformist. The machine promises clarity, beauty, discipline, and a new civilization.
 
 ## Bauhaus Inside the Wider Machine Age
 
-The book also helps place [[Bauhaus Manifesto and Program]] inside the wider modern movement without making Bauhaus the source of everything that follows. The Bauhaus has its own path through craft, pedagogy, workshop discipline, industrial design, and social-functional building.
+The book also helps place the Bauhaus inside the wider modern movement without making Bauhaus the source of everything that follows. The Bauhaus has its own path through craft, pedagogy, workshop discipline, industrial design, and social-functional building.
 
 Banham's broader frame makes the Bauhaus branch intelligible beside Le Corbusier and Soviet Constructivism. Each turns toward modern production and anti-historicist form, but by different routes: Le Corbusier through the house-machine and urban order; Bauhaus through school, workshop, and design pedagogy; Constructivism through revolutionary construction and social purpose.
 
@@ -51,7 +51,7 @@ That point is valuable for the vault's architecture branch. [[High-Modernist Pla
 
 *Theory and Design in the First Machine Age* is not itself the Brutalism book. Its importance is preparatory. It explains the first modernist machine-age settlement: anti-style, standardization, engineering admiration, functional rhetoric, and the search for modern order.
 
-Banham's later *[[The New Brutalism - Ethic or Aesthetic]]* then asks what happens after that first machine-age language has hardened into polite modernism. New Brutalism tries to recover directness, material presence, structural clarity, and social seriousness, but it also risks becoming another aesthetic label.
+Banham's later Brutalism study then asks what happens after that first machine-age language has hardened into polite modernism. New Brutalism tries to recover directness, material presence, structural clarity, and social seriousness, but it also risks becoming another aesthetic label.
 
 ## Why It Belongs Here
 

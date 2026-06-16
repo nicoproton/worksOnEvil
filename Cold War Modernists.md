@@ -16,7 +16,7 @@ tags:
 
 ***Cold War Modernists: Art, Literature, and American Cultural Diplomacy*** is Greg Barnhisel's 2015 study of how American cultural diplomats, government agencies, and private cultural actors repurposed modernist art and literature during the early Cold War. It belongs in this graph because it explains how modernism could move from avant-garde rupture into official cultural authority.
 
-The book is especially useful because it does not merely repeat the scandal-pattern of *[[The Cultural Cold War]]*. It asks how modernism itself became usable: how difficulty, experiment, individual freedom, and anti-totalitarian form could be translated into a Western cultural message.
+The book is especially useful because it does not merely repeat the scandal-pattern of covert cultural patronage. It asks how modernism itself became usable: how difficulty, experiment, individual freedom, and anti-totalitarian form could be translated into a Western cultural message.
 
 ## Avant-Garde Made Official
 
@@ -38,9 +38,9 @@ The point should remain careful. The book does not mean that every modernist wri
 
 One of the book's sharpest implications is that modernism can be detached from its older crises. Aesthetic rebellion, difficulty, and anti-bourgeois shock can become a collection of transferable techniques: fragmentation, abstraction, irony, inwardness, difficulty, and formal novelty.
 
-This connects the book to *[[How New York Stole the Idea of Modern Art]]*. Guilbaut shows how Abstract Expressionism could become a sign of American freedom. Barnhisel extends the pattern across art, literature, broadcasting, translation, and cultural programming.
+This connects the book to [[Portable Modernism]]. Guilbaut's art-historical case shows how Abstract Expressionism could become a sign of American freedom. Barnhisel extends the pattern across art, literature, broadcasting, translation, and cultural programming.
 
-It also belongs beside *[[The Politics of Apolitical Culture]]*. Scott-Smith explains the political economy of acceptable anti-communist culture; Barnhisel explains the modernist aesthetic form that could be made acceptable within that field.
+It also belongs beside the structural analysis gathered under [[Apolitical Culture as Soft Power]]. Scott-Smith explains the political economy of acceptable anti-communist culture; Barnhisel explains the modernist aesthetic form that could be made acceptable within that field.
 
 ## Why It Belongs Here
 

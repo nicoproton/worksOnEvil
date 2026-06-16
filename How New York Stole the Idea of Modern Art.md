@@ -31,7 +31,7 @@ That is why this note should not connect simply to [[Public Opinion Engineering]
 
 One of Guilbaut's key starting points is the movement of parts of the American intelligentsia away from Marxist or revolutionary commitments and toward anti-Stalinist, anti-totalitarian, liberal, and nationalist cultural positions.
 
-This connects the book to *[[The Politics of Apolitical Culture]]*. Scott-Smith explains how the Congress for Cultural Freedom fit the political economy of American hegemony. Guilbaut shows the art-world version of a similar shift: radical or avant-garde revolt becomes compatible with a new Western cultural legitimacy.
+This connects the book to [[Apolitical Culture as Soft Power]]. The structural Cold War account explains how cultural freedom could fit the political economy of American hegemony. Guilbaut shows the art-world version of a similar shift: radical or avant-garde revolt becomes compatible with a new Western cultural legitimacy.
 
 The result is not simple conservatism. It is a new alignment in which artistic rebellion can be detached from revolutionary politics and made useful to a liberal anti-communist order.
 
@@ -41,7 +41,7 @@ The book's most important historical drama is the displacement of Paris. Before 
 
 This matters for the graph because it shows cultural power as relocation. Modernism is not only a style or an inner necessity. It is also a claim about center and periphery: where serious art is made, who gets to define the avant-garde, which critics and institutions confer authority, and which national culture appears to carry the future.
 
-This has an architectural parallel in *[[The International Style]]*. In that note, European modernism is selected, framed, and made portable for American institutions. In Guilbaut's book, European modern art's symbolic authority is displaced by an American avant-garde that can claim independence from old Europe and from Soviet cultural doctrine at the same time.
+This has an architectural parallel in [[Portable Modernism]]. European modernism can be selected, framed, and made portable for American institutions. In Guilbaut's book, European modern art's symbolic authority is displaced by an American avant-garde that can claim independence from old Europe and from Soviet cultural doctrine at the same time.
 
 ## Abstract Expressionism as Freedom
 
@@ -57,7 +57,7 @@ This is the art-side cousin of [[Place Replaced by Designed Environment]]. In ar
 
 Guilbaut's analysis is especially useful because it shows how revolt can be absorbed without being openly cancelled. The avant-garde does not have to become bland. Its very refusal, difficulty, and alienation can be repurposed as proof of Western cultural superiority.
 
-This connects the book to *[[The Cultural Cold War]]*, but with a different emphasis. Saunders follows covert patronage and cultural networks. Guilbaut follows the art-historical and ideological conditions that made Abstract Expressionism available as the emblem of freedom.
+This connects the book to [[Modernism as Cultural Diplomacy]], but with an art-historical emphasis. Covert patronage and cultural networks matter, yet Guilbaut follows the ideological conditions that made Abstract Expressionism available as the emblem of freedom.
 
 Together, the two books keep the mechanism from becoming too simple. Patronage mattered, but patronage worked because the art already carried meanings that could be politically mobilized.
 

@@ -51,9 +51,9 @@ Saunders's book also helps the modernist branch, but it should not be overused. 
 
 The stronger claim is about selection and promotion. Existing modernist forms could be useful because they appeared free, individual, experimental, difficult, and unlike Soviet-style socialist realism. This connects the book to [[Modernism as Cultural Diplomacy]].
 
-This is where the note belongs beside *[[The Architecture of Diplomacy]]*. Loeffler shows modern architecture used by the state as an official diplomatic image. Saunders shows a more covert cultural field in which art and letters could be used to display Western freedom.
+This is where the note belongs beside [[Modernism as Cultural Diplomacy]]. Modern architecture could be used by the state as an official diplomatic image, while Saunders shows a more covert cultural field in which art and letters could be used to display Western freedom.
 
-Serge Guilbaut's *[[How New York Stole the Idea of Modern Art]]* should be read as the art-historical companion to this claim. Saunders explains the cultural-network mechanism. Guilbaut explains why Abstract Expressionism in particular could become the emblem of freedom and American modernist authority.
+The art-historical companion explains why Abstract Expressionism in particular could become the emblem of freedom and American modernist authority. Saunders explains the cultural-network mechanism; the art-history branch explains why the chosen forms were available for that use.
 
 ## Fronts, Foundations, and Respectability
 
@@ -69,7 +69,7 @@ Saunders writes with force, and the note should preserve caution. The book shoul
 
 The strongest use of this node is to clarify mechanism. When culture is promoted as free, autonomous, and apolitical, that freedom can itself become politically valuable. The graph should keep that paradox without reducing every artist, writer, or critic to an instrument.
 
-Giles Scott-Smith's *[[The Politics of Apolitical Culture]]* should be read as the structural companion. It is less useful as scandal and more useful as a theory of how the Congress for Cultural Freedom belonged to postwar American hegemony, US-European relations, and the organization of acceptable anti-communist dissent.
+[[Apolitical Culture as Soft Power]] is the structural bridge for this material. It is less useful as scandal and more useful as a theory of how the Congress for Cultural Freedom belonged to postwar American hegemony, US-European relations, and the organization of acceptable anti-communist dissent.
 
 ## Why It Belongs Here
 

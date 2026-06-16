@@ -23,17 +23,17 @@ The book is important because it slows down a story that can otherwise become to
 
 American Bauhaus history is often told through the later arrival of Gropius, Mies, Breuer, Moholy-Nagy, and other emigre figures. Kentgens-Craig looks earlier, at the period before the school's closure and before the famous 1938 MoMA Bauhaus exhibition.
 
-That makes the book a necessary companion to *[[From Bauhaus to Our House]]*. Wolfe is most useful for satirizing the later American prestige-language of Bauhaus modernism. Kentgens-Craig helps explain the earlier conditions that made that prestige possible.
+That makes the book a necessary case for [[Portable Modernism]]. Wolfe is most useful for satirizing the later American prestige-language of Bauhaus modernism. Kentgens-Craig helps explain the earlier conditions that made that prestige possible.
 
 ## Reception as Fame-Making
 
 The strongest graph point is that reception is active. The Bauhaus became influential in America through a combination of supply and demand: American interest in modern design, publicity, publications, exhibitions, personal networks, institutional attention, and fine-tuned presentation.
 
-This connects the book to *[[The International Style]]*. Hitchcock and Johnson's MoMA framing translated European modernism into a portable professional style. Kentgens-Craig shows a wider and earlier reception process by which the Bauhaus name and concepts became legible in America.
+This connects the book to [[Portable Modernism]]. Hitchcock and Johnson's MoMA framing translated European modernism into a professional style. Kentgens-Craig shows a wider and earlier reception process by which the Bauhaus name and concepts became legible in America.
 
-It also clarifies *[[Bauhaus Manifesto and Program]]*. The early Bauhaus contained spiritual, craft, pedagogical, and communal elements that could be narrowed or transformed when received abroad. What arrives as "Bauhaus" in America is not identical with the whole historical school.
+It also clarifies why reception changes the thing received. The early Bauhaus contained spiritual, craft, pedagogical, and communal elements that could be narrowed or transformed when received abroad. What arrives as "Bauhaus" in America is not identical with the whole historical school.
 
-*[[Bauhaus Culture]]* is the wider historical companion to this reception story. Kentgens-Craig follows early American contact; James-Chakraborty's volume places the Bauhaus itself inside Weimar culture, political conflict, consumer modernity, and Cold War memory.
+This is why [[Apolitical Culture as Soft Power]] should not begin only with the postwar state. Earlier reception channels already made the Bauhaus legible as design seriousness before it could become a Cold War cultural sign.
 
 ## Transfer Changes the Thing Transferred
 

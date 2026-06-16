@@ -23,7 +23,7 @@ That matters because the same built result can carry mixed ancestry. A postwar s
 
 The book's own sequence makes this genealogy visible. Hall moves from the industrial "city of dreadful night" into the mass-transit suburb, the Garden City, the city in the region, City Beautiful monumentality, the Corbusian city of towers, autonomous and sweat-equity communities, the city on the highway, academic planning theory, enterprise-led redevelopment, the informational city, and the permanent urban underclass. The point is not that each stage simply causes the next. The point is that modern urbanism becomes a field of recurring answers: disperse the city, monumentalize it, functionalize it, regionalize it, automate its movement, theorize it, privatize its redevelopment, or recover community against earlier planning damage.
 
-Fishman's *[[Urban Utopias in the Twentieth Century]]* is the focused companion to this broad map. Hall traces the whole planning field; Fishman concentrates on Howard, Wright, and Le Corbusier as three rival ideal-city visions whose differences help keep the genealogy from becoming too blunt.
+Fishman's *Urban Utopias in the Twentieth Century* is the focused companion to this broad map. Hall traces the whole planning field; Fishman concentrates on Howard, Wright, and Le Corbusier as three rival ideal-city visions whose differences help keep the genealogy from becoming too blunt.
 
 This makes the book a map of idea-streams rather than a single indictment. It helps the graph ask which tradition is active in a given work or policy: decentralist reform, expert command, private development, state administration, traffic engineering, or civic beautification.
 
@@ -45,7 +45,7 @@ The twist is important for the graph. Ideas that begin as resistance to industri
 
 ## Garden City and Decentralized Utopia
 
-One of Hall's most important streams is the Garden City tradition. Howard's *[[Garden Cities of To-morrow]]* tries to escape the evils of both industrial city and isolated countryside by founding planned town-country settlements with green belts, industry, housing, and communal land arrangements.
+One of Hall's most important streams is the Garden City tradition. Howard's *Garden Cities of To-morrow* tries to escape the evils of both industrial city and isolated countryside by founding planned town-country settlements with green belts, industry, housing, and communal land arrangements.
 
 This is not the same thing as Le Corbusier's tower city. Garden City thinking is decentralized, anti-metropolitan, and often communitarian. But it still shares the central planning wager: social renewal can be achieved by designing the right spatial order.
 
@@ -57,11 +57,11 @@ Hall also treats suburbanization before the postwar automobile landscape. The ma
 
 This matters because the later American suburb is not simply "suburbia" in the abstract. It is a particular fusion of older suburban desire with automobile infrastructure, mortgage finance, zoning, and mass production.
 
-The distinction matters when the vault turns to *[[Crabgrass Frontier]]* and *[[The Rise of the Community Builders]]*. Hall gives the long planning genealogy; those books explain the American institutional machinery that made one branch dominant.
+The distinction matters when the vault turns to the American suburb branch. Hall gives the long planning genealogy; those books explain the institutional machinery that made one branch dominant.
 
 ## Regional Planning, RPAA, and the Planned Community
 
-Hall is also useful for placing Lewis Mumford, Clarence Stein, Henry Wright, Radburn, and the Regional Planning Association of America. Stein's *[[Toward New Towns for America]]* is the focused work for this branch. It resists both the congested metropolis and the purely speculative suburb by imagining regional order, new towns, green space, neighborhood units, and traffic separation.
+Hall is also useful for placing Lewis Mumford, Clarence Stein, Henry Wright, Radburn, and the Regional Planning Association of America. Stein's *Toward New Towns for America* is the focused work for this branch. It resists both the congested metropolis and the purely speculative suburb by imagining regional order, new towns, green space, neighborhood units, and traffic separation.
 
 This is where the graph needs precision. Mumford and the RPAA should not be treated as simple authors of postwar sprawl. They often opposed the formlessness of speculative suburbanization. Yet their design vocabulary could still feed into later planning: superblocks, separation of pedestrian and automobile movement, neighborhood units, green interiors, and the belief that community can be designed through spatial form.
 
@@ -77,9 +77,9 @@ For the graph, this branch complicates the modern-planning story. Monumental pla
 
 ## Le Corbusier and the Functional City
 
-Hall's history also places Le Corbusier inside the larger planning movement rather than as an isolated eccentric. *[[Toward an Architecture]]*, *[[The City of Tomorrow and Its Planning]]*, [[Plan Voisin]], *[[The Radiant City]]*, and *[[The Athens Charter]]* form one of the most forceful versions of the planned modern city.
+Hall's history also places Le Corbusier inside the larger planning movement rather than as an isolated eccentric. Le Corbusier's architecture and urbanism form one of the most forceful versions of the planned modern city.
 
-This is the strongest connection to [[High-Modernist Planning]]. The city is made legible through towers, zoning, traffic hierarchy, open space, function, hygiene, and the view from above.
+This is the strongest connection to [[High-Modernist Planning]] and [[Functional City]]. The city is made legible through towers, zoning, traffic hierarchy, open space, function, hygiene, and the view from above.
 
 The Le Corbusier line is more openly machine-age than the Garden City line, but Hall helps show why the two can converge in policy. Both are reactions against the inherited industrial city. Both can distrust the mixed street. Both can imagine a healthier population produced by a redesigned environment.
 
@@ -87,7 +87,7 @@ The Le Corbusier line is more openly machine-age than the Garden City line, but 
 
 Hall's "city on the highway" branch is where the suburb becomes an automobile landscape. The issue is not only houses outside the city. It is the reorganization of daily life around roads, traffic engineering, separated uses, commuting, parking, and peripheral development.
 
-This is one of the most important pieces for the *[[Bowling Alone]]* question. A society can be formally full of private households and consumer choice while its [[Associational Life]] thins out because the spatial pattern absorbs time, separates uses, and weakens ordinary shared places.
+This is one of the most important pieces for the *Bowling Alone* question. A society can be formally full of private households and consumer choice while its [[Associational Life]] thins out because the spatial pattern absorbs time, separates uses, and weakens ordinary shared places.
 
 That gives Hall a connection to [[Embodied Relation]] by negation. The body still moves, but movement is increasingly processed through automobile infrastructure rather than through streets, sidewalks, thresholds, shops, parishes, clubs, and civic rooms.
 
@@ -99,7 +99,7 @@ That is the key distinction for the graph. The American system can be anti-socia
 
 This makes the later suburban branch especially important. The framework is not only "people wanted houses." It is a design and finance regime that made detached, automobile-based, separated-use settlement appear rational, safe, normal, and moral.
 
-Jackson's *[[Crabgrass Frontier]]* is the broad American synthesis for this mechanism: transportation, federal housing policy, highways, race, class, municipal fragmentation, and domestic ideology. Weiss's *[[The Rise of the Community Builders]]* is the focused industry-history node, following the real estate industry, zoning, subdivision practice, and federal housing standards as they helped make private suburban development into a planned and financeable form.
+Jackson's *Crabgrass Frontier* is the broad American synthesis for this mechanism: transportation, federal housing policy, highways, race, class, municipal fragmentation, and domestic ideology. Weiss's *The Rise of the Community Builders* is the focused industry-history node, following the real estate industry, zoning, subdivision practice, and federal housing standards as they helped make private suburban development into a planned and financeable form.
 
 ## Academic Planning and Systems Thinking
 
@@ -115,15 +115,15 @@ Hall includes movements against urban renewal and top-down redevelopment. These 
 
 This branch is why the note should not treat all planning as identical centralized command. Some modern planning turns against the planner's desk and asks how residents, builders, and local groups can shape their own environments.
 
-That places this side of Hall near *[[A Pattern Language]]* and *[[The Timeless Way of Building]]*. Alexander's work belongs to the counter-current inside modern planning: it does not simply reject conscious design, but tries to recover design as participatory, local, and corrigible.
+That places this side of Hall near Alexander's constructive counter-current. The issue is not simply rejecting conscious design, but recovering design as participatory, local, and corrigible.
 
 ## Why Not Just Extend the Old City?
 
 Hall's history clarifies why reformers did not simply expand older mixed urban forms. For many modern planners, the inherited city had become the problem itself: too dense, too mixed, too unhealthy, too politically volatile, too hard to finance, too hard to administer, too resistant to traffic, and too tied to obsolete social forms.
 
-This is where the book connects to [[Seeing Like a State]]. The old city contained knowledge, attachment, informal order, and embodied relation, but it was difficult to read as a clean system. Planning made the city visible by abstracting it into functions, zones, roads, densities, neighborhoods, and flows.
+This is where the book connects to [[High-Modernist Planning]] and [[Abstraction Without Prudence]]. The old city contained knowledge, attachment, informal order, and embodied relation, but it was difficult to read as a clean system. Planning made the city visible by abstracting it into functions, zones, roads, densities, neighborhoods, and flows.
 
-Jane Jacobs's *[[The Death and Life of Great American Cities]]* becomes more intelligible against this background. Jacobs does not simply prefer lively streets. She rejects the planning habit that misreads living complexity as disorder.
+Jane Jacobs becomes more intelligible against this background. She does not simply prefer lively streets. She rejects the planning habit that misreads living complexity as disorder.
 
 ## A Map Rather Than a Verdict
 
@@ -131,13 +131,13 @@ The book's importance is that it maps rival planning genealogies. It does not le
 
 Garden City reform, regional planning, Le Corbusier's functional city, public housing, highways, urban renewal, suburban development, and later entrepreneurial urbanism differ from one another. Yet all participate, in different degrees, in the modern belief that social life can be remade through spatial organization.
 
-This makes *Cities of Tomorrow* a useful companion to [[Architecture and the Crisis of Modern Science]]. Perez-Gomez gives the deeper theoretical crisis: architecture becomes vulnerable to technical-scientific reduction. Hall gives the planning history: those reductions become institutions, movements, policies, diagrams, and landscapes.
+This makes *Cities of Tomorrow* a useful planning-history companion to the graph's concern with [[Abstraction Without Prudence]]. The deeper theoretical crisis is architecture's vulnerability to technical-scientific reduction; Hall gives the planning history in which those reductions become institutions, movements, policies, diagrams, and landscapes.
 
 ## Limits and Cautions
 
-Hall's book is a broad intellectual history, not the final answer to every American policy question. For FHA underwriting, developer institutions, race, mortgage finance, and postwar suburbia, more specific works such as *[[Crabgrass Frontier]]* and *[[The Rise of the Community Builders]]* will be needed.
+Hall's book is a broad intellectual history, not the final answer to every American policy question. For FHA underwriting, developer institutions, race, mortgage finance, and postwar suburbia, more specific works on American suburbia will still be needed.
 
-Its role here is therefore orienting. It tells us which idea-streams to separate before we add more focused nodes: Garden City, RPAA/Radburn, federal mortgage planning, urban renewal, highway planning, and the later civic consequences explored by works like *[[Bowling Alone]]*.
+Its role here is therefore orienting. It tells us which idea-streams to separate before we add more focused nodes: Garden City, RPAA/Radburn, federal mortgage planning, urban renewal, highway planning, and the later civic consequences explored by works like *Bowling Alone*.
 
 ## Why It Belongs Here
 

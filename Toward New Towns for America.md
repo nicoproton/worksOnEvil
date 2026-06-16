@@ -19,9 +19,9 @@ The book does not show that all American suburbia came from Stein. It shows some
 
 ## From Garden City to American Experiment
 
-Stein belongs downstream from *[[Garden Cities of To-morrow]]*. Howard's full proposal was a bounded town-country settlement with land reform, green belt, local work, civic services, and controlled growth. Stein inherits the Garden City impulse, but he works in the American field of housing, developers, regional planning, cars, foundations, public agencies, and experimental planned communities.
+Stein belongs downstream from Howard's Garden City proposal. Howard's full proposal was a bounded town-country settlement with land reform, green belt, local work, civic services, and controlled growth. Stein inherits the Garden City impulse, but he works in the American field of housing, developers, regional planning, cars, foundations, public agencies, and experimental planned communities.
 
-This makes the book a practical companion to *[[Urban Utopias in the Twentieth Century]]*. Fishman clarifies the ideal visions. Stein shows how one branch became plans, blocks, streets, greens, housing groups, and development procedure.
+This makes the book a practical case for [[State-Market Landscape]] in formation. The ideal-city vision becomes plans, blocks, streets, greens, housing groups, and development procedure.
 
 ## The RPAA Line
 
@@ -69,7 +69,7 @@ This means Stein helps explain why later suburbs and housing estates can feel pl
 
 Stein helps refine the comparison with Le Corbusier. If a later development is made of towers, functional zoning, clearance, monumental axes, and administrative legibility, the Corbusian/CIAM line is probably stronger. If it is made of low-rise residential superblocks, green interiors, traffic separation, neighborhood units, and planned decentralization, the Howard-RPAA-Stein line may be stronger.
 
-Many postwar landscapes combine both. A housing project may use Corbusian open-space logic and Stein-like superblocks. A suburb may use Garden City imagery, Radburn traffic separation, FHA finance, zoning, and automobile infrastructure. Weiss's *[[The Rise of the Community Builders]]* helps explain that selection process as [[State-Market Landscape]]: influence often travels as design fragments rather than as complete doctrines.
+Many postwar landscapes combine both. A housing project may use Corbusian open-space logic and Stein-like superblocks. A suburb may use Garden City imagery, Radburn traffic separation, FHA finance, zoning, and automobile infrastructure. [[State-Market Landscape]] helps explain that selection process: influence often travels as design fragments rather than as complete doctrines.
 
 ## Why It Belongs Here
 
