@@ -22,4 +22,6 @@ Saint-Simon's *[[The New Christianity]]* is an earlier neighbor rather than the 
 
 *[[Lord of the World]]* is the strongest fictional-theological neighbor. Benson imagines a future where humanitarian unity and worship of man prepare an Antichristic order. The link should be careful: Comte is not Benson's fictional Antichrist, but Comte helps explain why secular modernity may become religious rather than merely irreligious.
 
+[[Political Idolatry]] is a neighboring but different form of immanent sacralization. Religion of Humanity sacralizes humanity as a universal collective; political idolatry sacralizes a particular race, people, state, nation, class, or regime.
+
 This concept often overlaps with [[Hollowed Order]] when religious form remains after worship of God has been replaced, and with [[Scientific World State]] when social order is guided by expert or scientific administration.

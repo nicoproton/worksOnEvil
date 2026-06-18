@@ -28,6 +28,8 @@ Lord Henry Wotton is one of the strongest examples of [[Corrupting Guide]] in th
 
 The guidance works because it attaches itself to real goods. Beauty, youth, pleasure, and individuality are not nothing. Lord Henry corrupts Dorian by teaching him to love those goods as absolutes, detached from truth, responsibility, repentance, and love of other persons.
 
+That gives the novel a strong literary form of [[Conscience Detached from Truth]]. Dorian is not merely tempted to break rules; he is taught to regard conscience as an obstacle to authenticity, youth, and sensation. The portrait then becomes the hidden place where the truth of conscience remains visible after Dorian's public self has learned to ignore it.
+
 ## Beauty Turned Inward
 
 Dorian's fall is a concentrated case of [[Aesthetic Self-Enclosure]]. He tries to make life itself into an artwork, but the artwork becomes a sealed chamber for self-worship. He seeks rare sensations and beautiful surfaces while becoming less capable of receiving another person as real.

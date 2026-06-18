@@ -16,6 +16,8 @@ Libertine Rationalism names the pattern in which reason, nature, anti-clerical c
 
 This bridge belongs under [[Weaponized Rationalism]] when rational argument is severed from prudence, charity, created order, and the dignity of persons.
 
+It is also a specific moral form of [[Liberty Detached from Truth]]. Libertine argument does not merely ask for weakness to be tolerated; it renames corruption as freedom and then supplies reasons for domination.
+
 Use this link when:
 
 - vice is defended as philosophy, nature, liberation, or political necessity;

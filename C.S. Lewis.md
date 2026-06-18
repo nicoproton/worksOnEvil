@@ -13,6 +13,8 @@ In *[[The Abolition of Man]]*, Lewis calls the inherited structure of objective 
 
 This matters for [[Weaponized Rationalism]]. Lewis is not attacking reason itself. He is attacking reason severed from trained moral affection, a condition in which intelligence becomes available for manipulation and conquest.
 
+This also makes Lewis a non-Catholic neighbor of [[Reason Ordered to Truth]]. The overlap is not institutional or doctrinal identity. It is the shared claim that reason must answer to objective value rather than treat value as material for technical or educational control.
+
 ## Men Without Chests
 
 Lewis's phrase "men without chests" names people whose intellect and appetite remain, but whose moral affections have been hollowed out. The result is not neutrality but vulnerability: such people can be conditioned by stronger wills.

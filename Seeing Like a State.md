@@ -48,6 +48,8 @@ The point should be kept exact. A garden plan, school curriculum, building code,
 
 Scott's positive counterweight is local practical knowledge: the tacit, experience-shaped intelligence that farmers, neighbors, builders, traders, workers, and ordinary inhabitants use to navigate real situations.
 
+This gives the book a useful but limited relation to [[Subsidiarity]]. Scott is not making a Catholic social-doctrine argument, but his critique explains in secular political-theoretical terms why higher systems become destructive when they absorb the work, knowledge, and corrective power of lower forms of life.
+
 This connects the book to the Jacobs branch of [[Architecture as Public Language]]. Jacobs sees sidewalk order that formal planning misses: shopkeepers, passersby, children, blocks, old buildings, and mixed uses cooperating without central command.
 
 It also connects to Alexander's sequence. His work explains formally why living cities need overlap, offers patterns through which ordinary people can participate in making places, and gives the deeper claim that living order must be generated through a process answerable to use and participation.

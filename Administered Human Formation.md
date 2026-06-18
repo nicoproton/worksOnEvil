@@ -22,6 +22,14 @@ Use this link for:
 
 *[[Practical Idealism]]* gives an interwar elite-forming form. Coudenhove-Kalergi gives special weight to school and press as institutions that shape the child and adult, and his new spiritual aristocracy depends on forming the public soul rather than merely passing new laws.
 
+[[Secular State Supremacy]] gives a Catholic political-theological warning about the same field. In the *[[Syllabus of Errors]]*, education becomes dangerous when it is placed wholly under civil authority and separated from the Church's claim to form conscience under supernatural truth.
+
+[[Christian Civil Order]] gives the positive counterpart. In *[[Immortale Dei]]*, the education of children belongs to a moral and religious order that civil power must respect rather than invent.
+
+[[Atheistic Communism]] gives a more total collectivist form. In *[[Divini Redemptoris]]*, Pius XI describes family and education being absorbed into the collectivity so that the young are formed for a materialist social order rather than for God, family, and natural law.
+
+[[Political Idolatry]] gives the national-mythic form. In *[[Mit Brennender Sorge]]*, Catholic schooling and youth formation are pressured by a regime that wants loyalty shaped around people, race, state, and political destiny.
+
 *[[Toward an Architecture]]* gives an architectural seed form through [[Machine for Living]]: the built environment is expected to reform modern habits through light, air, standardization, efficiency, and rational dwelling.
 
 [[Life Redesigned by Ideology]] gives the broader source layer. Saint-Simon's *[[The Industrial System]]*, Fourier's *[[The New Industrial and Societary World]]*, Taylor's *[[The Principles of Scientific Management]]*, and Ford's *[[Today and Tomorrow]]* are not dystopias, but they show how production, association, work, and environment become fields for expert redesign before architecture takes up the same logic.

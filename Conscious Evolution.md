@@ -13,6 +13,8 @@ The concept becomes attractive when humanity is seen as unfinished or transition
 
 This connects to [[The Overreacher]] and [[Designed Successor Humanity]]. The question is whether self-transcendence remains humble growth or becomes imposed redesign.
 
+*[[Humani Generis]]* touches the border of this concept from the Catholic side. Pius XII does not reject every scientific discussion of biological evolution, but he rejects evolutionism as a total metaphysical climate in which humanity, truth, and doctrine are swallowed by process.
+
 ## Transhumanist Ambiguity
 
 Julian Huxley's *[[New Bottles for New Wine]]* is the key modern humanist anchor in this vault because it gives an early humanist form of transhumanism. It is not identical with later digital immortality or cybernetic enhancement, but it opens the same question: who directs the future human, and by what standard?

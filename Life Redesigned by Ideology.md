@@ -49,6 +49,14 @@ Sorel's *[[Reflections on Violence]]* gives the mythic-political version: modern
 
 Coudenhove-Kalergi's *[[Practical Idealism]]* gives an interwar supranational version: technology, elite formation, education, press, pacifism, and European federation are treated as parts of one practical ideal for remaking postwar civilization.
 
+[[Economic Order Under Moral Law]] is a Catholic counter-pattern. In *[[Rerum Novarum]]*, industrial misery is real and requires remedy, but the remedy must respect property, family, association, moral law, and the common good rather than redesigning economic life as state-administered material.
+
+[[Subsidiarity]] sharpens that counter-pattern in *[[Quadragesimo Anno]]*: reform from above may be necessary, but it becomes destructive when larger systems absorb the real work of families, local communities, professions, and intermediate associations.
+
+[[Atheistic Communism]] is the Catholic name for one totalizing extreme of this pattern. In *[[Divini Redemptoris]]*, Pius XI argues that materialist communism answers real industrial misery by treating family, education, property, religion, and personhood as material for revolutionary reconstruction.
+
+[[Political Idolatry]] is a mythic-national extreme. In *[[Mit Brennender Sorge]]*, race, people, state, and national destiny become sacred measures that can remake education, religion, and public loyalty around a political myth.
+
 ## Why It Belongs Here
 
 Life Redesigned by Ideology belongs because it gives the graph a deeper layer beneath modernist architecture. It explains why so many different domains began to converge: art, theater, industry, housing, planning, education, media, and politics were all drawn into the belief that the new age required a newly designed human environment.

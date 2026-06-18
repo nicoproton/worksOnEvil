@@ -31,8 +31,20 @@ Aquinas's natural law theory treats reason as ordered toward goods proper to hum
 
 This makes him useful for [[Weaponized Rationalism]]. When reason is reduced to technique, efficiency, or control, it can become irrational in a deeper sense because it no longer serves the ends that make human life good.
 
+*[[Libertas]]* draws heavily on this Thomistic grammar of freedom. Liberty is not perfected by the bare possibility of choosing evil, but by acting according to reason and the good; this makes [[Liberty Detached from Truth]] a defect of freedom rather than its fulfillment.
+
+*[[Veritatis Splendor]]* extends this into moral theology. Its defense of natural law, moral object, concrete acts, and intrinsically evil choices depends on the same refusal to detach freedom from truth and human acts from their proper ends.
+
 ## Order, Completion, and False Perfecting
 
 Aquinas gives a way to distinguish real perfection from imposed completion. A thing is perfected when it reaches the good proper to its nature, not when an external system forces it into efficient conformity.
 
 This helps clarify [[Forced Human Completion]] and its bridge concepts. Systems that remove imagination, freedom, embodiment, or separateness may claim to perfect humanity, but from a Thomistic angle they destroy goods that belong to human flourishing.
+
+## Thomism as Restoration
+
+*[[Aeterni Patris]]* makes Aquinas a major Catholic counter-node for the modern graph. Leo XIII presents Thomas as the strongest guide for restoring Christian philosophy because his thought preserves the relation between faith and reason, distinguishes without separating nature and grace, and gives theology a stable metaphysical language.
+
+That makes Aquinas especially useful against [[Theological Modernism]]. If revelation, doctrine, and dogma are to remain more than symbols of religious consciousness, the Church needs an account of truth, being, causality, and human reason strong enough to resist reduction into psychology, history, or adaptation to the age.
+
+*[[Fides et Ratio]]* later broadens this restoration through [[Reason Ordered to Truth]]. Aquinas matters because his thought shows that faith and reason can cooperate without either one swallowing the other.

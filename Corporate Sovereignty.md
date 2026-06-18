@@ -11,6 +11,8 @@ This bridge belongs near [[Domination Through the Machine]], [[Alienating City]]
 
 Reinhold Martin's *[[The Organizational Complex]]* gives the non-fiction prehistory of this pattern. It does not describe cyberpunk corporate sovereignty, but it shows corporate architecture, media, computers, and organizational thought beginning to shape the postwar landscape as a system of work, image, and control.
 
+*[[Quadragesimo Anno]]* gives a Catholic social-teaching neighbor rather than a cyberpunk case. Pius XI's warning about concentrated economic command and financial power helps name the moment when private economic power begins to act like a ruler of social life.
+
 Use this link when:
 
 - corporations own bodies, labor, memory, weapons, city space, or identity;

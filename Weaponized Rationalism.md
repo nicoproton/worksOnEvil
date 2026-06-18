@@ -13,7 +13,17 @@ Use this link for abstract reason turned coercive, not for ordinary intelligence
 
 [[Thomas Aquinas]] helps clarify the distinction: reason is not merely calculation, but a power ordered toward the good. Rational systems become distorted when they sever technique from the ends proper to human flourishing.
 
-Use more precise bridges when possible. [[Abstraction Without Prudence]] applies when theory, procedure, or measurement replaces practical judgment. [[Language as Control System]] applies when speech, code, symbol, or ritual becomes executable command. [[Engineered Consent]] applies when social science and media technique are used to shape public agreement. [[Scientific World State]] applies when expert planning becomes a political order. [[Libertine Rationalism]] applies when reason, nature, or revolutionary liberty is used to justify appetite, cruelty, and the reduction of persons to usable bodies.
+*[[Aeterni Patris]]* gives the Catholic counter-form: reason strengthened by faith, first principles, and Thomistic metaphysics, rather than reason reduced to novelty, technique, or autonomous system-building.
+
+[[Reason Ordered to Truth]] is the broader positive bridge. In *[[Fides et Ratio]]*, John Paul II argues that reason becomes most human when it seeks being, wisdom, God, and the meaning of life, not when it shrinks into technique, skepticism, or utility.
+
+[[Theological Modernism]] gives the ecclesial-critical form. In *[[Pascendi Dominici Gregis]]*, Pius X attacks a method that presents itself as scientific restraint while first excluding God, miracle, and revelation from what reason or history may acknowledge.
+
+Use more precise bridges when possible. [[Abstraction Without Prudence]] applies when theory, procedure, or measurement replaces practical judgment. [[Revelation Under Critical Reduction]] applies when critical method excludes divine action from history or Scripture in advance. [[Language as Control System]] applies when speech, code, symbol, or ritual becomes executable command. [[Engineered Consent]] applies when social science and media technique are used to shape public agreement. [[Scientific World State]] applies when expert planning becomes a political order. [[Libertine Rationalism]] applies when reason, nature, or revolutionary liberty is used to justify appetite, cruelty, and the reduction of persons to usable bodies.
+
+[[Liberty Detached from Truth]] is the political-moral form. In *[[Libertas]]*, Leo XIII argues that autonomous reason becomes dangerous when it uses liberty to free the will from divine law, natural law, and the good proper to human nature.
+
+[[Conscience Detached from Truth]] is the inward moral form. In *[[Veritatis Splendor]]*, calculation, intention, proportion, or subjective judgment becomes dangerous when it claims power to make evil acts good.
 
 In cyberpunk, this often appears as formalized control over mind or language. *[[Snow Crash]]* turns language into executable command, while *[[Psycho-Pass]]* turns moral judgment into quantified risk.
 

@@ -24,6 +24,12 @@ Thomas Paine's *[[Common Sense]]* and *[[Rights of Man]]* give the public revolu
 
 Comte's *[[Catechism of Positive Religion]]* gives a later religious form. Progress is no longer only historical hope; it becomes part of a positivist moral order centered on Humanity.
 
+[[Dogmatic Relativism]] is a theological limit case rather than a normal progress narrative. It appears when historical development or the needs of the age become judges over doctrine itself, so that revelation must be continually re-expressed under newer philosophical fashions.
+
+[[Secular State Supremacy]] is the political limit case. In *[[Quanta Cura]]* and the *[[Syllabus of Errors]]*, Pius IX rejects progress when it means that civil society, public opinion, or modern liberal civilization becomes judge over religion, education, marriage, and the Church's public authority.
+
+*[[Spe Salvi]]* gives the clearest Catholic theology of this concept. Benedict XVI argues that modernity displaced Christian hope into faith in progress, first through science and practical power, then through political revolution and social structures meant to redeem man from outside.
+
 Robert Owen's *[[A New View of Society]]* gives the environmental-reform form: humanity improves as circumstances are rationally remade. *[[The Book of the New Moral World]]* expands that principle toward a complete social vision.
 
 Saint-Simon's *[[The Industrial System]]* and *[[The New Christianity]]* give the industrial-religious form: progress is imagined through productive organization, science, industry, and moral concern for the poorest.

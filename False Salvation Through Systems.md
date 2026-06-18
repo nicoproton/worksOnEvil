@@ -33,6 +33,12 @@ The non-fiction technocratic branch often appears through [[Managed Crisis]] and
 
 H. G. Wells's [[Scientific World State]] gives the motif its utopian-planning form, while Julian Huxley's [[Evolutionary Humanism]] gives it an evolutionary-human-development form.
 
+[[Atheistic Communism]] gives the Catholic political-theological form. In *[[Divini Redemptoris]]*, communism promises earthly justice and a classless future while denying God, the soul, family, property, and the person's supernatural end.
+
+*[[Veritatis Splendor]]* gives a moral-theological limit on all false salvation: a good end cannot make an evil act good. Systems that promise redemption by sacrificing moral truth already falsify the salvation they offer.
+
+*[[Spe Salvi]]* gives the theological limit: structures, science, and politics can help human life, but they cannot redeem man from outside. A system that promises a definitive earthly salvation is already asking structures to do what belongs to truth, freedom, love, grace, and God.
+
 Architectural modernism enters through [[Machine for Living]] and [[High-Modernist Planning]]. *[[The City of Tomorrow and Its Planning]]* promises health, light, air, order, and efficient circulation, while *[[Plan Voisin]]* shows how that promise can become spatial purification through demolition and reconstruction.
 
 Ancient and early-modern utopias complicate the pattern. *The Republic*, *The City of the Sun*, and *New Atlantis* are not simple dystopias, but each shows how order, knowledge, myth, reproduction, and scientific institutions can become total designs for human life.
