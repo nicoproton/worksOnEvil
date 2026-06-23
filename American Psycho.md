@@ -26,6 +26,8 @@ The novel's horror depends on the gap between polished surface and inward vacanc
 
 This places the book near [[Aesthetic Self-Enclosure]], though in a late commodity form rather than a decadent aristocratic one. The self is enclosed by surfaces, routines, consumption, and stylized performance.
 
+It is also a strong fictional case of [[Affluent Nihilism]]. Bateman is not crushed by deprivation or revolutionary terror. He inhabits prosperity without depth: the good life has become status, consumption, repetition, image, and violence without recognizable moral consequence.
+
 The connection to [[Double and Divided Self]] is also strong. Bateman's public identity and violent interior do not integrate into a coherent soul. The division becomes so unstable that confession, recognition, and consequence all begin to fail.
 
 ## Violence as Consumer Event

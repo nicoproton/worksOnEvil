@@ -27,4 +27,6 @@ Use this bridge when:
 
 *[[Bowling Alone]]* gives one downstream civic consequence. When the state-market landscape produces long commutes, separated uses, private retreat, and market-sorted localism, [[Associational Life]] can weaken even when private households remain comfortable.
 
+Illich's *[[Energy and Equity]]* gives a sharper transportation concept for this branch. Car-dependent landscapes are not simply private choices added together; they can become a [[Radical Monopoly]] in which ordinary participation increasingly requires the dominant transport system.
+
 The concept is especially important for keeping the graph precise. A low-density subdivision is not automatically Le Corbusier. A highway suburb is not automatically a Garden City. A public housing project is not automatically Soviet Constructivism. State-Market Landscape asks how public and private institutions made a particular form practical, safe, legal, and desirable.

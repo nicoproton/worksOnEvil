@@ -44,6 +44,8 @@ This bridge belongs between [[Mediated Reality]] and [[Double and Divided Self]]
 
 [[Bovarysme]] is a literary ancestor. The desired image of life begins to govern ordinary reality, even before electronic media.
 
+[[Semiotic Dislocation]] is a neighboring inward problem. The image-generated self is about a rival representation becoming powerful; semiotic dislocation is about the person being unable to find a truthful sign or role by which to understand himself.
+
 ## Why It Belongs Here
 
 This bridge helps reduce graph noise. Instead of linking every mediated-identity work directly to every other one, the works can meet through the more precise pattern: the self made, pursued, or destroyed by its image.

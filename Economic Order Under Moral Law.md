@@ -31,6 +31,10 @@ Use this link when:
 
 *[[Divini Redemptoris]]* gives the anti-communist continuation. Pius XI argues that real economic injustice must not be answered by [[Atheistic Communism]], where materialist class redemption absorbs the person, family, property, and religion into the collective program.
 
+Josef Pieper's *[[Leisure, the Basis of Culture]]* gives a cultural limit on economic order. Work is good and necessary, but the person cannot be defined by productivity; economic life must leave room for worship, family, contemplation, and culture.
+
+Jacques Maritain's [[Personalist Common Good]] gives a political-social limit. Economic life must serve persons-in-community, not isolated consumers, class abstractions, productive units, or state material.
+
 This concept is a counterweight to [[Life Redesigned by Ideology]]. The Catholic answer to industrial misery is not to redesign ordinary life from above according to a total theory, but to restore the moral order inside work, property, family, law, charity, and association.
 
 It also borders [[Administered Human Formation]] where education or labor policy becomes a state instrument. The distinction is important: Catholic social order allows public authority to protect the weak, but refuses to let the state absorb the family, the Church, or smaller associations.

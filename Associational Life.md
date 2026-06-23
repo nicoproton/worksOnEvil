@@ -26,4 +26,8 @@ Use this bridge when:
 
 *[[Bowling Alone]]* is the central social-science node for this bridge. *[[The Death and Life of Great American Cities]]* gives the urban form through sidewalk trust and mixed use. *[[Crabgrass Frontier]]* gives the suburban background where household privacy, commuting, and municipal separation can weaken broader common life.
 
+Illich's *[[Deschooling Society]]* gives a learning-oriented neighbor through voluntary learning webs, skill exchange, and peer matching. It imagines education restored to association rather than monopolized by school as a single institution.
+
+Pieper's *[[In Tune with the World]]* gives a festal neighbor. A community is not sustained only by meetings and services; it also needs shared celebration in which reality is received as good.
+
 This concept should remain morally alert. Association is not automatically good. It can become exclusionary, corrupt, ideological, predatory, or merely defensive. The question is what love, good, or practice binds the association together.

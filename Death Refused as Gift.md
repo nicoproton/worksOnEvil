@@ -20,6 +20,8 @@ Use this link for:
 
 *[[White Noise]]* gives the consumer-media form: fear of death becomes ambient anxiety managed through television, supermarkets, expertise, family routines, and pharmaceutical promise.
 
+Ivan Illich's *[[Medical Nemesis]]* gives a non-fiction cultural form. A medicalized society can lose the inherited arts of suffering, aging, and dying, making mortality appear mainly as a technical failure to be managed.
+
 This bridge often stands in contrast to [[Reincarnation and Cycles]], [[Eucatastrophe]], and [[Embodied Relation]].
 
 When the refusal of death is sold as elite or godlike transformation, use [[False Apotheosis]]. Numenor under Sauron and the N.I.C.E. in *[[That Hideous Strength]]* are the strongest theological forms: the promised escape from mortality becomes a route into worship of the wrong power and civilizational ruin.

@@ -25,6 +25,20 @@ Use more precise bridges when possible. [[Abstraction Without Prudence]] applies
 
 [[Conscience Detached from Truth]] is the inward moral form. In *[[Veritatis Splendor]]*, calculation, intention, proportion, or subjective judgment becomes dangerous when it claims power to make evil acts good.
 
+Romano Guardini's *[[The End of the Modern World]]* gives the Catholic cultural form. Modern reason and technical power become dangerous when nature is treated as material for use and power expands without corresponding moral and contemplative formation.
+
+Guardini's *[[Die Macht]]* gives the explicit ethical form. Rational and technical power must be governed by responsibility; otherwise reason becomes an instrument for making reality available to command.
+
+Josef Pieper's *[[Abuse of Language, Abuse of Power]]* gives the linguistic form. Speech and argument become weapons when they cease to disclose reality and instead aim at producing effects in the listener.
+
+Pieper's *[[In Defense of Philosophy]]* gives the intellectual counter-form. Philosophy is corrupted when it must justify itself as utility, method, technique, or ideological service rather than remaining open to being and wisdom.
+
+Augusto Del Noce's *[[The Age of Secularization]]* gives the scientistic-progressive form. When empirical science is treated as the whole of reason, it can discredit metaphysics, authority, and moral truth without being able to supply humane ends in their place.
+
+Benedict XVI's *[[Regensburg Address]]* gives the public-theological form. It argues that modern reason becomes dangerous when it restricts itself to the empirically verifiable and technically usable, leaving religion and ethics as private choices without shared rational standing.
+
+Etienne Gilson's [[Metaphysical Realism]] gives the philosophical root of the counter-claim. Reason is not saved by becoming weaker, but by returning to being rather than enclosing itself in method, system, or technical usefulness.
+
 In cyberpunk, this often appears as formalized control over mind or language. *[[Snow Crash]]* turns language into executable command, while *[[Psycho-Pass]]* turns moral judgment into quantified risk.
 
 In Tolkien, Saruman gives the motif a non-cybernetic form. His reason becomes policy, industry, breeding, and persuasive speech severed from wisdom.

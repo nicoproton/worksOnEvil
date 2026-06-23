@@ -30,3 +30,5 @@ Use this link when the harm comes through a rational form that is internally coh
 *[[Seeing Like a State]]* gives the administrative form. State maps, measures, names, surveys, forests, and planned settlements can make reality governable, but they become dangerous when the simplified image overrides local practical knowledge.
 
 *[[Architecture and the Crisis of Modern Science]]* gives the architectural-historical form. Geometry, measurement, mechanics, and representation become dangerous not because they are false, but because they can monopolize architectural truth and make symbolic, poetic, and dwelling-oriented knowledge appear illegitimate.
+
+Josef Pieper's *[[In Defense of Philosophy]]* is a philosophical counterpoint. It does not reject abstraction, but insists that method must not replace wisdom or the openness of reason to the whole of reality.

@@ -25,6 +25,12 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 
 [[Machine for Living]] names the architectural bridge into this motif. In *[[Toward an Architecture]]*, the house-machine appears before the full technical city; later modernist planning expands the same logic from dwelling to environment.
 
+Romano Guardini's *[[The End of the Modern World]]* and *[[Letters from Lake Como]]* give Catholic non-fiction diagnoses of this environmental shift. The modern person does not only use technical tools; he increasingly inhabits machine production, abstract planning, and technical forms as the conditions of ordinary life.
+
+Guardini's *[[Die Macht]]* sharpens the power question inside that environment. Once power is built into systems, infrastructure, and institutions, responsibility must also become more serious; otherwise the environment governs the person while appearing merely useful.
+
+Ivan Illich's *[[Tools for Conviviality]]* and *[[Energy and Equity]]* give the institutional-tool form. A tool becomes environmental when it crosses the threshold from aid to condition: ordinary action must now pass through the system the tool has built around itself.
+
 *[[The City of Tomorrow and Its Planning]]* gives the urban seed form: traffic, zoning, towers, hygiene, open space, and circulation are coordinated as the practical environment of modern life.
 
 *[[The New World (Hannes Meyer)]]* gives a Bauhaus-adjacent non-fiction seed form: modern life is described as an environment remade by machines, media, scientific thinking, standardized materials, housing processes, and collective design.

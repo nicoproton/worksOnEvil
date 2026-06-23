@@ -15,6 +15,8 @@ This differs from [[Simulated Reality]]. A mediated reality need not be a total 
 
 In literary form, mediation can happen before electronic media. [[Bovarysme]] names the case where novels, social images, fashions, and romantic scripts become the practical environment through which a person judges ordinary life.
 
+[[Semiotic Dislocation]] is the inward complement. Mediated reality describes the world of signs through which a person acts; semiotic dislocation describes the self's inability to be truthfully placed by those signs.
+
 ## Political Use
 
 Mediated reality becomes dangerous when the available pictures of the world are engineered, narrowed, or staged. The public may still feel informed while responding to an environment shaped by others.

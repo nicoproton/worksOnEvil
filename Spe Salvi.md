@@ -25,6 +25,10 @@ That starting point matters because the encyclical does not treat hope as decora
 
 This makes the note a positive counterpart to [[False Salvation Through Systems]]. False systems promise a future that will justify control. Christian hope is received as gift and lived through faith, love, prayer, suffering, judgment, and communion with God.
 
+Henri de Lubac's [[Supernatural End of Man]] gives a theological neighbor to this claim. Hope cannot be reduced to better structures or future progress because man is made for a destiny beyond immanent history.
+
+Etienne Gilson's [[Secularized City of God]] gives the historical-philosophical neighbor. Christian hope can be transformed into a worldly city or historical project, but that transformation asks history to do what only salvation can do.
+
 ## The Modern Substitution of Progress
 
 The encyclical's strongest graph connection is [[Progress as Secular Providence]]. Benedict argues that in modernity Christian hope is displaced into faith in progress. Science and practical power begin to promise a new world, a kingdom of man, and eventually a condition in which human beings will be liberated from dependency.

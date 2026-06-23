@@ -33,6 +33,8 @@ Morris is revolutionary, but his revolution is not Marinetti's destruction of me
 
 That gives the work a cautious relation to [[Progress as Secular Providence]]. Morris hopes for social transformation, but his imagination is restorative and craft-centered rather than technocratic.
 
+Josef Pieper's [[Leisure and Contemplation]] clarifies the limit of the work question. Morris rightly defends meaningful labor against industrial toil, while Pieper adds that culture cannot be grounded in work alone. Humane work must remain open to leisure, worship, and contemplation.
+
 ## Tolkienian Neighbor
 
 Morris is a useful neighbor to Tolkien because both resist industrial ugliness and value older forms of craft, story, and beauty. Morris is socialist and Tolkien Catholic-conservative in temperament, but both oppose the reduction of making to mechanical production.

@@ -22,3 +22,5 @@ Use more precise bridge concepts when possible. [[Public Opinion Engineering]] a
 [[Apolitical Culture as Soft Power]] applies when consent is formed less through mass persuasion than through cultural prestige: journals, exhibitions, foundations, conferences, writers, artists, and intellectuals whose apparent independence helps legitimate a political order.
 
 The classical form is [[Noble Lie]], where political myth stabilizes the city by shaping how citizens understand their own roles.
+
+Josef Pieper's *[[Abuse of Language, Abuse of Power]]* is not a public-relations manual, but it gives the moral limit behind this concept: persuasion becomes abusive when speech is ordered to control rather than to shared truth.

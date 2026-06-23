@@ -32,4 +32,8 @@ Use this link when:
 
 *[[Pascendi Dominici Gregis]]* gives the earlier modernist form: dogma becomes symbolic expression of religious consciousness under the law of evolution.
 
+Augusto Del Noce's *[[The Age of Secularization]]* is a cultural neighbor rather than an ecclesial case. Del Noce is not describing dogma directly; he is useful here because scientistic-progressive culture can make all stable truth claims seem historically obsolete, which is the same pressure that dogmatic relativism imports into theology.
+
+Joseph Ratzinger's *[[Truth and Tolerance]]* gives a broader cultural-theological counterpoint. If tolerance is built on the refusal to ask about truth, then doctrine and public reason are both pressured to become private preference.
+
 This bridge should not be used for every doctrinal clarification or every change of vocabulary. It applies where the stable truth of doctrine is weakened by making historical expression more authoritative than revelation itself.

@@ -82,6 +82,8 @@ This is one of the encyclical's strongest contrasts with ideological reform. Piu
 
 That gives the note a subtle place against [[Life Redesigned by Ideology]]. The answer to a sick political order is not a counter-myth that simply seizes the same instruments. It is fidelity to truth, Church, conscience, and God under pressure.
 
+This also makes the note a neighbor of [[Reform Without Rupture]]. Reform is real when it begins in sanctity and fidelity; ideological reform destroys because it replaces conversion with force, myth, and passion.
+
 ## Why It Matters Here
 
 *Mit Brennender Sorge* adds the race-state-idolatry branch to the encyclical map:

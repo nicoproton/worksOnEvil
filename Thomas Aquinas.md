@@ -45,6 +45,8 @@ This helps clarify [[Forced Human Completion]] and its bridge concepts. Systems 
 
 *[[Aeterni Patris]]* makes Aquinas a major Catholic counter-node for the modern graph. Leo XIII presents Thomas as the strongest guide for restoring Christian philosophy because his thought preserves the relation between faith and reason, distinguishes without separating nature and grace, and gives theology a stable metaphysical language.
 
+Etienne Gilson's [[Metaphysical Realism]] gives a twentieth-century scholarly development of this point. In *[[Being and Some Philosophers]]*, Gilson emphasizes the Thomistic priority of existence: created beings receive being and cannot be understood as self-grounding essences.
+
 That makes Aquinas especially useful against [[Theological Modernism]]. If revelation, doctrine, and dogma are to remain more than symbols of religious consciousness, the Church needs an account of truth, being, causality, and human reason strong enough to resist reduction into psychology, history, or adaptation to the age.
 
 *[[Fides et Ratio]]* later broadens this restoration through [[Reason Ordered to Truth]]. Aquinas matters because his thought shows that faith and reason can cooperate without either one swallowing the other.

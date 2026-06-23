@@ -19,4 +19,6 @@ In *[[We (Zamyatin)]]*, the One State defines perfection as the surgical absence
 
 *[[Backrooms]]* gives the spatial-horror form: office, showroom, corridor, carpet, light, and room remain recognizable after work, commerce, shelter, memory, and destination have vanished.
 
+Yves Congar's [[Reform Without Rupture]] gives an ecclesial counterpoint. When Church forms are weakened by dead custom, bureaucracy, or institutional self-protection, reform is needed; but true reform heals the living order rather than replacing it with an external ideology.
+
 This concept is close to [[Good Captured by Evil]], but the emphasis is different. Good Captured by Evil tracks a real good redirected toward a false end; Hollowed Order tracks a form that persists after its animating good has drained away.

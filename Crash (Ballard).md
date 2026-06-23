@@ -26,6 +26,8 @@ The crash is not only disaster. It becomes a wound that produces meaning, arousa
 
 This makes the novel a central case of [[Media-Flesh Fusion]]. The body is no longer imagined apart from the technical environment. It is rewritten by impact, metal, glass, speed, and image.
 
+The novel also belongs near [[Affluent Nihilism]]. The technological environment has already succeeded materially: cars, roads, airports, media, medicine, celebrity, and mobility surround ordinary life. Ballard's horror is that this prosperity does not humanize desire; it gives desire a colder technical grammar.
+
 ## Transgression Through Machinery
 
 The novel is also a severe case of [[Aestheticized Transgression]]. Forbiddenness is not romantic, aristocratic, or decadent in the older sense; it is technological. Transgression is staged through cars, wounds, photographs, reenactments, and the glamour of violent collision.

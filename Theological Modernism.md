@@ -29,9 +29,15 @@ Use this link when:
 
 *[[Providentissimus Deus]]* gives an earlier biblical-studies precursor. It is not yet the whole modernist system, but it identifies the danger of rationalist methods that treat Scripture as merely human because inspiration and divine action have been excluded in advance.
 
+Henri de Lubac's work on the [[Spiritual Sense of Scripture]] gives a constructive counter-form. Scripture is not protected by refusing history, but by reading history inside the fuller unity of revelation, Christ, Church, and final destiny.
+
+Yves Congar's [[Living Tradition]] gives another constructive boundary. Tradition is living transmission, not dead repetition; but it is also not the present age's authority to refashion revelation according to historical need.
+
 *[[Humani Generis]]* gives a later postwar form. Pius XII warns against newer philosophies, false eirenism, and [[Dogmatic Relativism]], where doctrine is re-expressed so radically through modern categories that stable revealed truth is weakened.
 
 *[[Fides et Ratio]]* gives a later positive answer through [[Reason Ordered to Truth]]. John Paul II does not treat revelation as religious consciousness or symbolic expression, but as God's gift to reason, which can know truth without reducing faith to human construction.
+
+Benedict XVI's *[[Regensburg Address]]* is useful for the dehellenization side of the problem. It warns that Christianity cannot be purified by stripping away the Logos, metaphysics, and reason-bearing language through which faith has understood itself.
 
 *[[Catechism of Positive Religion]]* is a neighboring but distinct case. Comte does not reinterpret Catholic doctrine from within. He openly rebuilds religious form around Humanity. The relation is therefore contrast rather than identity: positivism replaces, theological modernism redefines.
 

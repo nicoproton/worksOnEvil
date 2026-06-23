@@ -28,3 +28,11 @@ The Ring therefore helps connect Tolkien to the wider graph without forcing Midd
 Huysmans's *[[La Cathedrale]]* gives a non-Tolkien but compatible example of beauty received rather than used. Chartres is read as symbolic order, not as an apparatus for private power.
 
 Ruskin's *[[The Nature of Gothic]]* and Morris's *[[Useful Work versus Useless Toil]]* give craft-centered neighbors: art and work are good when they disclose, shape, and receive a meaningful world rather than turning making into domination. Marinetti's *[[The Futurist Manifesto]]* is a sharp contrast because it exalts machine rupture over recovery.
+
+Ratzinger's *[[The Spirit of the Liturgy]]* gives a liturgical neighbor. In worship, form is not meant to produce an effect by technique alone; it should open the person to received order, divine address, and adoration.
+
+Pieper's *[[Only the Lover Sings]]* gives a contemplative neighbor. Art sings because it loves and receives reality; it does not force reality into an effect.
+
+Maritain's *[[Art and Scholasticism]]* gives a Thomistic neighbor. Art is a real virtue of making, but good making still receives form, truth, and beauty rather than converting art into manipulation or self-display.
+
+Guardini's *[[Sacred Signs]]* gives the liturgical-symbolic neighbor. Sacred signs use matter, gesture, and space without turning them into instruments of control; they receive the created world as capable of blessing, offering, and worship.

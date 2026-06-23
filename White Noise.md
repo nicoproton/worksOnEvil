@@ -25,6 +25,8 @@ The novel's consumer world is not only satirical decoration. Shopping, brands, m
 
 This connects the book to [[Death Refused as Gift]]. The fear of death does not become mythic rebellion or technological immortality here; it becomes ambient anxiety seeking relief through pharmaceuticals, expertise, and consumption.
 
+The book is therefore a quieter case of [[Affluent Nihilism]]. Its world is not openly tyrannical or apocalyptic. Its emptiness is ordinary: supermarket brightness, academic performance, television fragments, medication, and family routines that manage dread without answering it.
+
 ## Chemical Comfort
 
 The Dylar plot gives the death-anxiety theme a sharper form: a drug promises relief not by answering death but by altering the fear of it.

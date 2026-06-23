@@ -48,6 +48,10 @@ This is why [[Art Into Life]] matters. Once art enters life, the artwork is no l
 
 [[Machine for Living]] is the chief architectural expression of this bridge. Dwelling becomes a problem to be solved by equipment, standardization, hygiene, light, air, traffic, and expert coordination.
 
+Romano Guardini's *[[Letters from Lake Como]]* gives this bridge a Catholic cultural witness. Guardini watches technical forms enter landscape and dwelling, asking how roads, machines, buildings, and modern construction alter man's ability to receive place rather than only use it.
+
+Guardini's *[[Sacred Signs]]* gives the smaller liturgical counter-form. Sacred space, threshold, water, flame, altar, gesture, and silence show how place can become more meaningful through symbol rather than being flattened into technical environment.
+
 [[High-Modernist Planning]] gives the urban form. Streets, neighborhoods, and historical fabric can be treated as obstacles to legibility. The living city is replaced by zones, diagrams, towers, open ground, traffic systems, and administrative order.
 
 *[[Bauhaus Manifesto and Program]]* gives the pedagogical form. The school does not merely produce objects. It forms designers who will remake objects, rooms, buildings, media, and eventually ordinary life.
@@ -69,6 +73,8 @@ That portability is not neutral. It can free architecture from local tyranny or 
 *[[Architecture and the Crisis of Modern Science]]* gives the deeper genealogy: architecture becomes vulnerable to this substitution when symbolic, poetic, and cosmological meaning are displaced by technical representation and scientific reduction.
 
 *[[The Aesthetics of Architecture]]* and *[[The Classical Vernacular]]* defend the opposite claim: architecture must address persons as embodied, judging, remembering inhabitants, not only as users of designed equipment.
+
+Ratzinger's *[[The Spirit of the Liturgy]]* gives a liturgical boundary case. Sacred space is certainly formed, but it is not meant to replace received order with designed environment. Direction, altar, image, and music should disclose worship rather than turn the community back upon its own self-production.
 
 ## Why It Belongs Here
 

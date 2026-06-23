@@ -42,6 +42,10 @@ For this graph, that matters because many destructive systems do not begin by op
 
 That is why Thomism here is not only a doctrine about medieval schools. It is a defense against fragmentation. Thomas gives the Church a way to keep reason from dissolving into disconnected opinions and to keep faith from being reduced to feeling, symbol, or historical adaptation.
 
+Etienne Gilson's [[Christian Philosophy]] gives the later scholarly form of this restoration. In works such as *[[The Spirit of Medieval Philosophy]]*, Gilson argues that Christian revelation can aid reason without abolishing philosophy.
+
+Gilson's [[Metaphysical Realism]] gives the metaphysical point behind Leo's restoration. The recovery of Thomas is not only a recovery of old vocabulary; it is a recovery of being as the measure of thought.
+
 ## Old Wisdom and New Discoveries
 
 Leo does not say that later learning should be ignored. He warns against novelty that builds a new edifice by rejecting the inherited patrimony, but he also allows real discoveries, useful erudition, and careful development.

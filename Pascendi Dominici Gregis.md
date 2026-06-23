@@ -71,6 +71,8 @@ This gives the encyclical a careful but real relation to [[Life Redesigned by Id
 
 The connection should stay precise. Pius is not talking about urban planning or industrial design. The shared pattern is the larger one: total reform justified by a new theory of reality.
 
+Yves Congar's [[Reform Without Rupture]] gives the needed boundary on the other side. Not every reform is modernism. Reform becomes false when the age, method, or ideology judges revelation instead of serving the Church's received truth.
+
 ## Thomistic Countermeasure
 
 Pius does not answer modernism only by condemnation. He also prescribes intellectual and institutional remedies. Bishops are told to watch publications, seminaries, and teaching. Most importantly, he insists on the restoration of scholastic philosophy, especially St. Thomas Aquinas.

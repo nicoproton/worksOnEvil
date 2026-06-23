@@ -30,4 +30,6 @@ Use this link when:
 
 [[Atheistic Communism]] is also a neighbor when class and revolution take on false-messianic force. The distinction is useful: atheistic communism denies God through materialist class redemption; political idolatry may keep religious language while bending it around nation, blood, state, or leader.
 
+Christopher Dawson's *[[The Gods of Revolution]]* gives the cultural-history form. Revolution can generate substitute gods, where reason, humanity, nation, class, or history receives sacred loyalty and demands sacrifice.
+
 This bridge should not be used for every patriotic, civic, or communal work. It belongs where a relative political good is given absolute, sacred, or salvific weight.

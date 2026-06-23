@@ -43,6 +43,8 @@ The Knights of the Eastern Calculus give the series its conspiratorial layer. Th
 
 Their manipulation of Lain's image matters because the Wired is not only infrastructure. It is a space where belief, rumor, and attention can modify what a person appears to be. The Knights help produce "Lain" as an object of fascination before Lain herself can determine what her name means.
 
+This gives the series a relation to [[Semiotic Dislocation]]. Lain is surrounded by messages, names, rumors, doubles, and network identities, but those signs do not simply reveal who she is. They help produce a crisis over whether the name "Lain" belongs to a girl, a social image, a protocol, or a god-function.
+
 ## Lain's Doubles and Divided Self
 
 Lain's identity fragments across school, home, clubs, rumors, and the Wired. Multiple Lains seem to exist, each produced by different perceptions and systems of relation.

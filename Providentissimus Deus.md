@@ -58,6 +58,8 @@ That is one reason this note belongs beside [[Aeterni Patris]]. Both encyclicals
 
 *[[Humani Generis]]* later returns to the same problem around Genesis, human origins, and historical method. The continuity is not anti-scholarship; it is the insistence that inspired Scripture cannot be studied as if inspiration were already impossible.
 
+Henri de Lubac's *[[Medieval Exegesis]]* gives a later Catholic scholarly neighbor through [[Spiritual Sense of Scripture]]. It does not replace Leo's doctrinal boundary, but it shows the positive richness of interpretation once Scripture is received as inspired.
+
 ## A Prehistory of Pascendi
 
 *Providentissimus Deus* predates *[[Pascendi Dominici Gregis]]* by fourteen years, but it anticipates one major part of Pius X's later diagnosis. In *Pascendi*, historical and biblical criticism become roles inside a broader modernist system. In *Providentissimus*, the same danger appears more narrowly as an attack on Scripture.

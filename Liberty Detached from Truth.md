@@ -32,4 +32,10 @@ Use this link when:
 
 [[Libertine Rationalism]] is the moral and anti-Christian form. In Sade and related libertine works, appetite and domination are argued into the shape of philosophy, nature, and liberation.
 
+Augusto Del Noce's *[[The Crisis of Modernity]]* gives the modern philosophical form. He distinguishes authority from mere power: when authority is dismissed as repression, liberty can become dependence on social pressure, appetite, technical systems, and powers that no longer need to call themselves authorities.
+
+Joseph Ratzinger's *[[Truth and Tolerance]]* gives the pluralist-cultural form. Tolerance remains a real good, but becomes unstable when it depends on pretending that truth claims are merely private preferences with no public significance.
+
+Jacques Maritain's *[[Education at the Crossroads]]* gives a personalist educational contrast. Freedom is not produced by leaving the will undefined; it grows through formation in truth, discipline, and the good of the person.
+
 This bridge should not be used for every work that values freedom. It belongs where the text itself shows freedom being severed from truth, order, responsibility, or the good of the person.

@@ -22,6 +22,12 @@ Use this link for:
 
 *[[Practical Idealism]]* gives an interwar elite-forming form. Coudenhove-Kalergi gives special weight to school and press as institutions that shape the child and adult, and his new spiritual aristocracy depends on forming the public soul rather than merely passing new laws.
 
+Ivan Illich's *[[Deschooling Society]]* gives a critical institutional counterpoint. Schooling forms people not only through curriculum, but through credentials, attendance, age-grading, expert authority, and the belief that learning must pass through an institution to count.
+
+Christopher Dawson's *[[The Crisis of Western Education]]* gives the Catholic-cultural counterpoint. Education should transmit a living spiritual culture and form the mind toward truth, not merely credential, train, or adapt persons to the existing technical order.
+
+Jacques Maritain's *[[Education at the Crossroads]]* gives the Catholic-personalist counterpoint. Education should form the whole person toward truth, freedom, and moral life, not merely adapt the student to society, production, or state purpose.
+
 [[Secular State Supremacy]] gives a Catholic political-theological warning about the same field. In the *[[Syllabus of Errors]]*, education becomes dangerous when it is placed wholly under civil authority and separated from the Church's claim to form conscience under supernatural truth.
 
 [[Christian Civil Order]] gives the positive counterpart. In *[[Immortale Dei]]*, the education of children belongs to a moral and religious order that civil power must respect rather than invent.

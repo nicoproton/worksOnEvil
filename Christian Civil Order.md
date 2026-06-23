@@ -36,4 +36,16 @@ Use this link when:
 
 [[Thomas Aquinas]] is conceptually important because the bridge depends on natural law, ordered ends, the common good, and reason as a servant of truth rather than power. The link should remain conceptual rather than a claim that every Catholic political document is simply Thomism.
 
+Joseph Ratzinger's *[[Truth and Tolerance]]* gives a modern cultural-theological neighbor. It does not lay out a political constitution, but it explains why public order becomes unstable when religion is tolerated only by being reduced to private preference.
+
+Christopher Dawson's *[[Religion and Culture]]* gives the cultural-history neighbor. Civil order is not sustained by law alone; a culture's religious form shapes the imagination through which law, authority, education, and common life remain intelligible.
+
+Jacques Maritain's *[[The Person and the Common Good]]* gives the personalist neighbor. The political community is real and ordered to the common good, but the person is not a mere part to be consumed by state, class, market, or collective purpose.
+
+Henri de Lubac's [[Ecclesial Communion]] clarifies a boundary. Catholic sociality is not exhausted by civil society: the Church gathers persons by supernatural communion, not by political administration.
+
+Etienne Gilson's [[Secularized City of God]] clarifies another boundary. Civil order may be Christianly judged and morally ordered, but no earthly regime should be identified with the City of God or treated as the final form of salvation.
+
+Yves Congar's [[Lay Vocation]] clarifies the lay side of public life. Christian action in civil society belongs especially to lay responsibility in family, work, culture, politics, and charity; this is not the same as clerical administration of the state.
+
 This bridge should not be used for every conservative or anti-revolutionary text. It belongs where civil order is explicitly judged by divine and natural law rather than by technique, history, will, utility, or administrative power alone.

@@ -19,6 +19,8 @@ Eric's limousine is office, bunker, screen-room, status object, and moving cell.
 
 This makes the novel a sharp case of [[Aesthetic Self-Enclosure]] in a late technical-financial form. The self is enclosed not by decadent rooms or consumer style alone, but by mobility, wealth, data, and insulation.
 
+It also belongs to [[Affluent Nihilism]]. Eric's wealth does not open a richer world. It converts the world into screens, risk, appetite, sealed motion, and eventually a desire to meet the limits his system cannot master.
+
 ## Markets as Mediated Reality
 
 Eric's world is made of screens, flows, risk, currency, abstraction, and prediction. The market becomes more real to him than the embodied city outside the glass.

@@ -25,6 +25,8 @@ Use this link when:
 
 *[[Toward an Architecture]]* is the key opening work for this bridge. It gives the house-machine its manifesto form, joining machine-age beauty, mass production, standardization, proportion, and reformist urgency.
 
+Romano Guardini's *[[Letters from Lake Como]]* is a Catholic critique-neighbor rather than an example. It helps explain why translating dwelling into technical arrangement changes not only buildings, but man's relation to place, nature, and reception.
+
 Ozenfant and Le Corbusier's *[[Apres le Cubisme]]* and the journal *[[L'Esprit Nouveau]]* give the Purist art-theory background to this machine-age architecture: standard objects, clear forms, disciplined order, and modern visual culture become part of the same project.
 
 Banham's *[[Theory and Design in the First Machine Age]]* is the critical genealogy of this machine-age language. It helps show that the machine in modern architecture is not only a tool, but also a myth, image, discipline, and source of authority.

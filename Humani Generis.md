@@ -57,6 +57,8 @@ This extends [[Revelation Under Critical Reduction]]. The problem is not studyin
 
 The encyclical therefore belongs beside *[[Providentissimus Deus]]*. Leo XIII defended Scripture from rationalist reduction. Pius XII extends the issue to a broader theological method: sources, exegesis, and history must be used inside the Church's authority, not against it.
 
+That places the encyclical near [[Living Tradition]]. Return to the sources is good when it renews the Church's reception of revelation; it becomes dangerous when the sources are used to dissolve doctrine or oppose the living magisterium.
+
 ## Scholastic Philosophy Again
 
 Like *[[Aeterni Patris]]*, *Humani Generis* returns to the importance of philosophy, especially the principles associated with Aquinas: causality, finality, stable truth, the mind's ability to know reality, and the value of metaphysical reasoning.

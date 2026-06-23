@@ -23,4 +23,6 @@ Use this link when a work argues that global coordination requires the formation
 
 Wagner's *[[The Artwork of the Future]]* gives an aesthetic form: shared consciousness is to be shaped through total art, myth, music, body, and communal participation rather than through policy alone.
 
+Christopher Dawson's *[[The Movement of World Revolution]]* gives the revolutionary-cultural form. World revolution requires not only political seizure, but the formation of new loyalties, myths, histories, and international consciousness.
+
 This bridge should be used cautiously. It does not mean that every appeal to global cooperation is manipulative. It marks the graph's recurring question: when does necessary coordination become managed consciousness?

@@ -9,6 +9,7 @@ tags:
   - FaithReason
   - Nonfiction
   - DogmaticConstitution
+  - Work
 ---
 
 # Dei Filius
@@ -38,6 +39,8 @@ The constitution receives revelation as contained in Scripture and unwritten tra
 This gives *Dei Filius* a strong upstream relation to [[Revelation Under Critical Reduction]]. Later rationalist or modernist methods can treat Scripture as myth, religious psychology, literature, or historical development only after inspiration and divine authorship have been excluded.
 
 The constitution does not reject interpretation, but it places interpretation inside the Church's judgment. Scripture belongs to a living doctrinal order, not to private ingenuity or a critical method that has already ruled out revelation.
+
+This also makes the constitution an upstream anchor for [[Living Tradition]]. Tradition is not merely accumulated custom; it is part of the divine deposit received from Christ and the apostles.
 
 ## Faith as Obedient Assent
 

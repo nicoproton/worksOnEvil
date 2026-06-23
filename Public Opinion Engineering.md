@@ -23,4 +23,6 @@ Use this link when the emphasis falls on technique: how opinion is studied, stag
 
 This bridge differs from [[Language as Control System]]. Language control concerns symbolic structures that directly govern thought or behavior; public opinion engineering concerns the organized environment in which opinion forms.
 
+Josef Pieper's *[[Abuse of Language, Abuse of Power]]* belongs beside this distinction as a moral-philosophical warning. Public opinion may be studied and addressed legitimately, but it becomes abusive when public language treats listeners as objects to be moved rather than persons capable of truth.
+
 [[Apolitical Culture as Soft Power]] is a higher cultural neighbor rather than a synonym. Public opinion engineering emphasizes mass persuasion and mediated attitudes. Apolitical culture as soft power emphasizes elite prestige, journals, conferences, foundations, art, literature, and the political usefulness of apparent independence.

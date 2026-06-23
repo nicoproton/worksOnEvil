@@ -26,8 +26,14 @@ Use this link when:
 
 *[[Providentissimus Deus]]* gives the biblical-studies form. Leo XIII encourages serious Scripture study, languages, manuscripts, interpretation, and learned defense, but rejects rationalist methods that deny revelation, inspiration, miracle, and prophecy.
 
+Henri de Lubac's work on the [[Spiritual Sense of Scripture]] gives the richer constructive answer. Scripture has a literal and historical sense, but divine authorship opens meaning beyond reduction to human religious development.
+
+Yves Congar's [[Living Tradition]] gives an ecclesial complement. Revelation is not protected by isolating texts from the Church's living transmission, nor by reducing that transmission to historical self-expression.
+
 *[[Pascendi Dominici Gregis]]* gives the later theological-modernist form. Pius X treats the reduction of Scripture and Church history as one part of a larger system in which revelation is relocated into consciousness, symbol, and historical development.
 
 *[[Humani Generis]]* gives a further postwar form, especially in its treatment of Genesis, human origins, and historical method. Pius XII allows careful study while refusing to reduce inspired history to mere myth or private scholarly reconstruction.
+
+Joseph Ratzinger's *[[Introduction to Christianity]]* gives a constructive theological neighbor. It speaks to modern doubt and historical consciousness without reducing the Creed to psychology, moral symbol, or merely human religious development.
 
 This bridge should be used carefully. It does not apply whenever a work uses history or criticism. It applies when criticism becomes reductive because its governing assumptions make revelation impossible from the start.

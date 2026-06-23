@@ -27,4 +27,10 @@ Courbet's *[[The Realist Manifesto (Courbet)]]*, Ruskin's *[[The Nature of Gothi
 
 *[[The Timeless Way of Building]]* gives the deeper architectural theory behind that constructive version. Living places arise from patterns of use, bodily presence, local adaptation, and participation rather than from imposed abstract form.
 
+Ratzinger's *[[The Spirit of the Liturgy]]* gives the liturgical version. Worship is not only inward belief or verbal meaning; it forms bodies through direction, posture, music, image, time, and shared prayer.
+
+Romano Guardini's *[[The Spirit of the Liturgy (Guardini)]]* and *[[Sacred Signs]]* give the earlier liturgical-symbolic form. Kneeling, standing, walking, crossing oneself, receiving water, seeing light, and entering sacred space are not decorative actions; they are bodily ways of learning relation to God and the world.
+
+Henri de Lubac's *[[Corpus Mysticum]]* gives the Eucharistic-ecclesial form through [[Ecclesial Communion]]. Communion is not merely idea, sentiment, or administration; it is sacramental, bodily, and ecclesial.
+
 Use [[Encounter vs Manipulation]] when the emphasis is not only bodily presence but the moral stance toward persons: meeting them as persons rather than processing them as material.

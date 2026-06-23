@@ -29,4 +29,12 @@ Use this link when:
 
 *[[Spe Salvi]]* gives a later theological reading of Marx's error. Benedict XVI argues that Marx turns hope toward politics and scientifically conceived revolution, but forgets that man remains free, that freedom remains open to evil, and that man cannot be redeemed merely by changing external conditions.
 
+Henri de Lubac's *[[The Drama of Atheist Humanism]]* gives the wider philosophical genealogy. Marx appears as one form of anti-theistic humanism: man is supposed to recover himself by removing God, but the result is a materialist history in which the person is absorbed into class, production, and revolutionary process.
+
+Augusto Del Noce's *[[The Age of Secularization]]* gives the afterlife of the problem. He is especially useful when communism's political form has weakened, but its negations of transcendence, permanent truth, and inherited moral order pass into a prosperous secular culture.
+
+Christopher Dawson's *[[The Movement of World Revolution]]* gives the cultural-historical form. Communism appears as a world movement with its own sacred history, discipline, education, and promised future, not merely as a national party program.
+
+Jacques Maritain's [[Personalist Common Good]] gives a social-philosophical counterpoint. The person is social and ordered to the common good, but cannot be absorbed into class, production, or collective history.
+
 This concept should not be used for every work that criticizes capitalism, defends labor, imagines communal life, or uses socialist language. It belongs where the system is explicitly materialist, anti-religious, collectivist, and total in its claim over human life.
