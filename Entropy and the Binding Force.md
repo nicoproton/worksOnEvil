@@ -11,7 +11,7 @@ The "binding force" is the counter-image: love, faith, attention, shared practic
 
 Use this link when a work contrasts decay with forms of relation that preserve life across time.
 
-Use more precise bridge concepts when possible. [[Fragile Counter-Community]] applies when a small fellowship, household, remnant, recovery group, or resistance community holds persons together. [[Memory Against Dissolution]] applies when remembrance, tradition, testimony, or preservation carries life across collapse. [[Embodied Relation]] applies when bodily vulnerability and creaturely presence resist abstraction or disembodiment. [[World Wound and Long Decline]] applies when entropy is built into the history, world, bloodline, ecology, or cosmic order of the work.
+Use more precise bridge concepts when possible. [[Fragile Counter-Community]] applies when a small fellowship, household, remnant, recovery group, or resistance community holds persons together. [[Associational Life]] applies when ordinary civic institutions, voluntary groups, clubs, churches, unions, or neighborhood practices maintain public trust. [[Memory Against Dissolution]] applies when remembrance, tradition, testimony, or preservation carries life across collapse. [[Embodied Relation]] applies when bodily vulnerability and creaturely presence resist abstraction or disembodiment. [[World Wound and Long Decline]] applies when entropy is built into the history, world, bloodline, ecology, or cosmic order of the work.
 
 Some works frame continuity through [[Reincarnation and Cycles]], where life resists finality through return, rebirth, or transformation rather than institutional preservation.
 

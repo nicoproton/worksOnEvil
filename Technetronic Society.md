@@ -19,4 +19,4 @@ The concept is useful for distinguishing older machine dystopias from cyberpunk 
 
 This makes it a bridge between [[Technological Dystopia]], *[[The Third Wave]]*, and cyberpunk works such as *[[Ghost in the Shell]]*, *[[Psycho-Pass]]*, and *[[Snow Crash]]*.
 
-*[[The Shockwave Rider]]* is a strong fictional form of this bridge because data systems, social forecasting, records, and networked identity become the environment of power.
+*[[Stand on Zanzibar]]* is an earlier broad fictional form: overpopulation, media fragments, corporate planning, genetic policy, and information processing make society feel too large and mediated for ordinary human scale. *[[The Shockwave Rider]]* narrows that anxiety into data systems, social forecasting, records, and networked identity.

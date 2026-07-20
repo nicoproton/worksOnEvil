@@ -13,4 +13,6 @@ Use this link when crisis is not merely background danger, but the mechanism by 
 
 In *[[Deus Ex]]*, the Gray Death crisis lets cure, fear, counter-terrorism, and information control converge. In *[[The Penultimate Truth]]*, the image of ongoing war keeps underground workers enclosed and obedient after the surface crisis has become a managed lie. In *[[The First Global Revolution]]*, global crisis becomes the language through which integrated governance and world consciousness are proposed. In *[[The Impact of Science on Society]]*, scientific catastrophe makes larger systems of control appear necessary.
 
+*[[Battle Royale]]* gives the motif a youth-control form: social fear becomes the excuse for a state ritual in which students are isolated, weaponized, and made to demonstrate the collapse of trust under official rules.
+
 This concept should be used carefully for non-fiction. A text can diagnose real crises without being a villain plan. The graph question is whether the response to crisis tends to make human beings more governable than free.

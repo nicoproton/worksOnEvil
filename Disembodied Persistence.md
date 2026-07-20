@@ -18,4 +18,10 @@ Use this link for:
 
 *[[Serial Experiments Lain]]* begins with a dead girl claiming to survive in the Wired, then expands that claim into a whole metaphysics of networked selfhood. *[[Ghost in the Shell]]* reverses simple persistence: Project 2501 wants reproduction, variation, and mortality because endless copyability is not enough to be alive.
 
+*[[Permutation City]]* gives the computational form: uploaded Copies press the question of whether consciousness can persist as executable process rather than embodied life.
+
+*[[Kaiba]]* gives the memory-transfer form. The series imagines persistence through stored memory, but its tragedy depends on the instability of survival once body, memory, and relation can be separated.
+
+*[[Pulse (Kairo)]]* gives the ghost-network form. Presence after death becomes terrifying because it persists as loneliness rather than communion.
+
 The concept is related to [[Networked Divinity]] when disembodied persistence becomes a claim to divinity, and to [[Embodied Relation]] when the work resists escape from bodily limitation.

@@ -20,4 +20,8 @@ Prefer sharper bridge concepts when the local pattern is clear:
 - Use [[Predatory Immortality]] when immortality is sustained by consuming the life of others.
 - Use [[False Apotheosis]] when selected humans are promised post-organic, godlike, or elite survival but the hidden end is possession, sterility, replacement, or disposal.
 
+*[[Permutation City]]* is a major case for [[Disembodied Persistence]]: immortality appears as the possibility of running the self as information, with all the metaphysical and moral instability that follows.
+
+*[[Kaiba]]* gives a class-stratified memory form: the wealthy can preserve and transfer themselves while poorer bodies and memories become vulnerable to purchase, theft, and disposal.
+
 Keep direct links to this note for broad concept notes, contrasts, or works where the false promise of defeating death is the central issue and no narrower bridge carries the relation cleanly.

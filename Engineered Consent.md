@@ -19,4 +19,8 @@ Use this link when persuasion is organized through symbols, media, group identit
 
 Use more precise bridge concepts when possible. [[Public Opinion Engineering]] applies when consent is produced through media, public relations, stereotypes, experts, staged events, and symbolic framing. [[World-Consciousness Formation]] applies when consent is aimed at planetary identity, world citizenship, global governance, or crisis-based unity.
 
+[[Apolitical Culture as Soft Power]] applies when consent is formed less through mass persuasion than through cultural prestige: journals, exhibitions, foundations, conferences, writers, artists, and intellectuals whose apparent independence helps legitimate a political order.
+
 The classical form is [[Noble Lie]], where political myth stabilizes the city by shaping how citizens understand their own roles.
+
+Josef Pieper's *[[Abuse of Language, Abuse of Power]]* is not a public-relations manual, but it gives the moral limit behind this concept: persuasion becomes abusive when speech is ordered to control rather than to shared truth.

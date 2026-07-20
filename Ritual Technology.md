@@ -18,4 +18,6 @@ Use this link for:
 
 *[[Neon Genesis Evangelion]]* is a central case because the Evangelions are technological, biological, maternal, and sacred at once. *[[Xenogears]]* uses machinery, ritual, prophecy, and false religion around Deus. *[[Revival (Stephen King)]]* turns electrical experiment into contact with a forbidden beyond. *[[That Hideous Strength]]* uses technical preservation and institutional science as a threshold through which fallen powers speak.
 
+*[[eXistenZ]]* gives a secular media version: the organic game pod is a technical apparatus that opens a bodily threshold into a shared reality-system.
+
 If the deeper power is explicitly infernal and commands a respectable front, [[Demonic Conspiracy]] should remain the sharper bridge. If the central figure is an inventor-magician, use [[Sorcerer-Scientist]].

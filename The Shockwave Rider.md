@@ -14,7 +14,7 @@ tags:
 
 ## Before Cyberpunk, After Bureaucracy
 
-The novel appears before the classic cyberpunk wave, but it already imagines a society in which computers, databases, surveillance, forecasting, and social mobility reshape personal identity. Its world is not simply ruled by machines; it is ruled through information.
+The novel appears before the classic cyberpunk wave, but it already imagines a society in which computers, databases, surveillance, forecasting, and social mobility reshape personal identity. It narrows and intensifies the information-age anxiety Brunner had already built on a larger social scale in *[[Stand on Zanzibar]]*. Its world is not simply ruled by machines; it is ruled through information.
 
 The protagonist, Nick Haflinger, is valuable because he understands the networked order from inside. He can move through aliases, records, and systems, which makes him both a product of the system and a threat to it.
 

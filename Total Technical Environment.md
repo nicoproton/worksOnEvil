@@ -20,3 +20,19 @@ Use this link when a work's dystopia is environmental rather than merely instrum
 *[[We (Zamyatin)]]* gives the motif a rationalist and political form: glass architecture, synchronized time, and mathematical order make the state visible in the shape of everyday life.
 
 *[[Metropolis (Novel)]]* is a symbolic-industrial case. The city is not just a backdrop for class conflict; it is a machine-age spiritual architecture built as a modern Babel.
+
+*[[High-Rise]]* gives the architectural-social form: a luxury tower becomes a complete habitat whose technical and class structures produce a closed environment of status, conflict, and regression.
+
+[[Machine for Living]] names the architectural bridge into this motif. In *[[Toward an Architecture]]*, the house-machine appears before the full technical city; later modernist planning expands the same logic from dwelling to environment.
+
+Romano Guardini's *[[The End of the Modern World]]* and *[[Letters from Lake Como]]* give Catholic non-fiction diagnoses of this environmental shift. The modern person does not only use technical tools; he increasingly inhabits machine production, abstract planning, and technical forms as the conditions of ordinary life.
+
+Guardini's *[[Die Macht]]* sharpens the power question inside that environment. Once power is built into systems, infrastructure, and institutions, responsibility must also become more serious; otherwise the environment governs the person while appearing merely useful.
+
+Ivan Illich's *[[Tools for Conviviality]]* and *[[Energy and Equity]]* give the institutional-tool form. A tool becomes environmental when it crosses the threshold from aid to condition: ordinary action must now pass through the system the tool has built around itself.
+
+*[[The City of Tomorrow and Its Planning]]* gives the urban seed form: traffic, zoning, towers, hygiene, open space, and circulation are coordinated as the practical environment of modern life.
+
+*[[The New World (Hannes Meyer)]]* gives a Bauhaus-adjacent non-fiction seed form: modern life is described as an environment remade by machines, media, scientific thinking, standardized materials, housing processes, and collective design.
+
+*[[Cyberpunk 2020]]* is a looser but useful game-world case. Night City, cyberware, networks, corporate zones, media, weapons, and street economies form the environment before any single story begins.

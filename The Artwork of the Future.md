@@ -33,6 +33,8 @@ The essay is useful beside Tolkien's [[Sub-Creation]] by contrast. Both Wagner a
 
 That does not make Wagner simply manipulative. It makes him important for the graph's recurring question: when does making a world become a way of forming the persons who enter it?
 
+*[[Bauhaus Manifesto and Program]]* gives a later architectural and pedagogical version of the total-art impulse. The arts are to be reunited around building, not around music drama, and the school becomes the workshop where that unity is trained.
+
 ## Why It Belongs Here
 
 *The Artwork of the Future* belongs because it shows how revolution, myth, body, and art can become one project. It is not technocratic, but it anticipates later anxieties about total environments that shape feeling and identity.

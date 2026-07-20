@@ -15,6 +15,8 @@ Use more precise bridge concepts when possible. [[False Cure]] applies when heal
 
 Use [[Sterile Scientific Salvation]] when science, AI, medicine, weapons research, or expert reconstruction claims to save humanity after catastrophe while treating persons as experimental, genetic, military, or administrative material.
 
+Use [[Institutional Counterproductivity]] when the danger is more ordinary: the institution created to serve a good begins to damage that good by monopolizing it. This is especially useful for education, medicine, transport, and welfare systems that produce dependency under the language of service.
+
 *[[The Penultimate Truth]]* gives the bunker form of this motif: shelter and wartime duty preserve an enclosed population only by keeping it inside a managed lie.
 
 Augustine of Hippo helps frame why these systems are seductive: they often promise real goods, but disorder love by making peace, unity, power, knowledge, or survival ultimate in the wrong way.
@@ -32,5 +34,23 @@ The non-fiction technocratic branch often appears through [[Managed Crisis]] and
 *The First Global Revolution* gives [[Managed Crisis]] a global-governance form: real planetary crises are framed as requiring integrated solutions, but those solutions can drift toward managed consent and expert coordination.
 
 H. G. Wells's [[Scientific World State]] gives the motif its utopian-planning form, while Julian Huxley's [[Evolutionary Humanism]] gives it an evolutionary-human-development form.
+
+[[Atheistic Communism]] gives the Catholic political-theological form. In *[[Divini Redemptoris]]*, communism promises earthly justice and a classless future while denying God, the soul, family, property, and the person's supernatural end.
+
+*[[Veritatis Splendor]]* gives a moral-theological limit on all false salvation: a good end cannot make an evil act good. Systems that promise redemption by sacrificing moral truth already falsify the salvation they offer.
+
+*[[Spe Salvi]]* gives the theological limit: structures, science, and politics can help human life, but they cannot redeem man from outside. A system that promises a definitive earthly salvation is already asking structures to do what belongs to truth, freedom, love, grace, and God.
+
+Henri de Lubac's *[[The Drama of Atheist Humanism]]* gives the humanist replacement form. When Feuerbach, Marx, Nietzsche, or Comte seek to exalt man by removing God, de Lubac argues that the promised liberation tends to diminish man rather than save him.
+
+De Lubac's theology points toward [[Supernatural End of Man]] as the deeper reason. Systems can improve, organize, heal, or pacify, but they cannot fulfill man if they close him inside nature, history, politics, or technique.
+
+Augusto Del Noce's *[[The Problem of Atheism]]* gives a philosophical root for many false-salvation systems: if the fallen condition is denied, evil can be reinterpreted as ignorance, repression, bad institutions, or technical backwardness, and redemption becomes something to be produced by education, revolution, therapy, or planning.
+
+Jacques Maritain's *[[Integral Humanism]]* gives a Catholic political-philosophical counterpoint. A humanism that excludes man's spiritual end can become anti-human precisely while speaking in the name of man.
+
+Etienne Gilson's [[Secularized City of God]] gives the historical form of the same danger. The system becomes false salvation when the heavenly city is translated into an earthly program that claims final meaning for history.
+
+Architectural modernism enters through [[Machine for Living]] and [[High-Modernist Planning]]. *[[The City of Tomorrow and Its Planning]]* promises health, light, air, order, and efficient circulation, while *[[Plan Voisin]]* shows how that promise can become spatial purification through demolition and reconstruction.
 
 Ancient and early-modern utopias complicate the pattern. *The Republic*, *The City of the Sun*, and *New Atlantis* are not simple dystopias, but each shows how order, knowledge, myth, reproduction, and scientific institutions can become total designs for human life.

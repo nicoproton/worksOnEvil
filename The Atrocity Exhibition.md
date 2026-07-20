@@ -43,4 +43,4 @@ That makes the book useful beside *[[Gravity's Rainbow]]*. Both works explore mo
 
 ## Why It Belongs Here
 
-*The Atrocity Exhibition* belongs because it follows the strange destination of modern technique into the psyche. It is not a vault story, but it helps explain the world in which bodies, images, war, and research become one system of distortion.
+*The Atrocity Exhibition* belongs because it follows the strange destination of modern technique into the psyche. It is not a vault story, but it helps explain the world in which bodies, images, war, and research become one system of distortion. Its sharper descendants in this graph include *[[Crash (Ballard)]]*, where the automobile accident becomes the privileged scene of technological desire, and *[[Videodrome]]*, where the screen enters the body.

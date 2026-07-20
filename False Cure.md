@@ -13,4 +13,8 @@ Use this link when cure, treatment, preservation, purification, or therapeutic o
 
 In *[[Deus Ex]]*, Ambrosia answers the Gray Death while turning access to treatment into political leverage. In *[[Terranigma]]*, Beruga's healing science becomes false cure when it turns from medicine toward selection, frozen survival, and an unchanging world. In *[[Fallout]]*, the Master's Unity claims to cure postwar human weakness through forced mutation. In *[[Brave New World]]*, soma removes anguish by removing depth. In *[[We (Zamyatin)]]*, the Great Operation cures imagination by cutting away inward freedom. *[[Artificial Paradises]]* gives an earlier inward form: intoxication offers false ascent from spleen without healing the soul.
 
+Walker Percy's Tom More novels give Catholic comic and dystopian forms. *[[Love in the Ruins]]* makes the soul-like self an object of diagnosis through the Ontological Lapsometer, while *[[The Thanatos Syndrome]]* turns therapeutic population management into chemical reduction and exclusion.
+
+Ivan Illich's *[[Medical Nemesis]]* gives the non-fiction institutional form. Medicine becomes false cure when health is increasingly identified with professional intervention and the patient loses ordinary, familial, spiritual, and cultural capacities for bearing sickness, pain, aging, and death.
+
 This concept overlaps with [[Artificial Immortality]] when the cure is survival from death, with [[Engineered Happiness]] when the cure is pleasure or emotional stability, and with [[Corrected Inwardness]] when the cure treats ordinary personhood as the disease.

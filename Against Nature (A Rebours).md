@@ -22,6 +22,8 @@ Des Esseintes leaves society and constructs a controlled environment around his 
 
 This makes the novel a central case of [[Aesthetic Self-Enclosure]]. Beauty and artifice no longer open the world; they build a chamber around the self.
 
+It also gives a deliberate decadent form of [[Bovarysme]]. Where Emma Bovary suffers because ordinary life will not become the romance she has imagined, des Esseintes actively constructs the artificial world that will replace ordinary life.
+
 ## Artificial Sensation
 
 The novel's famous details matter because they are not simply decorative. Flowers, perfumes, jewels, interiors, books, and liturgical fragments become instruments for producing states of consciousness.

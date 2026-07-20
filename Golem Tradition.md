@@ -12,3 +12,5 @@ In this vault, the concept is useful for works where artificial life is not mere
 When the made figure is specifically a woman-shaped substitute or copy, the more precise hub is [[Artificial Woman as Double]].
 
 *[[The Golem (Meyrink)]]* is the key modern literary anchor for the tradition in this vault because it treats the Golem not simply as an artificial servant, but as apparition, recurrence, and urban psychic form.
+
+*[[He, She and It]]* gives the cyberpunk form by placing the cyborg Yod beside the Jewish Golem story. The old questions of animation, protection, obedience, and responsibility return through artificial personhood.

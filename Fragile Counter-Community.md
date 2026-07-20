@@ -13,4 +13,6 @@ Use this link when a work opposes collapse through relation rather than through 
 
 In *[[The Lord of the Rings]]*, the Fellowship's bonds continue to act even after the Company breaks. In *[[That Hideous Strength]]*, St. Anne's is a counter-institution ordered by hospitality and obedience rather than domination. In *[[It (Stephen King)]]*, the Losers resist Derry's forgetting through shared memory and trust. In *[[Final Fantasy VI]]*, the World of Ruin is answered by gathering scattered persons back into relation.
 
+*[[He, She and It]]* gives the cyberpunk free-town form: an imperfect community resists corporate enclave life through memory, ritual, family, craft, and mutual defense.
+
 This concept should stay distinct from [[Abolition of Separateness]]. Counter-community does not abolish separateness in order to make unity; it preserves persons by placing them in truthful relation.

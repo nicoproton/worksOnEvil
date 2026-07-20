@@ -18,3 +18,9 @@ In *[[EarthBound]]*, Giygas and the Evil Mani Mani spread corruption through psy
 The concept often connects to [[Privatio Boni]], but not automatically. Psychic contagion fits privation when it twists existing loves, fears, and longings into destructive forms rather than appearing as an independent evil substance.
 
 Stephen King's vampire and vampire-like works make this communal. In *[[Salem's Lot]]*, vampirism spreads through a town already weakened by hidden disorder; in *[[It (Stephen King)]]*, fear and forgetting become part of Derry's civic atmosphere.
+
+*[[Paranoia Agent]]* gives the motif a modern urban-media form. Lil' Slugger grows through pressure, rumor, shame, and the desire for escape; the attacker becomes real because the city keeps needing him.
+
+*[[Pulse (Kairo)]]* gives the networked-loneliness form. The haunting spreads less like a monster attack than like despair finding channels through screens, rooms, and already-isolated lives.
+
+*[[Twin Peaks]]* gives a more supernatural and therefore qualified form. BOB and the lodge mythology should not be reduced to psychology, but the evil spreads through hosts, families, rooms, desire, fear, and secrecy. The concept fits as a bridge because the work shows evil finding openings in already-wounded persons and communities.

@@ -28,6 +28,8 @@ Lord Henry Wotton is one of the strongest examples of [[Corrupting Guide]] in th
 
 The guidance works because it attaches itself to real goods. Beauty, youth, pleasure, and individuality are not nothing. Lord Henry corrupts Dorian by teaching him to love those goods as absolutes, detached from truth, responsibility, repentance, and love of other persons.
 
+That gives the novel a strong literary form of [[Conscience Detached from Truth]]. Dorian is not merely tempted to break rules; he is taught to regard conscience as an obstacle to authenticity, youth, and sensation. The portrait then becomes the hidden place where the truth of conscience remains visible after Dorian's public self has learned to ignore it.
+
 ## Beauty Turned Inward
 
 Dorian's fall is a concentrated case of [[Aesthetic Self-Enclosure]]. He tries to make life itself into an artwork, but the artwork becomes a sealed chamber for self-worship. He seeks rare sensations and beautiful surfaces while becoming less capable of receiving another person as real.
@@ -43,6 +45,8 @@ After Sibyl Vane's death, Lord Henry sends Dorian a French novel bound in yellow
 The direct link matters because the relationship is not only thematic. Dorian's yellow book becomes a corrupting text inside the plot, shaping his imagination of decadent life. It gives him a pattern for treating experience as something to collect, arrange, and intensify without asking what kind of person he is becoming.
 
 The book is therefore an extension of Lord Henry's influence. Aphorism becomes atmosphere; temptation becomes lifestyle.
+
+This also places Dorian in the line of [[Bovarysme]], though in a darker and more self-conscious form than *[[Madame Bovary]]*. A book does not merely entertain him; it teaches him how to imagine himself, and then how to make life imitate that imagined self.
 
 Behind that yellow book stands the wider decadent inheritance of *[[Les Fleurs du mal]]*: beauty, sin, artificial sensation, and spiritual exhaustion become joined so closely that Dorian can mistake intensity for depth.
 

@@ -31,4 +31,6 @@ Use this link when:
 
 *[[Wasteland]]* gives the early game form through military AI, robots, and postwar machine inheritance. *[[Fallout]]* gives the biological and eugenic game form through FEV, the Master, Unity, and the Enclave.
 
+*[[The Thanatos Syndrome]]* is a domestic medical neighbor rather than a post-apocalyptic case. Its experts do not rebuild after catastrophe, but they still treat persons as material for scientific correction, population management, and selective mercy.
+
 This concept overlaps with [[Designed Successor Humanity]] when science seeks to replace old humanity, with [[Purification by Exclusion]] when the saved future requires removing the impure or obsolete, and with [[Fallen High Civilization]] when the laboratories are ruins of a technically advanced order that failed morally before it fell.

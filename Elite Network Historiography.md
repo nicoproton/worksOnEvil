@@ -28,3 +28,5 @@ Use this link for historical or fictional works where power moves through elite 
 Media and public-relations works such as *[[Propaganda (Bernays)]]* and *[[Crystallizing Public Opinion]]* show how elite networks can exercise influence through trusted institutions, experts, associations, and staged public meaning.
 
 Wells's *[[The Open Conspiracy]]* is important because it imagines elite coordination openly rather than secretly: scientists, educators, and world citizens organizing a planetary future.
+
+Coudenhove-Kalergi's *[[Practical Idealism]]* belongs nearby as an open elite-forming program rather than as a simple conspiracy node. Its later reception is often conspiratorial, but the book itself is more useful as evidence of how interwar idealists imagined a visible spiritual, intellectual, and political elite capable of guiding Europe beyond nationalism.

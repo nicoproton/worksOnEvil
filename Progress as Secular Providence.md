@@ -24,7 +24,29 @@ Thomas Paine's *[[Common Sense]]* and *[[Rights of Man]]* give the public revolu
 
 Comte's *[[Catechism of Positive Religion]]* gives a later religious form. Progress is no longer only historical hope; it becomes part of a positivist moral order centered on Humanity.
 
+[[Dogmatic Relativism]] is a theological limit case rather than a normal progress narrative. It appears when historical development or the needs of the age become judges over doctrine itself, so that revelation must be continually re-expressed under newer philosophical fashions.
+
+[[Secular State Supremacy]] is the political limit case. In *[[Quanta Cura]]* and the *[[Syllabus of Errors]]*, Pius IX rejects progress when it means that civil society, public opinion, or modern liberal civilization becomes judge over religion, education, marriage, and the Church's public authority.
+
+*[[Spe Salvi]]* gives the clearest Catholic theology of this concept. Benedict XVI argues that modernity displaced Christian hope into faith in progress, first through science and practical power, then through political revolution and social structures meant to redeem man from outside.
+
+Etienne Gilson's [[Secularized City of God]] gives a historical-philosophical neighbor. The problem is not only that progress replaces providence, but that the Christian shape of salvation-history can survive as an immanent city-building project after its theological center is displaced.
+
+Christopher Dawson's *[[Progress and Religion]]* gives the Catholic historical form. Dawson treats progress not only as improvement, but as a civilizational faith that can take over religious functions by giving history direction, judgment, and future redemption.
+
+Dawson's *[[The Gods of Revolution]]* gives the revolutionary replacement form. Revolution can create new sacred objects and futures, turning reason, humanity, nation, class, or history into powers that judge and redeem.
+
+*[[The Movement of World Revolution]]* gives the global revolutionary form. The future is no longer only national reform, but world-historical transformation organized through movement, ideology, education, and international allegiance.
+
+Henri de Lubac's *[[The Drama of Atheist Humanism]]* gives the anti-theistic form. Comte, Marx, and Nietzsche do not merely deny doctrines; they try to recover man by removing God, turning history, humanity, or self-overcoming into a substitute horizon of meaning.
+
+Augusto Del Noce's *[[The Problem of Atheism]]* gives the philosophical-history problem behind this pattern. Atheism often presents itself as the necessary maturity of modern reason, but Del Noce argues that this "necessity" is itself a contested interpretation of history.
+
+Del Noce's *[[The Age of Secularization]]* gives the postwar form. Progress survives less as heroic revolution than as scientistic, permissive, affluent culture: the future still judges the past, but the promised redemption may become comfort without truth.
+
 Robert Owen's *[[A New View of Society]]* gives the environmental-reform form: humanity improves as circumstances are rationally remade. *[[The Book of the New Moral World]]* expands that principle toward a complete social vision.
+
+Saint-Simon's *[[The Industrial System]]* and *[[The New Christianity]]* give the industrial-religious form: progress is imagined through productive organization, science, industry, and moral concern for the poorest.
 
 The art branch complicates the concept. Courbet's *[[The Realist Manifesto (Courbet)]]* imagines progress as fidelity to contemporary reality, Morris's *[[Useful Work versus Useless Toil]]* imagines it as restored craft and meaningful labor, and Marinetti's *[[The Futurist Manifesto]]* imagines it as violent rupture with the past.
 

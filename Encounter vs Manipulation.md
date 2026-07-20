@@ -25,4 +25,6 @@ Use this link when:
 
 *[[That Hideous Strength]]* is the central Lewisian case. Belbury analyzes, conditions, recruits, and uses people; St. Anne's receives, waits, feeds, listens, and obeys. The title of Lewis's chapter "Real Life is Meeting" captures the counter-principle.
 
+Romano Guardini's *[[The World and the Person]]* gives a Catholic anthropological neighbor. Personhood cannot be understood by treating the human being first as object, case, material, or function; the person must be encountered as someone with freedom, inwardness, and destiny.
+
 This bridge overlaps with [[Embodied Relation]], but it is more directly about moral stance. Embodied Relation emphasizes bodily vulnerability and presence; Encounter vs Manipulation emphasizes whether another person is met as someone or processed as something.

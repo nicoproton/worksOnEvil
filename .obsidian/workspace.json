@@ -4,17 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd544f66b3d83ea",
+        "id": "e78a0245a032506a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4344196b33080c",
+            "id": "3ee014c209982abb",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "ba6a9851ecdbf6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture and the Crisis of Modern Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture and the Crisis of Modern Science"
+            }
+          },
+          {
+            "id": "147b96ecc49d5156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Style and Epoch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Style and Epoch"
+            }
+          },
+          {
+            "id": "00d8debab1100ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inland Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inland Empire"
             }
           }
         ]
@@ -49,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +112,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "ed9db30fa32f0de3",
@@ -177,34 +218,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd4344196b33080c",
+  "active": "3ee014c209982abb",
   "lastOpenFiles": [
-    "Ratner's Star.md",
-    "The Shockwave Rider.md",
-    "The Sirens of Titan.md",
-    "Player Piano.md",
-    "The Three Stigmata of Palmer Eldritch.md",
-    "Nova Express.md",
-    "The Ticket That Exploded.md",
-    "The Atrocity Exhibition.md",
-    "Cat's Cradle.md",
-    "Camp Concentration.md",
-    "The Penultimate Truth.md",
-    "Dr. Bloodmoney.md",
-    "Mad Max 2.md",
-    "Wasteland.md",
-    "Fallout.md",
-    "I Have No Mouth, and I Must Scream.md",
-    "Colossus - The Forbin Project.md",
-    "Second Variety.md",
-    "The Shape of Things to Come.md",
-    "Sterile Scientific Salvation.md",
-    "That Hideous Strength.md",
-    "The Painter of Modern Life.md",
-    "Metropolis (Novel).md",
-    "The Age of Reason.md",
-    "Rights of Man.md",
-    "Common Sense.md",
+    "Lay People in the Church.md",
+    "Tradition and Traditions.md",
+    "True and False Reform in the Church.md",
+    "Lay Vocation.md",
+    "Living Tradition.md",
+    "Reform Without Rupture.md",
+    "Reason and Revelation in the Middle Ages.md",
+    "The Metamorphoses of the City of God.md",
+    "Being and Some Philosophers.md",
+    "The Unity of Philosophical Experience.md",
+    "The Spirit of Medieval Philosophy.md",
+    "Secularized City of God.md",
+    "Metaphysical Realism.md",
+    "Christian Philosophy.md",
+    "Medieval Exegesis.md",
+    "The Splendor of the Church.md",
+    "Corpus Mysticum.md",
+    "Surnaturel.md",
+    "Catholicism (de Lubac).md",
+    "Spiritual Sense of Scripture.md",
+    "Ecclesial Communion.md",
+    "Supernatural End of Man.md",
+    "Die Macht.md",
+    "Power and Responsibility.md",
+    "The World and the Person.md",
+    "Sacred Signs.md",
+    "Clippings",
     "Shin Megami Tensei III_ Nocturne (Video Game).md~",
     "Shin Megami Tensei IV (Video Game).md~",
     "Digimon (Franchise).md~",
@@ -213,7 +255,6 @@
     "Infinite Jest (Book).md~",
     "Blood Meridian (Book).md~",
     "Fight Club (Book).md~",
-    "Taxi Driver (Movie).md~",
-    "The Shadow Out of Time (Lovecraft).md~"
+    "Taxi Driver (Movie).md~"
   ]
 }

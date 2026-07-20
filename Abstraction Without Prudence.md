@@ -22,3 +22,13 @@ Use this link when the harm comes through a rational form that is internally coh
 *[[The Machine Stops]]* gives the disembodied comfort form. Rationalized mediation makes embodied life appear inefficient, embarrassing, and almost irrational.
 
 *[[Cat's Cradle]]* gives the scientific-discovery form: ice-nine is elegant, technically astonishing, and catastrophic because invention outruns prudence. *[[Player Piano]]* gives the social-administrative form, where tests, machines, and managerial classification replace the concrete dignity of work. *[[Ratner's Star]]* gives the comic research-institute form, where mathematical brilliance does not automatically become wisdom.
+
+*[[A City is Not a Tree]]* gives the urban-design form: a clean hierarchical model of the city can be internally clear while destroying the overlapping relations through which actual city life works.
+
+*[[A Pattern Language]]* is a corrective case. It uses abstraction, but as pattern-guided prudence rather than master-plan command: the abstract pattern is meant to return judgment to users, builders, and local situations.
+
+*[[Seeing Like a State]]* gives the administrative form. State maps, measures, names, surveys, forests, and planned settlements can make reality governable, but they become dangerous when the simplified image overrides local practical knowledge.
+
+*[[Architecture and the Crisis of Modern Science]]* gives the architectural-historical form. Geometry, measurement, mechanics, and representation become dangerous not because they are false, but because they can monopolize architectural truth and make symbolic, poetic, and dwelling-oriented knowledge appear illegitimate.
+
+Josef Pieper's *[[In Defense of Philosophy]]* is a philosophical counterpoint. It does not reject abstraction, but insists that method must not replace wisdom or the openness of reason to the whole of reality.

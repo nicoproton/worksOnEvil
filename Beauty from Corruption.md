@@ -23,9 +23,13 @@ Use this link when:
 - a work treats evil as fascinating because it parasitizes real goods;
 - decadence is not only moral decline, but a style that turns decline into art.
 
-*[[Les Fleurs du mal]]* is the central poetic case: Baudelaire makes flowers from evil without making evil innocent. *[[Paris Spleen]]* carries the same problem into urban fragments, where modern misery becomes poetic material. *[[Against Nature (A Rebours)]]* gives the enclosed decadent form, where damaged experience is refined into private sensation. *[[The Picture of Dorian Gray]]* gives the narrative moral form, where beauty remains visible while corruption is displaced into the hidden portrait. *[[La-bas (Down There)]]* and *[[Les Chants de Maldoror]]* mark two darker exits from the pattern: occult inversion and metaphysical revolt.
+*[[Les Fleurs du mal]]* is the central poetic case: Baudelaire makes flowers from evil without making evil innocent. *[[Paris Spleen]]* carries the same problem into urban fragments, where modern misery becomes poetic material. *[[Against Nature (A Rebours)]]* gives the enclosed decadent form, where damaged experience is refined into private sensation. *[[The Picture of Dorian Gray]]* gives the narrative moral form, where beauty remains visible while corruption is displaced into the hidden portrait. *[[The Torture Garden]]* gives the cruel-decadent form, where cultivated beauty and spectacle intensify rather than redeem violence. *[[La-bas (Down There)]]* and *[[Les Chants de Maldoror]]* mark two darker exits from the pattern: occult inversion and metaphysical revolt.
 
 *[[The Painter of Modern Life]]* gives Baudelaire's art-theoretical version. Modern fashion, artificiality, crowds, and urban surfaces become material for beauty without ceasing to belong to a damaged modern world.
+
+*[[Helter Skelter (Okazaki)]]* gives the celebrity-body version. Beauty remains socially powerful, but it is produced through bodily damage, media appetite, and fear of replacement.
+
+*[[Dorohedoro]]* gives a grotesque urban-fantasy version. Its beauty is not polished decadence but pleasure in grime, masks, food, altered bodies, sorcerer smoke, and violent absurdity.
 
 This bridge can touch [[Privatio Boni]], but it should do so carefully. The connection is strongest when the work presents evil as parasitic on beauty, desire, language, or life. If a work treats evil as a positive rival substance, use [[Manichaeism and Zoroastrianism]] or [[Gnosticism and its Critics]] instead.
 
